@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (4L)"
+    start_year: 2005
+    end_year: 2015
+    description: "The original Audi Q7 was the brand's first SUV, built on the Volkswagen Group MLB platform. It was a full-size, seven-seat luxury SUV featuring Audi's quattro all-wheel drive system. Engine options included V6 and V8 TFSI petrol and TDI diesel units, plus a limited-production V12 TDI with 500 HP that was the most powerful diesel SUV of its time. A facelift in 2009 updated the styling and technology offerings. The first-generation Q7 established Audi in the luxury SUV segment, combining practicality with the brand's premium quality and advanced technology."
+
+  - name: "Second Generation (4M)"
+    start_year: 2015
+    end_year: null
+    description: "Built on the updated MLB Evo platform, the second-generation Q7 is significantly lighter than its predecessor due to extensive use of aluminum and high-strength steel. It features a more sophisticated design with sharper lines and a more imposing presence. The interior represents a significant upgrade with available virtual cockpit digital instrumentation and a dual-screen MMI touch system (after the 2019 facelift). Engine options include V6 and V8 TFSI petrol and TDI diesel units, plus plug-in hybrid variants (Q7 TFSI e) and the performance-oriented SQ7 with a V8 TDI or TFSI engine depending on the market. A major facelift in 2019 aligned the styling with Audi's latest design language and updated the technology offerings. The Q7 continues to be Audi's largest SUV (alongside the Q8), offering luxurious seven-seat practicality with advanced technology and refined driving dynamics."

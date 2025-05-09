@@ -1,0 +1,14 @@
+command_id: 710.77A.222AB8
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    77A100B622AB8026200
+    77A210000000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 30.49884
+- response: |-
+    77A100B622AB8027A00
+    77A210000000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 31.69879

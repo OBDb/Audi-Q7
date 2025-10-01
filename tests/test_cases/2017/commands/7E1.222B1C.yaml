@@ -4,8 +4,8 @@ test_cases:
     AUDI_TIRE_FR_SPD_V2: 0
   response: 7E905622B1C0000
 - expected_values:
-    AUDI_TIRE_FR_SPD_V2: 25.4
-  response: 7E905622B1C00FE
+    AUDI_TIRE_FR_SPD_V2: 102.3
+  response: 7E905622B1C03FF
 - expected_values:
-    AUDI_TIRE_FR_SPD_V2: 128.2
-  response: 7E905622B1C0502
+    AUDI_TIRE_FR_SPD_V2: 129.7
+  response: 7E905622B1C0511

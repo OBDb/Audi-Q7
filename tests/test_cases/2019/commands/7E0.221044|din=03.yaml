@@ -4,8 +4,8 @@ test_cases:
     AUDI_DPF_SFC_T: -273.1
   response: '7E8056210440000'
 - expected_values:
-    AUDI_DPF_SFC_T: 6273
-  response: 7E805621044FFB5
+    AUDI_DPF_SFC_T: 6262.6
+  response: 7E805621044FF4D
 - expected_values:
     AUDI_DPF_SFC_T: 6280.2
   response: 7E805621044FFFD

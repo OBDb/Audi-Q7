@@ -4,5 +4,5 @@ test_cases:
     AUDI_ODO: 46618
   response: 7E80662295A00B61A
 - expected_values:
-    AUDI_ODO: 46722
-  response: 7E80662295A00B682
+    AUDI_ODO: 46754
+  response: 7E80662295A00B6A2

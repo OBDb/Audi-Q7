@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 319100
   response: 7E80562121F0C77
+- expected_values:
+    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 319200
+  response: 7E80562121F0C78
+- expected_values:
+    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 319300
+  response: 7E80562121F0C79
+- expected_values:
+    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 319400
+  response: 7E80562121F0C7A

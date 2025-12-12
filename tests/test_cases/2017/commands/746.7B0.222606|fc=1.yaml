@@ -1,0 +1,22 @@
+command_id: 746.7B0.222606|fc=1
+test_cases:
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 0
+    AUDI_HVAC_FAN1_ACT: 11
+  response: 7B005622606006E
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 0
+    AUDI_HVAC_FAN1_ACT: 12
+  response: 7B0056226060078
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 0
+    AUDI_HVAC_FAN1_ACT: 13
+  response: 7B0056226060082
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 0
+    AUDI_HVAC_FAN1_ACT: 14
+  response: 7B005622606008C
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 0
+    AUDI_HVAC_FAN1_ACT: 16
+  response: 7B00562260600A0

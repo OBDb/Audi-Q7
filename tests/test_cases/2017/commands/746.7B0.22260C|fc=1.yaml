@@ -2,25 +2,7 @@ command_id: 746.7B0.22260C|fc=1
 test_cases:
 - expected_values:
     AUDI_CLIMATE_FR_L_DEFL_T: 0.333
-  response: 7B00562260C0150
+  response: 7B00562260C0149
 - expected_values:
     AUDI_CLIMATE_FR_L_DEFL_T: 0.333
-  response: 7B00562260C0156
-- expected_values:
-    AUDI_CLIMATE_FR_L_DEFL_T: 0.333
-  response: 7B00562260C015A
-- expected_values:
-    AUDI_CLIMATE_FR_L_DEFL_T: 0.333
-  response: 7B00562260C015B
-- expected_values:
-    AUDI_CLIMATE_FR_L_DEFL_T: 0.333
-  response: 7B00562260C015C
-- expected_values:
-    AUDI_CLIMATE_FR_L_DEFL_T: 0.333
-  response: 7B00562260C015D
-- expected_values:
-    AUDI_CLIMATE_FR_L_DEFL_T: 0.333
-  response: 7B00562260C015F
-- expected_values:
-    AUDI_CLIMATE_FR_L_DEFL_T: 0.333
-  response: 7B00562260C0160
+  response: 7B00562260C019F

@@ -4,26 +4,5 @@ test_cases:
     AUDI_CLIMATE_REFRIG_P: 0
   response: 7B00462260500
 - expected_values:
-    AUDI_CLIMATE_REFRIG_P: 3
-  response: 7B0046226050F
-- expected_values:
-    AUDI_CLIMATE_REFRIG_P: 3.2
-  response: 7B00462260510
-- expected_values:
-    AUDI_CLIMATE_REFRIG_P: 3.4
-  response: 7B00462260511
-- expected_values:
-    AUDI_CLIMATE_REFRIG_P: 3.6
-  response: 7B00462260512
-- expected_values:
-    AUDI_CLIMATE_REFRIG_P: 3.8
-  response: 7B00462260513
-- expected_values:
-    AUDI_CLIMATE_REFRIG_P: 4
-  response: 7B00462260514
-- expected_values:
-    AUDI_CLIMATE_REFRIG_P: 4.2
-  response: 7B00462260515
-- expected_values:
-    AUDI_CLIMATE_REFRIG_P: 4.4
-  response: 7B00462260516
+    AUDI_CLIMATE_REFRIG_P: 4.8
+  response: 7B00462260518

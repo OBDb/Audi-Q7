@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    AUDI_EOT_V2: 2784
-  response: 7E8056211BE0AE0
+    AUDI_EOT_V2: 2739
+  response: 7E8056211BE0AB3
 - expected_values:
     AUDI_EOT_V2: 3071
   response: 7E8056211BE0BFF
@@ -10,5 +10,5 @@ test_cases:
     AUDI_EOT_V2: 3328
   response: 7E8056211BE0D00
 - expected_values:
-    AUDI_EOT_V2: 3588
-  response: 7E8056211BE0E04
+    AUDI_EOT_V2: 3841
+  response: 7E8056211BE0F01

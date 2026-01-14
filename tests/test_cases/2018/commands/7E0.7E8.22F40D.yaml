@@ -4,5 +4,5 @@ test_cases:
     AUDI_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    AUDI_VSS: 110
-  response: 7E80462F40D6E
+    AUDI_VSS: 172
+  response: 7E80462F40DAC

@@ -5,38 +5,6 @@ test_cases:
     AUDI_DASH_AMBIENT_AIR_T: -5
   response: 77E046210145A
 - expected_values:
-    AUDI_AAT: 41
-    AUDI_DASH_AMBIENT_AIR_T: -4.5
-  response: 77E046210145B
-- expected_values:
-    AUDI_AAT: 42
-    AUDI_DASH_AMBIENT_AIR_T: -4
-  response: 77E046210145C
-- expected_values:
-    AUDI_AAT: 43
-    AUDI_DASH_AMBIENT_AIR_T: -3.5
-  response: 77E046210145D
-- expected_values:
-    AUDI_AAT: 44
-    AUDI_DASH_AMBIENT_AIR_T: -3
-  response: 77E046210145E
-- expected_values:
-    AUDI_AAT: 45
-    AUDI_DASH_AMBIENT_AIR_T: -2.5
-  response: 77E046210145F
-- expected_values:
-    AUDI_AAT: 46
-    AUDI_DASH_AMBIENT_AIR_T: -2
-  response: '77E0462101460'
-- expected_values:
-    AUDI_AAT: 47
-    AUDI_DASH_AMBIENT_AIR_T: -1.5
-  response: '77E0462101461'
-- expected_values:
-    AUDI_AAT: 49
-    AUDI_DASH_AMBIENT_AIR_T: -0.5
-  response: '77E0462101463'
-- expected_values:
-    AUDI_AAT: 50
-    AUDI_DASH_AMBIENT_AIR_T: 0
-  response: '77E0462101464'
+    AUDI_AAT: 52
+    AUDI_DASH_AMBIENT_AIR_T: 1
+  response: '77E0462101466'

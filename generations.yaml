@@ -5,14 +5,24 @@ generations:
   - name: "First Generation (4L)"
     start_year: 2006
     end_year: 2015
-    description: "The original Audi Q7 was the brand's first SUV, built on the Volkswagen Group MLB platform. It was a full-size, seven-seat luxury SUV featuring Audi's quattro all-wheel drive system. Engine options included V6 and V8 TFSI petrol and TDI diesel units, plus a limited-production V12 TDI with 500 HP that was the most powerful diesel SUV of its time. A facelift in 2009 updated the styling and technology offerings. The first-generation Q7 established Audi in the luxury SUV segment, combining practicality with the brand's premium quality and advanced technology."
+    description: "The original Audi Q7 was the brand's first SUV, built on the Volkswagen Group PL71 platform. It was a full-size, seven-seat luxury SUV featuring Audi's quattro all-wheel drive system. Engine options included V6 and V8 TFSI petrol and TDI diesel units, plus a limited-production V12 TDI with 500 HP that was the most powerful diesel SUV of its time. The first-generation Q7 established Audi in the luxury SUV segment, combining practicality with the brand's premium quality and advanced technology."
 
   - name: "Second Generation (4M)"
     start_year: 2016
-    end_year: null
-    description: "Built on the updated MLB Evo platform, the second-generation Q7 was unveiled in January 2015 and entered production in May 2015. It is significantly lighter than its predecessor due to extensive use of aluminum and high-strength steel. The design features sharper lines and a more imposing presence. The interior represents a significant upgrade with available virtual cockpit digital instrumentation and a dual-screen MMI touch system. Engine options include V6 and V8 TFSI petrol and TDI diesel units, plus plug-in hybrid variants (Q7 TFSI e and Q7 e-tron TDI) and the performance-oriented SQ7 with a V8 TDI or TFSI engine depending on the market. The generation received a major facelift in 2020 (for 2020 model year) introducing revised styling including redesigned grille, bumpers, and new infotainment system, followed by a second facelift in 2024 (for 2025 model year) with enhanced headlight design. The Q7 continues to be Audi's largest SUV (alongside the Q8), offering luxurious seven-seat practicality with advanced technology and refined driving dynamics."
+    end_year: 2019
+    description: "Built on the Volkswagen Group MLB Evo platform, the second-generation Q7 was unveiled in January 2015 at the North American International Auto Show and entered production in May 2015. It is significantly lighter than its predecessor due to extensive use of aluminum and high-strength steel. The design features sharper lines and a more imposing presence. The interior represents a significant upgrade with available virtual cockpit digital instrumentation and a dual-screen MMI touch system. Engine options include V6 and V8 TFSI petrol and TDI diesel units, plus plug-in hybrid variants (Q7 TFSI e and Q7 e-tron TDI) and the performance-oriented SQ7 with a V8 TDI or TFSI engine depending on the market."
 
-  - name: "Third Generation (4W)"
+  - name: "Second Generation (4M) 2020 Facelift"
+    start_year: 2020
+    end_year: 2024
+    description: "The Q7 received a major facelift for the 2020 model year, introducing styling tweaks such as a redesigned grille, front and rear bumpers, new side sills, chrome trim for the tailgate and revised exhaust tips. The interior was significantly updated with a new infotainment system featuring dual touchscreens and revised dashboard and centre console. LED headlights became standard with Matrix LEDs or HD Matrix LEDs and Audi Laser Light offered as options. Air suspension was included as standard, and a new active roll-stabilisation system was introduced. Three mild-hybrid 3.0-litre V6 powertrains became available."
+
+  - name: "Second Generation (4M) 2025 Facelift"
+    start_year: 2025
+    end_year: null
+    description: "Audi announced a second facelift in January 2024 for the 2025 model year, introducing further enhancements to the front and rear headlight design. The update features HD Matrix LED headlights with Laser high-beam and OLED rear lights with a new design. This represents the final iteration of the MLB Evo platform generation."
+
+  - name: "Third Generation (Premium Platform Combustion)"
     start_year: 2026
     end_year: null
-    description: "The third-generation Audi Q7 represents a comprehensive redesign set to debut in early 2026. Built on an updated platform, it continues the seven-seat luxury SUV segment positioning. The new Q7 will feature Audi's latest design language and technology, with enhanced efficiency and performance. Engine options will include petrol, diesel, and hybrid variants, maintaining the model's reputation as a flagship luxury SUV. The third generation emphasizes modernization while preserving the Q7's established luxury and practicality."
+    description: "The third-generation Audi Q7 represents a comprehensive redesign set to debut in early 2026. Built on the new Premium Platform Combustion (PPC), it continues the seven-seat luxury SUV segment positioning. The new Q7 will feature Audi's latest design language and technology, with enhanced efficiency and performance. Engine options will include petrol, diesel, and hybrid variants, maintaining the model's reputation as a flagship luxury SUV."

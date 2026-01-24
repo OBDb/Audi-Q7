@@ -9,8 +9,8 @@ generations:
 
   - name: "Second Generation (4M)"
     start_year: 2016
-    end_year: 2025
-    description: "Built on the updated MLB Evo platform, the second-generation Q7 is significantly lighter than its predecessor due to extensive use of aluminum and high-strength steel. It features a more sophisticated design with sharper lines and a more imposing presence. The interior represents a significant upgrade with available virtual cockpit digital instrumentation and a dual-screen MMI touch system (after the 2019 facelift). Engine options include V6 and V8 TFSI petrol and TDI diesel units, plus plug-in hybrid variants (Q7 TFSI e) and the performance-oriented SQ7 with a V8 TDI or TFSI engine depending on the market. A major facelift in 2019 aligned the styling with Audi's latest design language and updated the technology offerings. The Q7 continues to be Audi's largest SUV (alongside the Q8), offering luxurious seven-seat practicality with advanced technology and refined driving dynamics."
+    end_year: null
+    description: "Built on the updated MLB Evo platform, the second-generation Q7 was unveiled in January 2015 and entered production in May 2015. It is significantly lighter than its predecessor due to extensive use of aluminum and high-strength steel. The design features sharper lines and a more imposing presence. The interior represents a significant upgrade with available virtual cockpit digital instrumentation and a dual-screen MMI touch system. Engine options include V6 and V8 TFSI petrol and TDI diesel units, plus plug-in hybrid variants (Q7 TFSI e and Q7 e-tron TDI) and the performance-oriented SQ7 with a V8 TDI or TFSI engine depending on the market. The generation received a major facelift in 2020 (for 2020 model year) introducing revised styling including redesigned grille, bumpers, and new infotainment system, followed by a second facelift in 2024 (for 2025 model year) with enhanced headlight design. The Q7 continues to be Audi's largest SUV (alongside the Q8), offering luxurious seven-seat practicality with advanced technology and refined driving dynamics."
 
   - name: "Third Generation (4W)"
     start_year: 2026

@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.22121E
-test_cases:
-- expected_values:
-    AUDI_SPEC_VALUE_RAIL_P: 84600
-  response: 7E80562121E034E
-- expected_values:
-    AUDI_SPEC_VALUE_RAIL_P: 86900
-  response: 7E80562121E0365

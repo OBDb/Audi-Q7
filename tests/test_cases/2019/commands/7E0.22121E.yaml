@@ -1,0 +1,8 @@
+command_id: 7E0.22121E
+test_cases:
+- expected_values:
+    AUDI_PQ35_FUEL_P_REG_SPEC: 84600
+  response: 7E80562121E034E
+- expected_values:
+    AUDI_PQ35_FUEL_P_REG_SPEC: 86900
+  response: 7E80562121E0365

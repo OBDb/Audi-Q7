@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221044|din=03
+test_cases:
+- expected_values:
+    AUDI_PQ35_DPF_SURF_T: -273.1
+  response: '7E8056210440000'
+- expected_values:
+    AUDI_PQ35_DPF_SURF_T: -272.8
+  response: '7E8056210440003'
+- expected_values:
+    AUDI_PQ35_DPF_SURF_T: -270.5
+  response: 7E805621044001A
+- expected_values:
+    AUDI_PQ35_DPF_SURF_T: 6264.6
+  response: 7E805621044FF61
+- expected_values:
+    AUDI_PQ35_DPF_SURF_T: 6279.7
+  response: 7E805621044FFF8

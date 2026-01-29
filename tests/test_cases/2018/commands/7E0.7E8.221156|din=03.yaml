@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221156|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+    AUDI_PQ35_DIST_LAST_REGEN: 0.506
+  response: 7E807621156000001FA
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+    AUDI_PQ35_DIST_LAST_REGEN: 43.007
+  response: 7E8076211560000A7FF
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+    AUDI_PQ35_DIST_LAST_REGEN: 64
+  response: 7E8076211560000FA00
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+    AUDI_PQ35_DIST_LAST_REGEN: 65.287
+  response: 7E8076211560000FF07
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+    AUDI_PQ35_DIST_LAST_REGEN: 131.075
+  response: '7E80762115600020003'
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+    AUDI_PQ35_DIST_LAST_REGEN: 262.959
+  response: 7E8076211560004032F

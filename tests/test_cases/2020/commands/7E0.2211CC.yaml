@@ -1,6 +1,10 @@
 command_id: 7E0.2211CC
 test_cases:
 - expected_values:
+    AUDI_BOOST_REGULATOR_FEEDBACK: 65.5
+    AUDI_PQ35_BOOST_REG_FDBK: 65.5
+  response: 7E8056211CC1996
+- expected_values:
     AUDI_BOOST_REGULATOR_FEEDBACK: 65.51
     AUDI_PQ35_BOOST_REG_FDBK: 65.51
   response: 7E8056211CC1997

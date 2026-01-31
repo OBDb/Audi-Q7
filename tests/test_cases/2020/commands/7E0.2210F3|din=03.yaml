@@ -10,5 +10,14 @@ test_cases:
     AUDI_PQ35_DPF_DIFF_P_2: 7
   response: 7E8056210F30007
 - expected_values:
+    AUDI_PQ35_DPF_DIFF_P_2: 12
+  response: 7E8056210F3000C
+- expected_values:
+    AUDI_PQ35_DPF_DIFF_P_2: 15
+  response: 7E8056210F3000F
+- expected_values:
+    AUDI_PQ35_DPF_DIFF_P_2: 27
+  response: 7E8056210F3001B
+- expected_values:
     AUDI_PQ35_DPF_DIFF_P_2: 31
   response: 7E8056210F3001F

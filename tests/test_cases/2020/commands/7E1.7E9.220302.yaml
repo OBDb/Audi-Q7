@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_DRIVE_TIME: 1483
   response: 7E905620302172C
+- expected_values:
+    AUDI_DRIVE_TIME: 1483.25
+  response: 7E905620302172D

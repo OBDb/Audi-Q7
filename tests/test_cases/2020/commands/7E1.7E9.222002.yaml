@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     AUDI_ENGINE_TORQUE__AT: 0
   response: '7E9056220020000'
+- expected_values:
+    AUDI_ENGINE_TORQUE__AT: 20
+  response: '7E9056220020014'
+- expected_values:
+    AUDI_ENGINE_TORQUE__AT: 290
+  response: '7E9056220020122'
+- expected_values:
+    AUDI_ENGINE_TORQUE__AT: 65506
+  response: 7E905622002FFE2

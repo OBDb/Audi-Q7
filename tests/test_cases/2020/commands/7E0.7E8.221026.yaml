@@ -4,8 +4,20 @@ test_cases:
     AUDI_MQB_MAF_1_B1_RAW: 0
   response: '7E8056210260000'
 - expected_values:
+    AUDI_MQB_MAF_1_B1_RAW: 207.2
+  response: '7E8056210260818'
+- expected_values:
     AUDI_MQB_MAF_1_B1_RAW: 221.1
   response: 7E80562102608A3
 - expected_values:
     AUDI_MQB_MAF_1_B1_RAW: 222.9
   response: 7E80562102608B5
+- expected_values:
+    AUDI_MQB_MAF_1_B1_RAW: 230.3
+  response: 7E80562102608FF
+- expected_values:
+    AUDI_MQB_MAF_1_B1_RAW: 254
+  response: 7E80562102609EC
+- expected_values:
+    AUDI_MQB_MAF_1_B1_RAW: 261.9
+  response: 7E8056210260A3B

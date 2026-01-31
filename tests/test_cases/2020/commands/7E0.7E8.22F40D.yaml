@@ -10,5 +10,14 @@ test_cases:
     AUDI_VSS: 27
   response: 7E80462F40D1B
 - expected_values:
+    AUDI_VSS: 33
+  response: 7E80462F40D21
+- expected_values:
+    AUDI_VSS: 39
+  response: 7E80462F40D27
+- expected_values:
+    AUDI_VSS: 41
+  response: 7E80462F40D29
+- expected_values:
     AUDI_VSS: 47
   response: 7E80462F40D2F

@@ -1,6 +1,18 @@
 command_id: 7E0.7E8.221626
 test_cases:
 - expected_values:
+    AUDI_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL: 25.8
+  response: 7E8056216260BAD
+- expected_values:
+    AUDI_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL: 27.7
+  response: 7E8056216260BC0
+- expected_values:
+    AUDI_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL: 31.6
+  response: 7E8056216260BE7
+- expected_values:
+    AUDI_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL: 37.4
+  response: 7E8056216260C21
+- expected_values:
     AUDI_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL: 51.3
   response: 7E8056216260CAC
 - expected_values:

@@ -4,8 +4,20 @@ test_cases:
     AUDI_PQ35_FUEL_P_HIGH: 7000
   response: '7E8056211690046'
 - expected_values:
+    AUDI_PQ35_FUEL_P_HIGH: 248600
+  response: 7E80562116909B6
+- expected_values:
     AUDI_PQ35_FUEL_P_HIGH: 251300
   response: 7E80562116909D1
 - expected_values:
+    AUDI_PQ35_FUEL_P_HIGH: 252700
+  response: 7E80562116909DF
+- expected_values:
     AUDI_PQ35_FUEL_P_HIGH: 254000
   response: 7E80562116909EC
+- expected_values:
+    AUDI_PQ35_FUEL_P_HIGH: 254700
+  response: 7E80562116909F3
+- expected_values:
+    AUDI_PQ35_FUEL_P_HIGH: 808300
+  response: 7E8056211691F93

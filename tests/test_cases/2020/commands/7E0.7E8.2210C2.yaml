@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2210C2
 test_cases:
 - expected_values:
+    AUDI_PQ35_EGR_DUTY: 16.47
+  response: 7E8056210C2066F
+- expected_values:
     AUDI_PQ35_EGR_DUTY: 20.48
   response: 7E8056210C20800
 - expected_values:
@@ -13,5 +16,11 @@ test_cases:
     AUDI_PQ35_EGR_DUTY: 53.51
   response: 7E8056210C214E7
 - expected_values:
+    AUDI_PQ35_EGR_DUTY: 55.95
+  response: 7E8056210C215DB
+- expected_values:
     AUDI_PQ35_EGR_DUTY: 65.77
   response: 7E8056210C219B1
+- expected_values:
+    AUDI_PQ35_EGR_DUTY: 77.46
+  response: 7E8056210C21E42

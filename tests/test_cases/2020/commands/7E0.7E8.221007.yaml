@@ -10,6 +10,15 @@ test_cases:
     AUDI_PQ35_CAMS_START: 1647
   response: 7E805621007202B
 - expected_values:
+    AUDI_PQ35_CAMS_START: 1647.2
+  response: 7E805621007202C
+- expected_values:
+    AUDI_PQ35_CAMS_START: 1647.8
+  response: 7E805621007202F
+- expected_values:
+    AUDI_PQ35_CAMS_START: 1649.8
+  response: '7E8056210072039'
+- expected_values:
     AUDI_PQ35_CAMS_START: 1650.4
   response: 7E805621007203C
 - expected_values:

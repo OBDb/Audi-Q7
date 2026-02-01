@@ -4,23 +4,5 @@ test_cases:
     AUDI_CLR_DIST: 3495
   response: 7E80562F4310DA7
 - expected_values:
-    AUDI_CLR_DIST: 3496
-  response: 7E80562F4310DA8
-- expected_values:
-    AUDI_CLR_DIST: 3502
-  response: 7E80562F4310DAE
-- expected_values:
-    AUDI_CLR_DIST: 3505
-  response: 7E80562F4310DB1
-- expected_values:
-    AUDI_CLR_DIST: 3506
-  response: 7E80562F4310DB2
-- expected_values:
-    AUDI_CLR_DIST: 3507
-  response: 7E80562F4310DB3
-- expected_values:
-    AUDI_CLR_DIST: 3508
-  response: 7E80562F4310DB4
-- expected_values:
-    AUDI_CLR_DIST: 3509
-  response: 7E80562F4310DB5
+    AUDI_CLR_DIST: 3514
+  response: 7E80562F4310DBA

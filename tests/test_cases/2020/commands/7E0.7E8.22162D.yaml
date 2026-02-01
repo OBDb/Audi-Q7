@@ -4,29 +4,8 @@ test_cases:
     AUDI_PQ35_FUEL_T: 25.1
   response: 7E80562162D0BA6
 - expected_values:
-    AUDI_PQ35_FUEL_T: 26.4
-  response: 7E80562162D0BB3
-- expected_values:
-    AUDI_PQ35_FUEL_T: 29.4
-  response: 7E80562162D0BD1
-- expected_values:
-    AUDI_PQ35_FUEL_T: 32.3
-  response: 7E80562162D0BEE
-- expected_values:
-    AUDI_PQ35_FUEL_T: 33.1
-  response: 7E80562162D0BF6
-- expected_values:
     AUDI_PQ35_FUEL_T: 34
   response: 7E80562162D0BFF
 - expected_values:
     AUDI_PQ35_FUEL_T: 36.7
   response: 7E80562162D0C1A
-- expected_values:
-    AUDI_PQ35_FUEL_T: 37.1
-  response: 7E80562162D0C1E
-- expected_values:
-    AUDI_PQ35_FUEL_T: 38.2
-  response: 7E80562162D0C29
-- expected_values:
-    AUDI_PQ35_FUEL_T: 39.4
-  response: 7E80562162D0C35

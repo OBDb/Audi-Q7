@@ -1,29 +1,11 @@
 command_id: 7E0.7E8.221044|din=03
 test_cases:
 - expected_values:
-    AUDI_PQ35_DPF_SURF_T: 70.8
-  response: 7E8056210440D6F
-- expected_values:
     AUDI_PQ35_DPF_SURF_T: 79.7
   response: 7E8056210440DC8
-- expected_values:
-    AUDI_PQ35_DPF_SURF_T: 102
-  response: 7E8056210440EA7
 - expected_values:
     AUDI_PQ35_DPF_SURF_T: 112.1
   response: 7E8056210440F0C
 - expected_values:
-    AUDI_PQ35_DPF_SURF_T: 115.8
-  response: 7E8056210440F31
-- expected_values:
-    AUDI_PQ35_DPF_SURF_T: 169.1
-  response: '7E8056210441146'
-- expected_values:
-    AUDI_PQ35_DPF_SURF_T: 214.5
-  response: 7E805621044130C
-- expected_values:
-    AUDI_PQ35_DPF_SURF_T: 219.8
-  response: '7E8056210441341'
-- expected_values:
-    AUDI_PQ35_DPF_SURF_T: 248.7
-  response: '7E8056210441462'
+    AUDI_PQ35_DPF_SURF_T: 248.4
+  response: 7E805621044145F

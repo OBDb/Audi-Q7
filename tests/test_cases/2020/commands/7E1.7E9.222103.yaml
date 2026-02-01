@@ -4,6 +4,9 @@ test_cases:
     AUDI_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 0
   response: '7E9056221030000'
 - expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 67
+  response: 7E905622103010C
+- expected_values:
     AUDI_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 754
   response: 7E9056221030BC8
 - expected_values:
@@ -15,3 +18,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 863
   response: 7E9056221030D7C
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 1072
+  response: 7E90562210310C0

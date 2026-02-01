@@ -4,6 +4,15 @@ test_cases:
     AUDI_SPEC_TORQUE_TRANSINT: 16
   response: '7E9056221100010'
 - expected_values:
+    AUDI_SPEC_TORQUE_TRANSINT: 19
+  response: '7E9056221100013'
+- expected_values:
+    AUDI_SPEC_TORQUE_TRANSINT: 21
+  response: '7E9056221100015'
+- expected_values:
+    AUDI_SPEC_TORQUE_TRANSINT: 116
+  response: '7E9056221100074'
+- expected_values:
     AUDI_SPEC_TORQUE_TRANSINT: 295
   response: '7E9056221100127'
 - expected_values:

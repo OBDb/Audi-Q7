@@ -7,6 +7,12 @@ test_cases:
     AUDI_PQ35_LIM_ACCEL_PED: 32
   response: 7E8056211A60140
 - expected_values:
+    AUDI_PQ35_LIM_ACCEL_PED: 80.7
+  response: 7E8056211A60327
+- expected_values:
+    AUDI_PQ35_LIM_ACCEL_PED: 148.8
+  response: 7E8056211A605D0
+- expected_values:
     AUDI_PQ35_LIM_ACCEL_PED: 184
   response: 7E8056211A60730
 - expected_values:

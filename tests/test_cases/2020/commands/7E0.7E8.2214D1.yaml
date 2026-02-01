@@ -4,26 +4,8 @@ test_cases:
     AUDI_PQ35_PRE_INJ_2_DURATION: 0
   response: 7E8056214D10000
 - expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0.2272
-  response: 7E8056214D10238
-- expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0.4252
-  response: 7E8056214D10427
-- expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0.4628
-  response: 7E8056214D10485
-- expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0.4968
-  response: 7E8056214D104DA
-- expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0.4988
-  response: 7E8056214D104DF
-- expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0.5012
-  response: 7E8056214D104E5
-- expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0.5296
-  response: 7E8056214D1052C
+    AUDI_PQ35_PRE_INJ_2_DURATION: 0.5108
+  response: 7E8056214D104FD
 - expected_values:
     AUDI_PQ35_PRE_INJ_2_DURATION: 0.6304
   response: 7E8056214D10628

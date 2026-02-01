@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_NOX_CONC_BEHIND_TURBO: 223
   response: 7E80562152600DF
+- expected_values:
+    AUDI_MQB_NOX_CONC_BEHIND_TURBO: 517
+  response: '7E8056215260205'

@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.221341
 test_cases:
 - expected_values:
-    AUDI_PQ35_CAMS_END: 1983.2
-  response: 7E80562134126BC
-- expected_values:
-    AUDI_PQ35_CAMS_END: 1986
-  response: 7E80562134126CA
+    AUDI_PQ35_CAMS_END: 1975
+  response: '7E8056213412693'
 - expected_values:
     AUDI_PQ35_CAMS_END: 1987.8
   response: 7E80562134126D3

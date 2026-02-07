@@ -1,5 +1,8 @@
 command_id: 7E0.2212CB|din=03
 test_cases:
 - expected_values:
+    AUDI_PQ35_SRV_LIM: 26
+  response: 7E8056212CB0A28
+- expected_values:
     AUDI_PQ35_SRV_LIM: 26.4
   response: 7E8056212CB0A50

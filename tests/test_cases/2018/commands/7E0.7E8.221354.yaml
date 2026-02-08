@@ -4,5 +4,5 @@ test_cases:
     AUDI_PQ35_SOOT_IDX: 0
   response: '7E8056213540000'
 - expected_values:
-    AUDI_PQ35_SOOT_IDX: 90
-  response: 7E805621354005A
+    AUDI_PQ35_SOOT_IDX: 105
+  response: '7E8056213540069'

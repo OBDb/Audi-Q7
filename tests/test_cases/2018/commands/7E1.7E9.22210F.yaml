@@ -16,8 +16,7 @@ test_cases:
     7E92000000000000000
     7E90462210F03
 - expected_values:
-    AUDI_GEAR: '6'
-    AUDI_MQB_TCM_I_GEAR: 4
+    AUDI_MQB_TCM_I_GEAR: 7
   response: |-
     7E92000000000000000
-    7E90462210F06
+    7E90462210F09

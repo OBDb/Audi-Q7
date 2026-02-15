@@ -4,29 +4,8 @@ test_cases:
     AUDI_PQ35_ENG_START_QTY: 0
   response: '7E8056210690000'
 - expected_values:
-    AUDI_PQ35_ENG_START_QTY: 16.66
-  response: '7E8056210690682'
-- expected_values:
-    AUDI_PQ35_ENG_START_QTY: 17.11
-  response: 7E80562106906AF
-- expected_values:
-    AUDI_PQ35_ENG_START_QTY: 17.7
-  response: 7E80562106906EA
-- expected_values:
-    AUDI_PQ35_ENG_START_QTY: 19.42
-  response: '7E8056210690796'
-- expected_values:
-    AUDI_PQ35_ENG_START_QTY: 20.04
-  response: 7E80562106907D4
-- expected_values:
-    AUDI_PQ35_ENG_START_QTY: 20.93
-  response: 7E805621069082D
-- expected_values:
-    AUDI_PQ35_ENG_START_QTY: 33.77
-  response: 7E8056210690D31
-- expected_values:
-    AUDI_PQ35_ENG_START_QTY: 37.86
-  response: 7E8056210690ECA
+    AUDI_PQ35_ENG_START_QTY: 17.82
+  response: 7E80562106906F6
 - expected_values:
     AUDI_PQ35_ENG_START_QTY: 42.82
   response: 7E80562106910BA

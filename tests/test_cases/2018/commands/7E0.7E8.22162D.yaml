@@ -7,5 +7,8 @@ test_cases:
     AUDI_PQ35_FUEL_T: 8.4
   response: 7E80562162D0AFF
 - expected_values:
+    AUDI_PQ35_FUEL_T: 8.9
+  response: 7E80562162D0B04
+- expected_values:
     AUDI_PQ35_FUEL_T: 34.8
   response: 7E80562162D0C07

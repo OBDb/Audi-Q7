@@ -12,3 +12,18 @@ test_cases:
 - expected_values:
     AUDI_PQ35_RAD_COOL_T_CMD: 92.8
   response: 7E8056211110E4B
+- expected_values:
+    AUDI_PQ35_RAD_COOL_T_CMD: 93
+  response: 7E8056211110E4D
+- expected_values:
+    AUDI_PQ35_RAD_COOL_T_CMD: 93.3
+  response: 7E8056211110E50
+- expected_values:
+    AUDI_PQ35_RAD_COOL_T_CMD: 93.8
+  response: 7E8056211110E55
+- expected_values:
+    AUDI_PQ35_RAD_COOL_T_CMD: 94.3
+  response: 7E8056211110E5A
+- expected_values:
+    AUDI_PQ35_RAD_COOL_T_CMD: 94.5
+  response: 7E8056211110E5C

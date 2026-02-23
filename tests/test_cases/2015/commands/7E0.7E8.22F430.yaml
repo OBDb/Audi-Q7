@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_WARM_UPS: 24
   response: 7E80462F43018
+- expected_values:
+    AUDI_WARM_UPS: 25
+  response: 7E80462F43019

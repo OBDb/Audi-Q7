@@ -4,11 +4,26 @@ test_cases:
     AUDI_PQ35_INJ_DEV_CYL_3: 0.07
   response: '7E8056211000007'
 - expected_values:
+    AUDI_PQ35_INJ_DEV_CYL_3: 0.15
+  response: 7E805621100000F
+- expected_values:
+    AUDI_PQ35_INJ_DEV_CYL_3: -0.46
+  response: 7E805621100FFD2
+- expected_values:
     AUDI_PQ35_INJ_DEV_CYL_3: -0.38
   response: 7E805621100FFDA
 - expected_values:
+    AUDI_PQ35_INJ_DEV_CYL_3: -0.37
+  response: 7E805621100FFDB
+- expected_values:
+    AUDI_PQ35_INJ_DEV_CYL_3: -0.33
+  response: 7E805621100FFDF
+- expected_values:
     AUDI_PQ35_INJ_DEV_CYL_3: -0.28
   response: 7E805621100FFE4
+- expected_values:
+    AUDI_PQ35_INJ_DEV_CYL_3: -0.14
+  response: 7E805621100FFF2
 - expected_values:
     AUDI_PQ35_INJ_DEV_CYL_3: -0.12
   response: 7E805621100FFF4

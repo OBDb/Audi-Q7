@@ -1,17 +1,14 @@
 command_id: 7E0.7E8.22117E
 test_cases:
 - expected_values:
-    AUDI_PQ35_TURB_ACT_1_B1: 67.42
-  response: 7E80562117E1A56
+    AUDI_PQ35_TURB_ACT_1_B1: 52.39
+  response: 7E80562117E1477
 - expected_values:
-    AUDI_PQ35_TURB_ACT_1_B1: 67.63
-  response: 7E80562117E1A6B
+    AUDI_PQ35_TURB_ACT_1_B1: 76.87
+  response: 7E80562117E1E07
 - expected_values:
-    AUDI_PQ35_TURB_ACT_1_B1: 81.14
-  response: 7E80562117E1FB2
-- expected_values:
-    AUDI_PQ35_TURB_ACT_1_B1: 81.22
-  response: 7E80562117E1FBA
+    AUDI_PQ35_TURB_ACT_1_B1: 81.1
+  response: 7E80562117E1FAE
 - expected_values:
     AUDI_PQ35_TURB_ACT_1_B1: 81.64
   response: 7E80562117E1FE4

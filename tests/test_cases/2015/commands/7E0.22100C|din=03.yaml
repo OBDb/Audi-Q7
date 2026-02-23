@@ -1,6 +1,12 @@
 command_id: 7E0.22100C|din=03
 test_cases:
 - expected_values:
+    AUDI_PQ35_FUEL_LVL_2: 61
+  response: 7E80562100C17D4
+- expected_values:
+    AUDI_PQ35_FUEL_LVL_2: 62
+  response: 7E80562100C1838
+- expected_values:
     AUDI_PQ35_FUEL_LVL_2: 64
   response: 7E80562100C1900
 - expected_values:

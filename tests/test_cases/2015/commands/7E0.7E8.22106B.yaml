@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22106B
+test_cases:
+- expected_values:
+    AUDI_PQ35_LIM_TRQ: 205.5
+  response: 7E80562106B0807
+- expected_values:
+    AUDI_PQ35_LIM_TRQ: 272.2
+  response: 7E80562106B0AA2
+- expected_values:
+    AUDI_PQ35_LIM_TRQ: 561.9
+  response: 7E80562106B15F3

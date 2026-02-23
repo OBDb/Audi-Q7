@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221057
+test_cases:
+- expected_values:
+    AUDI_PQ35_CHG_P: 1.056
+  response: '7E8056210570420'
+- expected_values:
+    AUDI_PQ35_CHG_P: 1.228
+  response: 7E80562105704CC
+- expected_values:
+    AUDI_PQ35_CHG_P: 1.915
+  response: 7E805621057077B

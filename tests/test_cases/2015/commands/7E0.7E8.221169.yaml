@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221169
+test_cases:
+- expected_values:
+    AUDI_PQ35_FUEL_P_HIGH: 249800
+  response: 7E80562116909C2
+- expected_values:
+    AUDI_PQ35_FUEL_P_HIGH: 843700
+  response: 7E80562116920F5
+- expected_values:
+    AUDI_PQ35_FUEL_P_HIGH: 980700
+  response: 7E805621169264F

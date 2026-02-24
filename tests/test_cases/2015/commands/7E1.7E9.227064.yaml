@@ -13,8 +13,14 @@ test_cases:
     AUDI_MQB_TCM_ENG_TORQUE: 137
   response: '7E9056270640089'
 - expected_values:
+    AUDI_MQB_TCM_ENG_TORQUE: 169
+  response: 7E90562706400A9
+- expected_values:
     AUDI_MQB_TCM_ENG_TORQUE: 181
   response: 7E90562706400B5
 - expected_values:
     AUDI_MQB_TCM_ENG_TORQUE: 183
   response: 7E90562706400B7
+- expected_values:
+    AUDI_MQB_TCM_ENG_TORQUE: 282
+  response: 7E905627064011A

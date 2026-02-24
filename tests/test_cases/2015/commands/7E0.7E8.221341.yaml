@@ -4,29 +4,5 @@ test_cases:
     AUDI_PQ35_CAMS_END: 1973.8
   response: 7E805621341268D
 - expected_values:
-    AUDI_PQ35_CAMS_END: 1975
-  response: '7E8056213412693'
-- expected_values:
-    AUDI_PQ35_CAMS_END: 1976.2
-  response: '7E8056213412699'
-- expected_values:
-    AUDI_PQ35_CAMS_END: 1976.4
-  response: 7E805621341269A
-- expected_values:
-    AUDI_PQ35_CAMS_END: 1977.6
-  response: 7E80562134126A0
-- expected_values:
-    AUDI_PQ35_CAMS_END: 1978.6
-  response: 7E80562134126A5
-- expected_values:
-    AUDI_PQ35_CAMS_END: 1979
-  response: 7E80562134126A7
-- expected_values:
-    AUDI_PQ35_CAMS_END: 1979.4
-  response: 7E80562134126A9
-- expected_values:
-    AUDI_PQ35_CAMS_END: 1979.6
-  response: 7E80562134126AA
-- expected_values:
-    AUDI_PQ35_CAMS_END: 1980
-  response: 7E80562134126AC
+    AUDI_PQ35_CAMS_END: 1980.2
+  response: 7E80562134126AD

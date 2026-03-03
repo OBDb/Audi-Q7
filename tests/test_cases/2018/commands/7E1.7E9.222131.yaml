@@ -7,8 +7,8 @@ test_cases:
     AUDI_TORQUE_CONVERTER_SLIP: 254
   response: 7E90562213100FE
 - expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: -60
-  response: 7E905622131FFC4
+    AUDI_TORQUE_CONVERTER_SLIP: -65
+  response: 7E905622131FFBF
 - expected_values:
     AUDI_TORQUE_CONVERTER_SLIP: 5
   response: |-

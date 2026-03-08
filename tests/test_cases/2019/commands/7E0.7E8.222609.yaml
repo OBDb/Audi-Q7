@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     AUDI_MQB_DPF_SOOT_MASS_CALCULATED: 1.5
   response: '7E8056226090096'
+- expected_values:
+    AUDI_MQB_DPF_SOOT_MASS_CALCULATED: 2.2
+  response: 7E80562260900DC
+- expected_values:
+    AUDI_MQB_DPF_SOOT_MASS_CALCULATED: 2.4
+  response: 7E80562260900F0

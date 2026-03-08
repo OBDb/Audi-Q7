@@ -3,23 +3,23 @@ test_cases:
 - expected_values:
     AUDI_RANGE_EST_CAN: 2047
   response: |-
-    77A100D622AB5005300
-    77A215307FF07FF07FF
+    77A100D622AB5004800
+    77A214807FF07FF07FF
 - expected_values:
     AUDI_RANGE_EST_CAN: 2047
   response: |-
-    77A100D622AB5008000
-    77A218007FF07FF07FF
+    77A100D622AB5004F00
+    77A214F07FF07FF07FF
+- expected_values:
+    AUDI_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB5005000
+    77A215007FF07FF07FF
 - expected_values:
     AUDI_RANGE_EST_CAN: 0
   response: |-
     77A100D622AB5009100
     77A2191000000000000
-- expected_values:
-    AUDI_RANGE_EST_CAN: 2047
-  response: |-
-    77A100D622AB5009F00
-    77A219F07FF07FF07FF
 - expected_values:
     AUDI_RANGE_EST_CAN: 2047
   response: |-

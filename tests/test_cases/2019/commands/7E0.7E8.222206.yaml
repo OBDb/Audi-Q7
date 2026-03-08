@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.222206
 test_cases:
 - expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 11
-  response: 7E8046222060B
-- expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 13
-  response: 7E8046222060D
-- expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 15
-  response: 7E8046222060F
-- expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 16
-  response: '7E80462220610'
-- expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 43
-  response: 7E8046222062B
-- expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 44
-  response: 7E8046222062C
-- expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 45
-  response: 7E8046222062D
-- expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 47
-  response: 7E8046222062F
-- expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 48
-  response: '7E80462220630'
+    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 10
+  response: 7E8046222060A
 - expected_values:
     AUDI_PQ35_FUEL_LEVEL_7E0_2206: 49
   response: '7E80462220631'

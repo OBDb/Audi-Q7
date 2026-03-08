@@ -4,5 +4,5 @@ test_cases:
     AUDI_PQ35_MAIN_INJ_START: -71.18
   response: 7E8056211F2F219
 - expected_values:
-    AUDI_PQ35_MAIN_INJ_START: -67.08
-  response: 7E8056211F2F2E6
+    AUDI_PQ35_MAIN_INJ_START: -66.76
+  response: 7E8056211F2F2F6

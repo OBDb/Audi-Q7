@@ -4,5 +4,5 @@ test_cases:
     AUDI_PQ35_FUEL_LEVEL_7E0_2206: 10
   response: 7E8046222060A
 - expected_values:
-    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 49
-  response: '7E80462220631'
+    AUDI_PQ35_FUEL_LEVEL_7E0_2206: 85
+  response: '7E80462220655'

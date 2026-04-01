@@ -4,8 +4,8 @@ test_cases:
     AUDI_PQ35_CHG_P: 0.994
   response: 7E80562105703E2
 - expected_values:
-    AUDI_PQ35_CHG_P: 1.254
-  response: 7E80562105704E6
+    AUDI_PQ35_CHG_P: 1.021
+  response: 7E80562105703FD
 - expected_values:
     AUDI_PQ35_CHG_P: 1.539
   response: '7E8056210570603'

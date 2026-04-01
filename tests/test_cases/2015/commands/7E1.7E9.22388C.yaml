@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_IGNITION_CYCLES: 24366
   response: 7E90562388C2E5F
+- expected_values:
+    AUDI_MQB_TCM_IGNITION_CYCLES: 24622
+  response: 7E90562388C2E60

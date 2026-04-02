@@ -4,5 +4,5 @@ test_cases:
     AUDI_MQB_BAT_T: -14
   response: 77A04622A0B1A
 - expected_values:
-    AUDI_MQB_BAT_T: 26
-  response: 77A04622A0B42
+    AUDI_MQB_BAT_T: 27
+  response: 77A04622A0B43

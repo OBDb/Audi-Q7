@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.222102
 test_cases:
 - expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1138
+  response: 7E90562210211C8
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1292
+  response: '7E9056221021430'
+- expected_values:
     AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1570
   response: '7E9056221021888'
 - expected_values:

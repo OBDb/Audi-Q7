@@ -13,6 +13,10 @@ test_cases:
     AUDI_SSB_VT: 14.4
   response: 77A04622A0026
 - expected_values:
+    AUDI_MQB_GEN_TRG_V: 14.6
+    AUDI_SSB_VT: 14.6
+  response: 77A04622A0028
+- expected_values:
     AUDI_MQB_GEN_TRG_V: 14.7
     AUDI_SSB_VT: 14.7
   response: 77A04622A0029

@@ -9,6 +9,6 @@ test_cases:
     AUDI_PQ35_ACCEL: 0.229
   response: 7E80562118700E5
 - expected_values:
-    AUDI_ACCELERATION: -0.052
-    AUDI_PQ35_ACCEL: -0.052
-  response: 7E805621187FFCC
+    AUDI_ACCELERATION: -0.187
+    AUDI_PQ35_ACCEL: -0.187
+  response: 7E805621187FF45

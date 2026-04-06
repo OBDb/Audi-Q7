@@ -9,3 +9,8 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_TORQUE_CONVERTER_LOCKUP_CLUTCH_STATUS: 2
   response: '7E90462707802'
+- expected_values:
+    AUDI_MQB_TCM_TORQUE_CONVERTER_LOCKUP_CLUTCH_STATUS: 1
+  response: |-
+    7E92000000000000000
+    7E90462707801

@@ -14,4 +14,4 @@ test_cases:
   response: 7E80762115E001C1CE7
 - expected_values:
     AUDI_PQ35_TIME_LAST_REGEN: 0.00019
-  response: 7E80762115E001C85AB
+  response: 7E80762115E001C8829

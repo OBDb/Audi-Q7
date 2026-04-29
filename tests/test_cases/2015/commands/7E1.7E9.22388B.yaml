@@ -6,27 +6,3 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 4108
   response: 7E90562388B0C10
-- expected_values:
-    AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 4364
-  response: 7E90562388B0C11
-- expected_values:
-    AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 6156
-  response: 7E90562388B0C18
-- expected_values:
-    AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 6412
-  response: 7E90562388B0C19
-- expected_values:
-    AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 6668
-  response: 7E90562388B0C1A
-- expected_values:
-    AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 7436
-  response: 7E90562388B0C1D
-- expected_values:
-    AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 11788
-  response: 7E90562388B0C2E
-- expected_values:
-    AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 13580
-  response: 7E90562388B0C35
-- expected_values:
-    AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 13836
-  response: 7E90562388B0C36

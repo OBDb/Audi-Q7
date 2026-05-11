@@ -4,11 +4,11 @@ test_cases:
     AUDI_PQ35_EGR_DUTY: 24.57
   response: 7E8056210C20999
 - expected_values:
+    AUDI_PQ35_EGR_DUTY: 53.76
+  response: 7E8056210C21500
+- expected_values:
     AUDI_PQ35_EGR_DUTY: 61.43
   response: 7E8056210C217FF
-- expected_values:
-    AUDI_PQ35_EGR_DUTY: 61.44
-  response: 7E8056210C21800
 - expected_values:
     AUDI_PQ35_EGR_DUTY: 81.92
   response: 7E8056210C22000

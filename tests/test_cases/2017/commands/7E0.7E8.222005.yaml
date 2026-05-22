@@ -3,4 +3,8 @@ test_cases:
 - expected_values:
     AUDI_BRAKE_BST_P: 1.15
     AUDI_PQ35_BRAKE_BOOSTER_P: 95.35516
+  response: '7E8 05 62 20 05 04 7E '
+- expected_values:
+    AUDI_BRAKE_BST_P: 1.15
+    AUDI_PQ35_BRAKE_BOOSTER_P: 95.35516
   response: 7E805622005047E

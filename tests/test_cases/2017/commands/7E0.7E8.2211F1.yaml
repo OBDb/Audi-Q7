@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2211F1
 test_cases:
 - expected_values:
+    AUDI_PQ35_TRANS_IN_SPD: 20
+  response: '7E8 05 62 11 F1 00 28 '
+- expected_values:
     AUDI_PQ35_TRANS_IN_SPD: 0
   response: 7E8056211F10000
+- expected_values:
+    AUDI_PQ35_TRANS_IN_SPD: 19
+  response: 7E8056211F10026

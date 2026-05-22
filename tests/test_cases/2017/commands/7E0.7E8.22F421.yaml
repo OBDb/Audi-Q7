@@ -6,3 +6,15 @@ test_cases:
 - expected_values:
     AUDI_MIL_DIST: 38
   response: 7E80562F4210026
+- expected_values:
+    AUDI_MIL_DIST: 102
+  response: 7E80562F4210066
+- expected_values:
+    AUDI_MIL_DIST: 110
+  response: 7E80562F421006E
+- expected_values:
+    AUDI_MIL_DIST: 112
+  response: 7E80562F4210070
+- expected_values:
+    AUDI_MIL_DIST: 113
+  response: 7E80562F4210071

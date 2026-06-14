@@ -10,5 +10,5 @@ test_cases:
     AUDI_PQ35_DPF_OUT_T: 520.3
   response: 7E8056210F91EFE
 - expected_values:
-    AUDI_PQ35_DPF_OUT_T: 623.1
-  response: 7E8056210F92302
+    AUDI_PQ35_DPF_OUT_T: 657.1
+  response: 7E8056210F92456

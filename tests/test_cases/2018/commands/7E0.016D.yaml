@@ -1,6 +1,22 @@
 command_id: 7E0.016D
 test_cases:
 - expected_values:
+    FRP_A: 23620
+    FRP_A_CMD: 23000
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    7E8100D416D0308FC09
+    7E8213A000000000000
+- expected_values:
     FRP_A: 520
     FRP_A_CMD: 25000
     FRP_A_CMD_SUP: 1
@@ -33,8 +49,8 @@ test_cases:
     7E8100D416D0309C400
     7E8214F000000000000
 - expected_values:
-    FRP_A: 25230
-    FRP_A_CMD: 25440
+    FRP_A: 17440
+    FRP_A_CMD: 25000
     FRP_A_CMD_SUP: 1
     FRP_A_SUP: 1
     FRP_B: 0
@@ -46,5 +62,85 @@ test_cases:
     FRT_B: -40
     FRT_B_SUP: 0
   response: |-
-    7E8100D416D0309F009
-    7E821DB000000000000
+    7E8100D416D0309C406
+    7E821D0000000000000
+- expected_values:
+    FRP_A: 25510
+    FRP_A_CMD: 25000
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    7E8100D416D0309C409
+    7E821F7000000000000
+- expected_values:
+    FRP_A: 24970
+    FRP_A_CMD: 25630
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    7E8100D416D030A0309
+    7E821C1000000000000
+- expected_values:
+    FRP_A: 28190
+    FRP_A_CMD: 30310
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    7E8100D416D030BD70B
+    7E82103000000000000
+- expected_values:
+    FRP_A: 33290
+    FRP_A_CMD: 33260
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    7E8100D416D030CFE0D
+    7E82101000000000000
+- expected_values:
+    FRP_A: 119530
+    FRP_A_CMD: 121470
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    7E8100D416D032F732E
+    7E821B1000000000000

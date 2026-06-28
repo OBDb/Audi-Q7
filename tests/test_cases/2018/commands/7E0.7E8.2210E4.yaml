@@ -1,23 +1,8 @@
 command_id: 7E0.7E8.2210E4
 test_cases:
 - expected_values:
-    AUDI_PQ35_REG_FACTOR: 0.7838
-  response: 7E8056210E41E9E
-- expected_values:
-    AUDI_PQ35_REG_FACTOR: 0.7921
-  response: 7E8056210E41EF1
-- expected_values:
-    AUDI_PQ35_REG_FACTOR: 0.8171
-  response: 7E8056210E41FEB
-- expected_values:
-    AUDI_PQ35_REG_FACTOR: 0.8181
-  response: 7E8056210E41FF5
-- expected_values:
-    AUDI_PQ35_REG_FACTOR: 0.8184
-  response: 7E8056210E41FF8
-- expected_values:
-    AUDI_PQ35_REG_FACTOR: 0.8185
-  response: 7E8056210E41FF9
+    AUDI_PQ35_REG_FACTOR: 0.7064
+  response: 7E8056210E41B98
 - expected_values:
     AUDI_PQ35_REG_FACTOR: 0.8186
   response: 7E8056210E41FFA

@@ -7,5 +7,11 @@ test_cases:
     AUDI_COOLANT_T: 6034.9
   response: 7E805621135F668
 - expected_values:
+    AUDI_COOLANT_T: 6045.9
+  response: 7E805621135F6D6
+- expected_values:
+    AUDI_COOLANT_T: 6052.9
+  response: 7E805621135F71C
+- expected_values:
     AUDI_COOLANT_T: 6061.1
   response: 7E805621135F76E

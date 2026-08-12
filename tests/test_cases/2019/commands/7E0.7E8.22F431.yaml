@@ -10,5 +10,5 @@ test_cases:
     AUDI_CLR_DIST: 62207
   response: 7E80562F431F2FF
 - expected_values:
-    AUDI_CLR_DIST: 62208
-  response: 7E80562F431F300
+    AUDI_CLR_DIST: 65535
+  response: 7E80562F431FFFF

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221150
+test_cases:
+- expected_values:
+    AUDI_MISFIRES_C3: 14875
+  response: 7E8056211503A1B
+- expected_values:
+    AUDI_MISFIRES_C3: 14876
+  response: 7E8056211503A1C

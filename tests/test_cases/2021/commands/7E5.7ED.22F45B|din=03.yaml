@@ -1,0 +1,14 @@
+command_id: 7E5.7ED.22F45B|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_SOC_HIRES: 53.33333
+  response: 7ED0462F45B88
+- expected_values:
+    AUDI_BMS_SOC_HIRES: 54.5098
+  response: 7ED0462F45B8B
+- expected_values:
+    AUDI_BMS_SOC_HIRES: 56.86275
+  response: 7ED0462F45B91
+- expected_values:
+    AUDI_BMS_SOC_HIRES: 58.43137
+  response: 7ED0462F45B95

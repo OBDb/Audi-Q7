@@ -1,6 +1,11 @@
 command_id: 710.77A.222AB6|fc=1
 test_cases:
 - expected_values:
+    AUDI_RANGE_V2: 350
+  response: |-
+    77A100A622AB6015E01
+    77A215E07FD01AAAAAA
+- expected_values:
     AUDI_RANGE_V2: 370
   response: |-
     77A100A622AB6017201

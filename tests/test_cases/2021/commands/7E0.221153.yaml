@@ -20,3 +20,7 @@ test_cases:
     AUDI_EM_TORQ_1: 503.28125
     AUDI_PQ35_DPF_OIL_ASH_VOL: 161.05
   response: 7E8056211533EE9
+- expected_values:
+    AUDI_EM_TORQ_1: 503.53125
+    AUDI_PQ35_DPF_OIL_ASH_VOL: 161.13
+  response: 7E8056211533EF1

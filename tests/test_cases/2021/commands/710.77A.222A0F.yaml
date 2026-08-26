@@ -4,8 +4,14 @@ test_cases:
     AUDI_SSB_AH: 16
   response: 77A04622A0F10
 - expected_values:
+    AUDI_SSB_AH: 17
+  response: 77A04622A0F11
+- expected_values:
     AUDI_SSB_AH: 18
   response: 77A04622A0F12
+- expected_values:
+    AUDI_SSB_AH: 19
+  response: 77A04622A0F13
 - expected_values:
     AUDI_SSB_AH: 20
   response: 77A04622A0F14

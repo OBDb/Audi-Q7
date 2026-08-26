@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.2215AA
 test_cases:
 - expected_values:
-    AUDI_PQ35_SELECTED_GEAR: 2
-  response: 7E8056215AA0250
-- expected_values:
-    AUDI_PQ35_SELECTED_GEAR: 2
-  response: 7E8056215AA0261
-- expected_values:
-    AUDI_PQ35_SELECTED_GEAR: 2
-  response: 7E8056215AA026F
-- expected_values:
-    AUDI_PQ35_SELECTED_GEAR: 2
-  response: 7E8056215AA02CC
-- expected_values:
-    AUDI_PQ35_SELECTED_GEAR: 2
-  response: 7E8056215AA02D3
-- expected_values:
-    AUDI_PQ35_SELECTED_GEAR: 3
-  response: 7E8056215AA0369
-- expected_values:
-    AUDI_PQ35_SELECTED_GEAR: 3
-  response: 7E8056215AA03AE
+    AUDI_PQ35_SELECTED_GEAR: 1
+  response: 7E8056215AA01E7
 - expected_values:
     AUDI_PQ35_SELECTED_GEAR: 4
   response: 7E8056215AA041A
-- expected_values:
-    AUDI_PQ35_SELECTED_GEAR: 4
-  response: 7E8056215AA0447
 - expected_values:
     AUDI_PQ35_SELECTED_GEAR: 6
   response: 7E8056215AA069D

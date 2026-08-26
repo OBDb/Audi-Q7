@@ -4,26 +4,5 @@ test_cases:
     AUDI_MISFIRES_C3: 14875
   response: 7E8056211503A1B
 - expected_values:
-    AUDI_MISFIRES_C3: 14876
-  response: 7E8056211503A1C
-- expected_values:
-    AUDI_MISFIRES_C3: 14880
-  response: 7E8056211503A20
-- expected_values:
-    AUDI_MISFIRES_C3: 14885
-  response: 7E8056211503A25
-- expected_values:
-    AUDI_MISFIRES_C3: 14886
-  response: 7E8056211503A26
-- expected_values:
-    AUDI_MISFIRES_C3: 14889
-  response: 7E8056211503A29
-- expected_values:
-    AUDI_MISFIRES_C3: 14891
-  response: 7E8056211503A2B
-- expected_values:
-    AUDI_MISFIRES_C3: 14893
-  response: 7E8056211503A2D
-- expected_values:
-    AUDI_MISFIRES_C3: 14895
-  response: 7E8056211503A2F
+    AUDI_MISFIRES_C3: 14902
+  response: 7E8056211503A36

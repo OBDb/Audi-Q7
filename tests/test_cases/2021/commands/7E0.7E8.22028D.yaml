@@ -4,8 +4,8 @@ test_cases:
     AUDI_ECU_TEMP: 308
   response: 7E80562028D0C08
 - expected_values:
-    AUDI_ECU_TEMP: 327
-  response: 7E80562028D0CC6
+    AUDI_ECU_TEMP: 327.4
+  response: 7E80562028D0CCA
 - expected_values:
     AUDI_ECU_TEMP: 333.9
   response: 7E80562028D0D0B

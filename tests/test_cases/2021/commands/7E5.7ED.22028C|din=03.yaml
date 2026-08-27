@@ -28,3 +28,11 @@ test_cases:
     AUDI_BMS_SOC: 62
     AUDI_HVBAT_SOC_V2: 24.31373
   response: 7ED0462028C3E
+- expected_values:
+    AUDI_BMS_SOC: 64
+    AUDI_HVBAT_SOC_V2: 25.09804
+  response: 7ED0462028C40
+- expected_values:
+    AUDI_BMS_SOC: 66
+    AUDI_HVBAT_SOC_V2: 25.88235
+  response: 7ED0462028C42

@@ -1,6 +1,16 @@
 command_id: 710.77A.222AB6|fc=1
 test_cases:
 - expected_values:
+    AUDI_RANGE_V2: 250
+  response: |-
+    77A100A622AB600FA00
+    77A21FA07FD01AAAAAA
+- expected_values:
+    AUDI_RANGE_V2: 255
+  response: |-
+    77A100A622AB600FF00
+    77A21FF07FD01AAAAAA
+- expected_values:
     AUDI_RANGE_V2: 260
   response: |-
     77A100A622AB6010401
@@ -10,13 +20,3 @@ test_cases:
   response: |-
     77A100A622AB6014001
     77A214007FD01AAAAAA
-- expected_values:
-    AUDI_RANGE_V2: 335
-  response: |-
-    77A100A622AB6014F01
-    77A214F07FD01AAAAAA
-- expected_values:
-    AUDI_RANGE_V2: 470
-  response: |-
-    77A100A622AB601D601
-    77A21D607FD01AAAAAA

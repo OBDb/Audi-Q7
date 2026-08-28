@@ -4,5 +4,5 @@ test_cases:
     AUDI_CLR_DIST: 3337
   response: 7E80562F4310D09
 - expected_values:
-    AUDI_CLR_DIST: 3557
-  response: 7E80562F4310DE5
+    AUDI_CLR_DIST: 3565
+  response: 7E80562F4310DED

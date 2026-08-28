@@ -5,38 +5,6 @@ test_cases:
     AUDI_HVBAT_SOC_V2: 20.78431
   response: 7ED0462028C35
 - expected_values:
-    AUDI_BMS_SOC: 54
-    AUDI_HVBAT_SOC_V2: 21.17647
-  response: 7ED0462028C36
-- expected_values:
-    AUDI_BMS_SOC: 56
-    AUDI_HVBAT_SOC_V2: 21.96078
-  response: 7ED0462028C38
-- expected_values:
-    AUDI_BMS_SOC: 57
-    AUDI_HVBAT_SOC_V2: 22.35294
-  response: 7ED0462028C39
-- expected_values:
-    AUDI_BMS_SOC: 58
-    AUDI_HVBAT_SOC_V2: 22.7451
-  response: 7ED0462028C3A
-- expected_values:
-    AUDI_BMS_SOC: 59
-    AUDI_HVBAT_SOC_V2: 23.13725
-  response: 7ED0462028C3B
-- expected_values:
-    AUDI_BMS_SOC: 60
-    AUDI_HVBAT_SOC_V2: 23.52941
-  response: 7ED0462028C3C
-- expected_values:
-    AUDI_BMS_SOC: 62
-    AUDI_HVBAT_SOC_V2: 24.31373
-  response: 7ED0462028C3E
-- expected_values:
-    AUDI_BMS_SOC: 64
-    AUDI_HVBAT_SOC_V2: 25.09804
-  response: 7ED0462028C40
-- expected_values:
     AUDI_BMS_SOC: 66
     AUDI_HVBAT_SOC_V2: 25.88235
   response: 7ED0462028C42

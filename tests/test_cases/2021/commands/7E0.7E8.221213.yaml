@@ -5,10 +5,10 @@ test_cases:
   response: 7E80762121300003BE9
 - expected_values:
     AUDI_PQ35_ENVD_CAM_IN_1: 0
-  response: '7E80762121300008105'
+  response: 7E80762121300007AFD
 - expected_values:
     AUDI_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E8076212130000B6F7
+  response: '7E80762121300008105'
 - expected_values:
     AUDI_PQ35_ENVD_CAM_IN_1: 0
   response: 7E8076212130000ECDA

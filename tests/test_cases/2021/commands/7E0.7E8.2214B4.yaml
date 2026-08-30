@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.2214B4
 test_cases:
 - expected_values:
-    AUDI_FUEL_LEVEL_INPUT_V1: 35
-  response: 7E8056214B40DAC
+    AUDI_FUEL_LEVEL_INPUT_V1: 26
+  response: 7E8056214B40A28
 - expected_values:
     AUDI_FUEL_LEVEL_INPUT_V1: 41
   response: 7E8056214B41004
 - expected_values:
-    AUDI_FUEL_LEVEL_INPUT_V1: 46
-  response: 7E8056214B411F8
-- expected_values:
-    AUDI_FUEL_LEVEL_INPUT_V1: 85
-  response: 7E8056214B42134
+    AUDI_FUEL_LEVEL_INPUT_V1: 327.67
+  response: 7E8056214B47FFF

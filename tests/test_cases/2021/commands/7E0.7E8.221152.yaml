@@ -6,5 +6,5 @@ test_cases:
   response: 7E8056211523C47
 - expected_values:
     AUDI_EM_RPM_2: 100
-    AUDI_MISFIRES__CYL__2: 15556
-  response: 7E8056211523CC4
+    AUDI_MISFIRES__CYL__2: 15568
+  response: 7E8056211523CD0

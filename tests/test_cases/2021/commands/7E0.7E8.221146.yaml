@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     AUDI_MISFIRES_TOTAL: 6
   response: '7E8056211460006'
+- expected_values:
+    AUDI_MISFIRES_TOTAL: 8
+  response: '7E8056211460008'
+- expected_values:
+    AUDI_MISFIRES_TOTAL: 11
+  response: 7E805621146000B

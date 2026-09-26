@@ -2,31 +2,41 @@ command_id: 7E0.7E8.22113F
 test_cases:
 - expected_values:
     AUDI_FUEL_CONS: 0.99
+    AUDI_FUEL_RATE: 0.99
   response: 7E80562113F0063
 - expected_values:
     AUDI_FUEL_CONS: 1
+    AUDI_FUEL_RATE: 1
   response: 7E80562113F0064
 - expected_values:
     AUDI_FUEL_CONS: 1.02
+    AUDI_FUEL_RATE: 1.02
   response: 7E80562113F0066
 - expected_values:
     AUDI_FUEL_CONS: 1.03
+    AUDI_FUEL_RATE: 1.03
   response: 7E80562113F0067
 - expected_values:
     AUDI_FUEL_CONS: 1.04
+    AUDI_FUEL_RATE: 1.04
   response: 7E80562113F0068
 - expected_values:
     AUDI_FUEL_CONS: 1.05
+    AUDI_FUEL_RATE: 1.05
   response: 7E80562113F0069
 - expected_values:
     AUDI_FUEL_CONS: 1.06
+    AUDI_FUEL_RATE: 1.06
   response: 7E80562113F006A
 - expected_values:
     AUDI_FUEL_CONS: 1.07
+    AUDI_FUEL_RATE: 1.07
   response: 7E80562113F006B
 - expected_values:
     AUDI_FUEL_CONS: 1.08
+    AUDI_FUEL_RATE: 1.08
   response: 7E80562113F006C
 - expected_values:
     AUDI_FUEL_CONS: 1.09
+    AUDI_FUEL_RATE: 1.09
   response: 7E80562113F006D

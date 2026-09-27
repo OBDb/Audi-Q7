@@ -1,0 +1,5 @@
+command_id: 7E0.22102B
+test_cases:
+- expected_values:
+    AUDI_APP_V2: 396.6
+  response: 7E80562102B07BF

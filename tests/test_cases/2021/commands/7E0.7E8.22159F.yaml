@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22159F
+test_cases:
+- expected_values:
+    AUDI_HIGH_FUEL_P_ACT: 15.304
+  response: 7E80562159F7790
+- expected_values:
+    AUDI_HIGH_FUEL_P_ACT: 20.9
+  response: 7E80562159FA348
+- expected_values:
+    AUDI_HIGH_FUEL_P_ACT: 21.278
+  response: 7E80562159FA63C

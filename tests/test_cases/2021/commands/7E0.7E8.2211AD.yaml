@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211AD
+test_cases:
+- expected_values:
+    AUDI_MAF_CMD: 37.1
+  response: 7E8056211AD0173
+- expected_values:
+    AUDI_MAF_CMD: 84.4
+  response: 7E8056211AD034C
+- expected_values:
+    AUDI_MAF_CMD: 199.8
+  response: 7E8056211AD07CE

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211A4
+test_cases:
+- expected_values:
+    AUDI_FUEL_PMP_CMD_DUTY: 27.75871
+  response: 7E8056211A44710
+- expected_values:
+    AUDI_FUEL_PMP_CMD_DUTY: 30.03531
+  response: 7E8056211A44CE4
+- expected_values:
+    AUDI_FUEL_PMP_CMD_DUTY: 30.17416
+  response: 7E8056211A44D3F

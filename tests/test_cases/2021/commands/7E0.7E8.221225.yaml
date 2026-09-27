@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221225
+test_cases:
+- expected_values:
+    AUDI_TQ_LOSS_ADPT_IDLE: -5.7
+  response: 7E805621225FFC7
+- expected_values:
+    AUDI_TQ_LOSS_ADPT_IDLE: -4.2
+  response: 7E805621225FFD6

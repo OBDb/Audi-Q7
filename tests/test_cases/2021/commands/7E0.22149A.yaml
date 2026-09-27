@@ -1,6 +1,12 @@
 command_id: 7E0.22149A
 test_cases:
 - expected_values:
+    AUDI_MOTOR_RPM_ECM: 308.75
+  response: 7E80562149A04D3
+- expected_values:
+    AUDI_MOTOR_RPM_ECM: 310
+  response: 7E80562149A04D8
+- expected_values:
     AUDI_MOTOR_RPM_ECM: 578.5
   response: 7E80562149A090A
 - expected_values:
@@ -12,3 +18,6 @@ test_cases:
 - expected_values:
     AUDI_MOTOR_RPM_ECM: 1101.5
   response: 7E80562149A1136
+- expected_values:
+    AUDI_MOTOR_RPM_ECM: 1139.5
+  response: 7E80562149A11CE

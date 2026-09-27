@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221509
+test_cases:
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 983.853
+  response: 7E805621509628B
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 986.739
+  response: 7E80562150962D5
+- expected_values:
+    AUDI_AMBIENT_AIR_P: 987.324
+  response: 7E80562150962E4

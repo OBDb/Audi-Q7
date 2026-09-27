@@ -1,0 +1,11 @@
+command_id: 714.77E.2222B8|fc=1
+test_cases:
+- expected_values:
+    AUDI_ODO_MILEAGE_HR: 67418.358
+  response: 77E076222B80404B8F6
+- expected_values:
+    AUDI_ODO_MILEAGE_HR: 67422.236
+  response: 77E076222B80404C81C
+- expected_values:
+    AUDI_ODO_MILEAGE_HR: 67429.251
+  response: 77E076222B80404E383

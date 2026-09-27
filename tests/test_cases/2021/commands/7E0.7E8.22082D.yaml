@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22082D
+test_cases:
+- expected_values:
+    AUDI_EXH_GAS_T_BEFORE_GPF: 381.1
+  response: 7E80562082D198E
+- expected_values:
+    AUDI_EXH_GAS_T_BEFORE_GPF: 595.4
+  response: 7E80562082D21ED
+- expected_values:
+    AUDI_EXH_GAS_T_BEFORE_GPF: 675.3
+  response: 7E80562082D250C

@@ -1,0 +1,21 @@
+command_id: 7E1.7E9.222002
+test_cases:
+- expected_values:
+    AUDI_ENG_TQ_7E1: 0
+  response: '7E9056220020000'
+- expected_values:
+    AUDI_ENG_TQ_7E1: 65470
+  response: 7E905622002FFBE
+- expected_values:
+    AUDI_ENG_TQ_7E1: 65534
+  response: 7E905622002FFFE
+- expected_values:
+    AUDI_ENG_TQ_7E1: 34
+  response: |-
+    7E92000000000000000
+    7E9056220020022
+- expected_values:
+    AUDI_ENG_TQ_7E1: 65516
+  response: |-
+    7E92000000000000000
+    7E905622002FFEC

@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.222110
+test_cases:
+- expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 16
+  response: '7E9056221100010'
+- expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 19
+  response: '7E9056221100013'
+- expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 21
+  response: '7E9056221100015'
+- expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 116
+  response: '7E9056221100074'
+- expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 295
+  response: '7E9056221100127'
+- expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 65428
+  response: 7E905622110FF94
+- expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 65441
+  response: 7E905622110FFA1
+- expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 65468
+  response: 7E905622110FFBC
+- expected_values:
+    AUDI_ENG_SPEC_TQ_DURING: 65532
+  response: 7E905622110FFFC

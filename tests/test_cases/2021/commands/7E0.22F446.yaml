@@ -9,3 +9,12 @@ test_cases:
 - expected_values:
     AUDI_AAT_V3: 28
   response: 7E80462F44644
+- expected_values:
+    AUDI_AAT_V3: 32
+  response: 7E80462F44648
+- expected_values:
+    AUDI_AAT_V3: 37
+  response: 7E80462F4464D
+- expected_values:
+    AUDI_AAT_V3: 39
+  response: 7E80462F4464F

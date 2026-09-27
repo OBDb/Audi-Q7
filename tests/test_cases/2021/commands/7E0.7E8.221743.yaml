@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221743
+test_cases:
+- expected_values:
+    AUDI_INTEGRATED_MASS_AIR_SINCE: 2348.11824
+  response: 7E80562174319CC
+- expected_values:
+    AUDI_INTEGRATED_MASS_AIR_SINCE: 11301.11904
+  response: 7E8056217437C28
+- expected_values:
+    AUDI_INTEGRATED_MASS_AIR_SINCE: 21973.608
+  response: 7E805621743F168

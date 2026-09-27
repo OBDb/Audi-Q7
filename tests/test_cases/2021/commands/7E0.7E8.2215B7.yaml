@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2215B7
+test_cases:
+- expected_values:
+    AUDI_ENG_OIL_SUMP_T: 157.76
+  response: 7E8056215B70D68
+- expected_values:
+    AUDI_ENG_OIL_SUMP_T: 193.76
+  response: 7E8056215B70E30
+- expected_values:
+    AUDI_ENG_OIL_SUMP_T: 206.54
+  response: 7E8056215B70E77

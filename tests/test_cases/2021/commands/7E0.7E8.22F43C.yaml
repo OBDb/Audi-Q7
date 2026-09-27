@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    AUDI_EXH_GAS_T: 420.8
+  response: 7E80562F43C1200
+- expected_values:
+    AUDI_EXH_GAS_T: 639.8
+  response: 7E80562F43C1A8E
+- expected_values:
+    AUDI_EXH_GAS_T: 721.7
+  response: 7E80562F43C1DC1

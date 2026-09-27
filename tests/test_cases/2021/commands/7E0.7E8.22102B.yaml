@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22102B
+test_cases:
+- expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2_V: 374.6
+  response: 7E80562102B0751
+- expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2_V: 396.6
+  response: 7E80562102B07BF
+- expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2_V: 593.2
+  response: 7E80562102B0B96
+- expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2_V: 614
+  response: 7E80562102B0BFE
+- expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2_V: 996
+  response: 7E80562102B1374

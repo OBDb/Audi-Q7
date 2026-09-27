@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.221272|fc=1,c=17
 test_cases:
 - expected_values:
+    AUDI_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 602.8
+  response: '7E8056212722237'
+- expected_values:
+    AUDI_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 637
+  response: 7E805621272238D
+- expected_values:
+    AUDI_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 656.9
+  response: '7E8056212722454'
+- expected_values:
     AUDI_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 684.6
   response: '7E8056212722569'
 - expected_values:

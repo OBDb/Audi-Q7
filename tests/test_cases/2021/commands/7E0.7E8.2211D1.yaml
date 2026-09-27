@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211D1
+test_cases:
+- expected_values:
+    AUDI_BRAKE_BOOSTER_RAW_P: 52
+  response: 7E8056211D10034
+- expected_values:
+    AUDI_BRAKE_BOOSTER_RAW_P: 107
+  response: 7E8056211D1006B
+- expected_values:
+    AUDI_BRAKE_BOOSTER_RAW_P: 161
+  response: 7E8056211D100A1

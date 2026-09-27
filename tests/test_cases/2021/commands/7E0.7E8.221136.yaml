@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221136
+test_cases:
+- expected_values:
+    AUDI_HEIGHT_CORR: 0.97259
+  response: 7E8056211363E3F
+- expected_values:
+    AUDI_HEIGHT_CORR: 0.97485
+  response: 7E8056211363E64
+- expected_values:
+    AUDI_HEIGHT_CORR: 0.97637
+  response: 7E8056211363E7D

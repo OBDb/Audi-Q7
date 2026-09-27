@@ -1,5 +1,14 @@
 command_id: 7E0.221484
 test_cases:
 - expected_values:
+    AUDI_MOTOR_V: 46.75
+  response: 7E80562148405D8
+- expected_values:
     AUDI_MOTOR_V: 47.5
   response: 7E80562148405F0
+- expected_values:
+    AUDI_MOTOR_V: 48.25
+  response: '7E8056214840608'
+- expected_values:
+    AUDI_MOTOR_V: 49
+  response: '7E8056214840620'

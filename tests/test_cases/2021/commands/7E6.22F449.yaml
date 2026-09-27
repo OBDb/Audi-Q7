@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     AUDI_APP_PE: 14.90196
   response: 7E80462F44926
+- expected_values:
+    AUDI_APP_PE: 23.13725
+  response: 7E80462F4493B
+- expected_values:
+    AUDI_APP_PE: 31.76471
+  response: 7E80462F44951
+- expected_values:
+    AUDI_APP_PE: 33.33333
+  response: 7E80462F44955

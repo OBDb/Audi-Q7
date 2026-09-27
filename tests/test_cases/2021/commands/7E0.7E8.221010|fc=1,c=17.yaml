@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     AUDI_ENGINE_TORQUE: 0
   response: '7E8056210100000'
+- expected_values:
+    AUDI_ENGINE_TORQUE: 44.1
+  response: 7E80562101001B9
+- expected_values:
+    AUDI_ENGINE_TORQUE: 66
+  response: '7E8056210100294'
+- expected_values:
+    AUDI_ENGINE_TORQUE: 272.6
+  response: 7E8056210100AA6

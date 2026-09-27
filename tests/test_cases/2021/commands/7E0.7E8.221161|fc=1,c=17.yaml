@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_ENGINE_RPM_AT_IDLE_REQUIRED: 610
   response: 7E80562116104C4
+- expected_values:
+    AUDI_ENGINE_RPM_AT_IDLE_REQUIRED: 930
+  response: '7E8056211610744'

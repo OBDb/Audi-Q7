@@ -7,6 +7,12 @@ test_cases:
     AUDI_MOTOR_V: 47.5
   response: 7E80562148405F0
 - expected_values:
+    AUDI_MOTOR_V: 47.75
+  response: 7E80562148405F8
+- expected_values:
+    AUDI_MOTOR_V: 48
+  response: '7E8056214840600'
+- expected_values:
     AUDI_MOTOR_V: 48.25
   response: '7E8056214840608'
 - expected_values:

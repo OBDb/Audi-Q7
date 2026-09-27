@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22127B
+test_cases:
+- expected_values:
+    AUDI_CAM_ADJ_EXH: 3.39361
+    AUDI_VARIABLE_VLV_TIM_INT_1: 6.7871
+  response: 7E80562127B08B0
+- expected_values:
+    AUDI_CAM_ADJ_EXH: 21.94095
+    AUDI_VARIABLE_VLV_TIM_INT_1: 43.88118
+  response: 7E80562127B382B
+- expected_values:
+    AUDI_CAM_ADJ_EXH: 27.0161
+    AUDI_VARIABLE_VLV_TIM_INT_1: 54.03132
+  response: 7E80562127B4529

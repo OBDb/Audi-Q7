@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.221211|fc=1,c=17
 test_cases:
 - expected_values:
+    AUDI_KNOCK_SNS_C2_V_MS: 0.03083
+  response: 7E80762121100009DD9
+- expected_values:
+    AUDI_KNOCK_SNS_C2_V_MS: 0.03448
+  response: 7E8076212110000B08E
+- expected_values:
+    AUDI_KNOCK_SNS_C2_V_MS: 0.03459
+  response: 7E8076212110000B119
+- expected_values:
     AUDI_KNOCK_SNS_C2_V_MS: 0.03934
   response: 7E8076212110000C96D
 - expected_values:

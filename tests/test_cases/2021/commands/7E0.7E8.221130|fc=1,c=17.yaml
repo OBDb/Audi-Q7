@@ -7,5 +7,14 @@ test_cases:
     AUDI_COOLANT_FAN_1_ACTIVATION: 11.33
   response: 7E805621130046D
 - expected_values:
+    AUDI_COOLANT_FAN_1_ACTIVATION: 15.62
+  response: 7E805621130061A
+- expected_values:
     AUDI_COOLANT_FAN_1_ACTIVATION: 26.95
   response: 7E8056211300A87
+- expected_values:
+    AUDI_COOLANT_FAN_1_ACTIVATION: 51.56
+  response: '7E8056211301424'
+- expected_values:
+    AUDI_COOLANT_FAN_1_ACTIVATION: 64.45
+  response: 7E805621130192D

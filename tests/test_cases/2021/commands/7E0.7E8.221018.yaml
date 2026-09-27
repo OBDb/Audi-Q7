@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221018
+test_cases:
+- expected_values:
+    AUDI_CLT_FAN_REQ_AC: 64.79476
+  response: 7E80562101814BC
+- expected_values:
+    AUDI_CLT_FAN_REQ_AC: 72.39972
+  response: 7E805621018172B
+- expected_values:
+    AUDI_CLT_FAN_REQ_AC: 91.1985
+  response: 7E8056210181D2F

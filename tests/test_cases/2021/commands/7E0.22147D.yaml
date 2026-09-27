@@ -10,5 +10,11 @@ test_cases:
     AUDI_MOTOR_I: -49
   response: 7E80562147DF9E0
 - expected_values:
+    AUDI_MOTOR_I: -20
+  response: 7E80562147DFD80
+- expected_values:
     AUDI_MOTOR_I: -13
   response: 7E80562147DFE60
+- expected_values:
+    AUDI_MOTOR_I: -11
+  response: 7E80562147DFEA0

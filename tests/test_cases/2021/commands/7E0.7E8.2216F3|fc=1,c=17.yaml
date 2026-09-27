@@ -1,5 +1,14 @@
 command_id: 7E0.7E8.2216F3|fc=1,c=17
 test_cases:
 - expected_values:
+    AUDI_CRANKSHAFT_VSS: 1120
+  response: 7E8056216F308C0
+- expected_values:
     AUDI_CRANKSHAFT_VSS: 1266.5
   response: 7E8056216F309E5
+- expected_values:
+    AUDI_CRANKSHAFT_VSS: 2207
+  response: 7E8056216F3113E
+- expected_values:
+    AUDI_CRANKSHAFT_VSS: 2550
+  response: 7E8056216F313EC

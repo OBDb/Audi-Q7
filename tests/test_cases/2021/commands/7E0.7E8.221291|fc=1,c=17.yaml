@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_COOLANT_T_AT_ENGINE_START: 83.6
   response: 7E8056212910DEF
+- expected_values:
+    AUDI_COOLANT_T_AT_ENGINE_START: 97.7
+  response: 7E8056212910E7C
+- expected_values:
+    AUDI_COOLANT_T_AT_ENGINE_START: 101.3
+  response: 7E8056212910EA0

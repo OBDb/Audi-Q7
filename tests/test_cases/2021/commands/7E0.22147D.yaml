@@ -1,0 +1,5 @@
+command_id: 7E0.22147D
+test_cases:
+- expected_values:
+    AUDI_MOTOR_I: -114
+  response: 7E80562147DF1C0

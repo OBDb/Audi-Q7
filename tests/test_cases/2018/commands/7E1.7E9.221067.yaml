@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221067
+test_cases:
+- expected_values:
+    AUDI_ANALYSIS_CLU_1_T_2: 614.4
+  response: '7E9056210670078'
+- expected_values:
+    AUDI_ANALYSIS_CLU_1_T_2: 624.64
+  response: 7E905621067007A

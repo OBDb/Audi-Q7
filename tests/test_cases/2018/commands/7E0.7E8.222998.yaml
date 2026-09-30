@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222998
+test_cases:
+- expected_values:
+    AUDI_MANUAL_ENG_STARTS: 11264
+  response: 7E8056229982C00
+- expected_values:
+    AUDI_MANUAL_ENG_STARTS: 11265
+  response: 7E8056229982C01

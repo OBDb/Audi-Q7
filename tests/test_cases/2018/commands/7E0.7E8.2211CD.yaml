@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211CD
 test_cases:
 - expected_values:
+    AUDI_TCO_1_SYS: -12
+  response: 7E8056211CD1C36
+- expected_values:
     AUDI_TCO_1_SYS: -11
   response: 7E8056211CD1D5D
 - expected_values:

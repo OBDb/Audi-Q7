@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221421
+test_cases:
+- expected_values:
+    AUDI_EXH_T_BEFORE_CAT: -191.4
+  response: '7E8056214210331'
+- expected_values:
+    AUDI_EXH_T_BEFORE_CAT: 6.7
+  response: 7E8056214210AEE
+- expected_values:
+    AUDI_EXH_T_BEFORE_CAT: 24.2
+  response: 7E8056214210B9D

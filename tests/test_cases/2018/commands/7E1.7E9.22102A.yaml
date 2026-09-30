@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_CLU_CENTER_CENTRAL_T: -18149
   response: 7E90562102A1BB9
+- expected_values:
+    AUDI_CLU_CENTER_CENTRAL_T: 12828
+  response: 7E90562102A1C32

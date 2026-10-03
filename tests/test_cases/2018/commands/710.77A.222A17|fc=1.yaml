@@ -1,0 +1,8 @@
+command_id: 710.77A.222A17|fc=1
+test_cases:
+- expected_values:
+    AUDI_OVERALL_ENERGY: 5220.6
+  response: 77A06622A1700136C
+- expected_values:
+    AUDI_OVERALL_ENERGY: 5223.75
+  response: 77A06622A1700136F

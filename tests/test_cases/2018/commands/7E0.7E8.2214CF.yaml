@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.2214CF
 test_cases:
 - expected_values:
+    AUDI_MAIN_INJ_DUR: 0
     AUDI_PQ35_MAIN_INJ_DURATION: 0
   response: 7E8056214CF0000
 - expected_values:
+    AUDI_MAIN_INJ_DUR: 0.204
     AUDI_PQ35_MAIN_INJ_DURATION: 0.204
   response: 7E8056214CF01FE
 - expected_values:
+    AUDI_MAIN_INJ_DUR: 0.4096
     AUDI_PQ35_MAIN_INJ_DURATION: 0.4096
   response: 7E8056214CF0400

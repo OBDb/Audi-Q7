@@ -2,10 +2,13 @@ command_id: 7E1.7E9.22102A
 test_cases:
 - expected_values:
     AUDI_CLU_CENTER_CENTRAL_T: 20249
+    AUDI_CURRENT_N443_P_CTRL_7_P: 647.9
   response: 7E90562102A194F
 - expected_values:
     AUDI_CLU_CENTER_CENTRAL_T: -18149
+    AUDI_CURRENT_N443_P_CTRL_7_P: 709.7
   response: 7E90562102A1BB9
 - expected_values:
     AUDI_CLU_CENTER_CENTRAL_T: 12828
+    AUDI_CURRENT_N443_P_CTRL_7_P: 721.8
   response: 7E90562102A1C32

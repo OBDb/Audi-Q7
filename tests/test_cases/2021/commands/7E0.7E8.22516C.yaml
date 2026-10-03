@@ -2,4 +2,5 @@ command_id: 7E0.7E8.22516C
 test_cases:
 - expected_values:
     AUDI_CHAIN_ELONGATION_INLET: 0
+    AUDI_INT_TIM_CHAIN: 0
   response: 7E80762516C00000000

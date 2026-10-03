@@ -10,5 +10,8 @@ test_cases:
     AUDI_TCO_1_SYS: -10
   response: 7E8056211CD1EE9
 - expected_values:
+    AUDI_TCO_1_SYS: -10
+  response: 7E8056211CD1EEE
+- expected_values:
     AUDI_TCO_1_SYS: -8
   response: 7E8056211CD2000

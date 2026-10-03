@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22111A
 test_cases:
 - expected_values:
+    AUDI_INSTANT_FUEL_FLOW: 0
     AUDI_PQ35_FUEL_FLOW: 0
   response: 7E80562111A0000
 - expected_values:
+    AUDI_INSTANT_FUEL_FLOW: 10.09
     AUDI_PQ35_FUEL_FLOW: 10.09
   response: 7E80562111A03F1
 - expected_values:
+    AUDI_INSTANT_FUEL_FLOW: 15.14
     AUDI_PQ35_FUEL_FLOW: 15.14
   response: 7E80562111A05EA

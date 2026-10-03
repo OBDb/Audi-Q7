@@ -2,10 +2,13 @@ command_id: 7E0.7E8.221111
 test_cases:
 - expected_values:
     AUDI_PQ35_RAD_COOL_T_CMD: 17.8
+    AUDI_RADIATOR_OUTPUT_ECT_CMD: 17.8
   response: 7E8056211110B5D
 - expected_values:
     AUDI_PQ35_RAD_COOL_T_CMD: 85.2
+    AUDI_RADIATOR_OUTPUT_ECT_CMD: 85.2
   response: 7E8056211110DFF
 - expected_values:
     AUDI_PQ35_RAD_COOL_T_CMD: 85.3
+    AUDI_RADIATOR_OUTPUT_ECT_CMD: 85.3
   response: 7E8056211110E00

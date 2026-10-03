@@ -2,10 +2,13 @@ command_id: 7E1.7E9.221067
 test_cases:
 - expected_values:
     AUDI_ANALYSIS_CLU_1_T_2: 573.44
+    AUDI_DYNAMIC_TQ_LIM: 112
   response: '7E9056210670070'
 - expected_values:
     AUDI_ANALYSIS_CLU_1_T_2: 614.4
+    AUDI_DYNAMIC_TQ_LIM: 120
   response: '7E9056210670078'
 - expected_values:
     AUDI_ANALYSIS_CLU_1_T_2: 624.64
+    AUDI_DYNAMIC_TQ_LIM: 122
   response: 7E905621067007A

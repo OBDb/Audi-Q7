@@ -1,5 +1,6 @@
 command_id: 7E0.7E8.221356
 test_cases:
 - expected_values:
+    AUDI_CHG_LIM_OVER_CHG: 57.11
     AUDI_PQ35_CHG_LIM_OVER: 57.11
   response: 7E805621356164F

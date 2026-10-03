@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2215B8|din=03
+test_cases:
+- expected_values:
+    AUDI_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: 0
+    AUDI_OIL_LEVEL_LAST: 0
+  response: 7E8056215B80000

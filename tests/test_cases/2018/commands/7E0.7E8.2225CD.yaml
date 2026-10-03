@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_OIL_P: 194.2
   response: 7E8056225CD0796
+- expected_values:
+    AUDI_OIL_P: 199.9
+  response: 7E8056225CD07CF
+- expected_values:
+    AUDI_OIL_P: 221.7
+  response: 7E8056225CD08A9

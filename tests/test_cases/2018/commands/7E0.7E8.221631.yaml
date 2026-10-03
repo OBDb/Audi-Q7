@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_PRE_INJ_3_START: 12.17304
   response: 7E805621631022A
+- expected_values:
+    AUDI_PRE_INJ_3_START: 13.7551
+  response: '7E8056216310272'
+- expected_values:
+    AUDI_PRE_INJ_3_START: 17.02908
+  response: '7E8056216310307'

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222116
+test_cases:
+- expected_values:
+    AUDI_ACCEL: 0
+  response: '7E9056221160000'
+- expected_values:
+    AUDI_ACCEL: -0.6
+  response: 7E905622116FFFA

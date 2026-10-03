@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_CAM_SPD_V2: 791.75
   response: 7E8056210920C5F
+- expected_values:
+    AUDI_CAM_SPD_V2: 826.25
+  response: 7E8056210920CE9

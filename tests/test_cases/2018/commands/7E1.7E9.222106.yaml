@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222106
+test_cases:
+- expected_values:
+    AUDI_VSS_HR: 9.48
+  response: 7E90562210603B4
+- expected_values:
+    AUDI_VSS_HR: 63.06
+  response: 7E90562210618A2

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221027
+test_cases:
+- expected_values:
+    AUDI_CURRENT_N233_P_CTRL_5: 303.5
+  response: 7E9056210270BDB
+- expected_values:
+    AUDI_CURRENT_N233_P_CTRL_5: 850
+  response: '7E9056210272134'

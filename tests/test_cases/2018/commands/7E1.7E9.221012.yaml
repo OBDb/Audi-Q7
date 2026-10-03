@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221012
+test_cases:
+- expected_values:
+    AUDI_ID_CURRENT_DRIVING: 5
+  response: '7E90462101205'
+- expected_values:
+    AUDI_ID_CURRENT_DRIVING: 42
+  response: 7E9046210122A

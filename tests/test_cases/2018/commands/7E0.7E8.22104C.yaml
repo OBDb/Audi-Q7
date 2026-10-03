@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_AIR_MASS_SPEC: 241.1
   response: 7E80562104C096B
+- expected_values:
+    AUDI_AIR_MASS_SPEC: 285.4
+  response: 7E80562104C0B26
+- expected_values:
+    AUDI_AIR_MASS_SPEC: 294.1
+  response: 7E80562104C0B7D

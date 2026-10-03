@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2210F6
+test_cases:
+- expected_values:
+    AUDI_MIS_PER_1000_2: 4628
+  response: 7E8056210F61214
+- expected_values:
+    AUDI_MIS_PER_1000_2: 4742
+  response: 7E8056210F61286
+- expected_values:
+    AUDI_MIS_PER_1000_2: 6811
+  response: 7E8056210F61A9B

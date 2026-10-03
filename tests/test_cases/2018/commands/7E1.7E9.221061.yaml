@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221061
+test_cases:
+- expected_values:
+    AUDI_DES_TQ_RAW: -40
+  response: 7E905621061FFD8
+- expected_values:
+    AUDI_DES_TQ_RAW: -4
+  response: 7E905621061FFFC

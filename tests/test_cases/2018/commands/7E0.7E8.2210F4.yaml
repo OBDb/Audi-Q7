@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_MIS_PER_1000_3: 3888
   response: 7E8056210F40F30
+- expected_values:
+    AUDI_MIS_PER_1000_3: 4849
+  response: 7E8056210F412F1
+- expected_values:
+    AUDI_MIS_PER_1000_3: 5343
+  response: 7E8056210F414DF

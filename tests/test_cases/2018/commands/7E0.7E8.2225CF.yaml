@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2225CF
 test_cases:
 - expected_values:
+    AUDI_OIL_P_TGT: 200
+  response: 7E8056225CF07D0
+- expected_values:
     AUDI_OIL_P_TGT: 385
   response: 7E8056225CF0F0A

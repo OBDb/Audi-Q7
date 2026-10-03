@@ -1,6 +1,10 @@
 command_id: 7E0.7E8.221421
 test_cases:
 - expected_values:
+    AUDI_EGT_PRE_CAT_MODELED: -273
+    AUDI_EXH_T_BEFORE_CAT: -273
+  response: '7E8056214210001'
+- expected_values:
     AUDI_EGT_PRE_CAT_MODELED: -233.1
     AUDI_EXH_T_BEFORE_CAT: -233.1
   response: '7E8056214210190'
@@ -12,6 +16,10 @@ test_cases:
     AUDI_EGT_PRE_CAT_MODELED: -191.4
     AUDI_EXH_T_BEFORE_CAT: -191.4
   response: '7E8056214210331'
+- expected_values:
+    AUDI_EGT_PRE_CAT_MODELED: -175.5
+    AUDI_EXH_T_BEFORE_CAT: -175.5
+  response: 7E80562142103D0
 - expected_values:
     AUDI_EGT_PRE_CAT_MODELED: 6.7
     AUDI_EXH_T_BEFORE_CAT: 6.7

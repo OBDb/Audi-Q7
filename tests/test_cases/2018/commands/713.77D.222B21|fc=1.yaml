@@ -25,6 +25,18 @@ test_cases:
     77D1009622B210AD20A
     77D21DA0AD400000000
 - expected_values:
+    AUDI_BRAKE_P_V2: -0.12228
+    AUDI_BREAK_P: -0.12228
+  response: |-
+    77D1009622B210AD20A
+    77D21DA0AD800000000
+- expected_values:
+    AUDI_BRAKE_P_V2: 2.61641
+    AUDI_BREAK_P: 2.61641
+  response: |-
+    77D1009622B210B850B
+    77D218D0BB000000000
+- expected_values:
     AUDI_BRAKE_P_V2: 51.27009
     AUDI_BREAK_P: 51.27009
   response: |-

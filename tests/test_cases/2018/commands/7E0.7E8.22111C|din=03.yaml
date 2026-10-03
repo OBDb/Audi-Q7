@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22111C|din=03
+test_cases:
+- expected_values:
+    AUDI_FUEL_T_7E0_2: 18.9
+  response: 7E80562111C0B68
+- expected_values:
+    AUDI_FUEL_T_7E0_2: 20.5
+  response: 7E80562111C0B78
+- expected_values:
+    AUDI_FUEL_T_7E0_2: 23.2
+  response: 7E80562111C0B93

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221010
+test_cases:
+- expected_values:
+    AUDI_ENG_TQ_V2: 0
+  response: '7E8056210100000'
+- expected_values:
+    AUDI_ENG_TQ_V2: 44.1
+  response: 7E80562101001B9
+- expected_values:
+    AUDI_ENG_TQ_V2: 60.2
+  response: 7E805621010025A
+- expected_values:
+    AUDI_ENG_TQ_V2: 66
+  response: '7E8056210100294'
+- expected_values:
+    AUDI_ENG_TQ_V2: 80.7
+  response: '7E8056210100327'
+- expected_values:
+    AUDI_ENG_TQ_V2: 96.7
+  response: 7E80562101003C7
+- expected_values:
+    AUDI_ENG_TQ_V2: 272.6
+  response: 7E8056210100AA6

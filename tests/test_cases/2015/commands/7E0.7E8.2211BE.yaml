@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    AUDI_EOT: 3015
+    AUDI_EOT_V2: 28.4
+    AUDI_PQ35_OIL_T_2: 28.4
+    AUDI_PQ46_OIL_T_2: 300
+  response: 7E8056211BE0BC7
+- expected_values:
+    AUDI_EOT: 3074
+    AUDI_EOT_V2: 34.3
+    AUDI_PQ35_OIL_T_2: 34.3
+    AUDI_PQ46_OIL_T_2: 300
+  response: 7E8056211BE0C02
+- expected_values:
+    AUDI_EOT: 3324
+    AUDI_EOT_V2: 59.3
+    AUDI_PQ35_OIL_T_2: 59.3
+    AUDI_PQ46_OIL_T_2: 300
+  response: 7E8056211BE0CFC
+- expected_values:
+    AUDI_EOT: 3600
+    AUDI_EOT_V2: 86.9
+    AUDI_PQ35_OIL_T_2: 86.9
+    AUDI_PQ46_OIL_T_2: 300
+  response: 7E8056211BE0E10

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22179E
+test_cases:
+- expected_values:
+    AUDI_EOT_PULS: 16.2
+  response: 7E80562179E0B4D
+- expected_values:
+    AUDI_EOT_PULS: 42.4
+  response: 7E80562179E0C53

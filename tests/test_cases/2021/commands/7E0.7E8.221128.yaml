@@ -4,5 +4,5 @@ test_cases:
     AUDI_CAM_ADPT_EXH_BANK_1: 0
   response: '7E8056211280000'
 - expected_values:
-    AUDI_CAM_ADPT_EXH_BANK_1: -1.16
+    AUDI_CAM_ADPT_EXH_BANK_1: -1.27441
   response: 7E805621128FFC6

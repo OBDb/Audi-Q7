@@ -8,3 +8,7 @@ test_cases:
     AUDI_INT_MANIFOLD_P_RAW: 0
     AUDI_MAP_RAW: 17.03125
   response: 7E8056211DC00DA
+- expected_values:
+    AUDI_INT_MANIFOLD_P_RAW: 0.23438
+    AUDI_MAP_RAW: 68.04688
+  response: 7E8056211DC0367

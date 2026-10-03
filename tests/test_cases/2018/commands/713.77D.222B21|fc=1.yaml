@@ -2,16 +2,31 @@ command_id: 713.77D.222B21|fc=1
 test_cases:
 - expected_values:
     AUDI_BRAKE_P_V2: -0.30588
+    AUDI_BREAK_P: -0.30588
   response: |-
     77D1009622B210AC60E
     77D217D0EBE00000000
 - expected_values:
+    AUDI_BRAKE_P_V2: -0.24468
+    AUDI_BREAK_P: -0.24468
+  response: |-
+    77D1009622B210ACA0A
+    77D21D80ADA00000000
+- expected_values:
+    AUDI_BRAKE_P_V2: -0.24468
+    AUDI_BREAK_P: -0.24468
+  response: |-
+    77D1009622B210ACA0A
+    77D21DC0AD200000000
+- expected_values:
     AUDI_BRAKE_P_V2: -0.12228
+    AUDI_BREAK_P: -0.12228
   response: |-
     77D1009622B210AD20A
     77D21DA0AD400000000
 - expected_values:
     AUDI_BRAKE_P_V2: 51.27009
+    AUDI_BREAK_P: 51.27009
   response: |-
     77D1009622B2117F118
     77D2104182200000000

@@ -1,0 +1,30 @@
+command_id: 7E0.7E8.22120F
+test_cases:
+- expected_values:
+    AUDI_KNOCK_SENS_CYL_3: 0
+    AUDI_KNOCK_SENS_CYL_4: 0.02917
+  response: 7E80762120F0000958C
+- expected_values:
+    AUDI_KNOCK_SENS_CYL_3: 0
+    AUDI_KNOCK_SENS_CYL_4: 0.03542
+  response: 7E80762120F0000B598
+- expected_values:
+    AUDI_KNOCK_SENS_CYL_3: 0
+    AUDI_KNOCK_SENS_CYL_4: 0.03717
+  response: 7E80762120F0000BE8F
+- expected_values:
+    AUDI_KNOCK_SENS_CYL_3: 0
+    AUDI_KNOCK_SENS_CYL_4: 0.03869
+  response: 7E80762120F0000C653
+- expected_values:
+    AUDI_KNOCK_SENS_CYL_3: 0
+    AUDI_KNOCK_SENS_CYL_4: 0.04084
+  response: 7E80762120F0000D15E
+- expected_values:
+    AUDI_KNOCK_SENS_CYL_3: 0
+    AUDI_KNOCK_SENS_CYL_4: 0.04182
+  response: 7E80762120F0000D65C
+- expected_values:
+    AUDI_KNOCK_SENS_CYL_3: 0
+    AUDI_KNOCK_SENS_CYL_4: 0.04865
+  response: 7E80762120F0000F960

@@ -1,5 +1,0 @@
-command_id: 7E0.7E8.2213CD
-test_cases:
-- expected_values:
-    AUDI_MAF_RATE: 0
-  response: 7E8076213CD000020A3

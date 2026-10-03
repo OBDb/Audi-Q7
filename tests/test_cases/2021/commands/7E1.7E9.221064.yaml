@@ -2,10 +2,13 @@ command_id: 7E1.7E9.221064
 test_cases:
 - expected_values:
     AUDI_ANALYSIS_CLU_1_MAX_T: 512
+    AUDI_DES_TQ_FILTERED: 2
   response: '7E9056210640002'
 - expected_values:
     AUDI_ANALYSIS_CLU_1_MAX_T: -20480
+    AUDI_DES_TQ_FILTERED: 176
   response: 7E90562106400B0
 - expected_values:
     AUDI_ANALYSIS_CLU_1_MAX_T: -16896
+    AUDI_DES_TQ_FILTERED: 190
   response: 7E90562106400BE

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    AUDI_MEAN_INJ_QUANTITY: 136.49
+  response: '7E8056211393551'
+- expected_values:
+    AUDI_MEAN_INJ_QUANTITY: 158.72
+  response: 7E8056211393E00
+- expected_values:
+    AUDI_MEAN_INJ_QUANTITY: 163.82
+  response: 7E8056211393FFE
+- expected_values:
+    AUDI_MEAN_INJ_QUANTITY: 185.41
+  response: 7E805621139486D

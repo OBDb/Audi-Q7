@@ -1,8 +1,10 @@
 command_id: 7E0.7E8.221007
 test_cases:
 - expected_values:
+    AUDI_CAM_POS_START_PHASE: 180.59609
     AUDI_PQ35_CAMS_START: 1643.8
   response: 7E805621007201B
 - expected_values:
+    AUDI_CAM_POS_START_PHASE: 181.49698
     AUDI_PQ35_CAMS_START: 1652
   response: '7E8056210072044'

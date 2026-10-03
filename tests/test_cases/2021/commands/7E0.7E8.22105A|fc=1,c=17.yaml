@@ -1,8 +1,32 @@
 command_id: 7E0.7E8.22105A|fc=1,c=17
 test_cases:
 - expected_values:
-    AUDI_BATTERY_V: 12500
+    AUDI_BATTERY_V: 625
   response: 7E80562105A0271
 - expected_values:
-    AUDI_BATTERY_V: 14220
+    AUDI_BATTERY_V: 627
+  response: 7E80562105A0273
+- expected_values:
+    AUDI_BATTERY_V: 632
+  response: 7E80562105A0278
+- expected_values:
+    AUDI_BATTERY_V: 646
+  response: 7E80562105A0286
+- expected_values:
+    AUDI_BATTERY_V: 649
+  response: 7E80562105A0289
+- expected_values:
+    AUDI_BATTERY_V: 701
+  response: 7E80562105A02BD
+- expected_values:
+    AUDI_BATTERY_V: 703
+  response: 7E80562105A02BF
+- expected_values:
+    AUDI_BATTERY_V: 704
+  response: 7E80562105A02C0
+- expected_values:
+    AUDI_BATTERY_V: 706
+  response: 7E80562105A02C2
+- expected_values:
+    AUDI_BATTERY_V: 711
   response: 7E80562105A02C7

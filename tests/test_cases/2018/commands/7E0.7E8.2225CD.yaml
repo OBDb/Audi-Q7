@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2225CD
+test_cases:
+- expected_values:
+    AUDI_OIL_P: 194.2
+  response: 7E8056225CD0796

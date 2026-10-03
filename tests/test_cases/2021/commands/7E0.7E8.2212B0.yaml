@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2212B0
+test_cases:
+- expected_values:
+    AUDI_ACCEL_7E0_V2: 0
+  response: 7E8056212B00000
+- expected_values:
+    AUDI_ACCEL_7E0_V2: 0.265
+  response: 7E8056212B00109
+- expected_values:
+    AUDI_ACCEL_7E0_V2: 0.406
+  response: 7E8056212B00196
+- expected_values:
+    AUDI_ACCEL_7E0_V2: -0.266
+  response: 7E8056212B0FEF6
+- expected_values:
+    AUDI_ACCEL_7E0_V2: -0.159
+  response: 7E8056212B0FF61
+- expected_values:
+    AUDI_ACCEL_7E0_V2: -0.1
+  response: 7E8056212B0FF9C

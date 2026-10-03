@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_ENTIRE_ENERGY: 30402.8
   response: 77A06622A1804A39C
+- expected_values:
+    AUDI_ENTIRE_ENERGY: 30403.8
+  response: 77A06622A1804A3A6

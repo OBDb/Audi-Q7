@@ -10,5 +10,8 @@ test_cases:
     AUDI_GEN_V_ACT: 14.9
   response: 77A04624F002B
 - expected_values:
+    AUDI_GEN_V_ACT: 15
+  response: 77A04624F002C
+- expected_values:
     AUDI_GEN_V_ACT: 15.5
   response: 77A04624F0031

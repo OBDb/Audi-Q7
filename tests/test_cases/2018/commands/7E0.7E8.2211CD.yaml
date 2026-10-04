@@ -5,19 +5,7 @@ test_cases:
   response: 7E8056211CD0000
 - expected_values:
     AUDI_TCO_1_SYS: -12
-  response: 7E8056211CD1C36
-- expected_values:
-    AUDI_TCO_1_SYS: -11
-  response: 7E8056211CD1D5D
-- expected_values:
-    AUDI_TCO_1_SYS: -11
-  response: 7E8056211CD1D92
-- expected_values:
-    AUDI_TCO_1_SYS: -10
-  response: 7E8056211CD1EE9
-- expected_values:
-    AUDI_TCO_1_SYS: -10
-  response: 7E8056211CD1EEE
+  response: 7E8056211CD1CEF
 - expected_values:
     AUDI_TCO_1_SYS: -8
   response: 7E8056211CD2000

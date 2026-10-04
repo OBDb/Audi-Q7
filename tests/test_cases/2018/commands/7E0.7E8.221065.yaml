@@ -4,23 +4,11 @@ test_cases:
     AUDI_CYL_HEAD_T_ACT: 398.8
   response: 7E8056210651A3F
 - expected_values:
-    AUDI_CYL_HEAD_T_ACT: 479.5
-  response: 7E8056210651D66
+    AUDI_CYL_HEAD_T_ACT: 413.5
+  response: 7E8056210651AD2
 - expected_values:
-    AUDI_CYL_HEAD_T_ACT: 486.8
-  response: 7E8056210651DAF
-- expected_values:
-    AUDI_CYL_HEAD_T_ACT: 552.8
-  response: '7E8056210652043'
-- expected_values:
-    AUDI_CYL_HEAD_T_ACT: 694.6
-  response: 7E80562106525CD
-- expected_values:
-    AUDI_CYL_HEAD_T_ACT: 763
-  response: '7E8056210652879'
-- expected_values:
-    AUDI_CYL_HEAD_T_ACT: 1090.5
-  response: '7E8056210653544'
+    AUDI_CYL_HEAD_T_ACT: 907.2
+  response: 7E8056210652E1B
 - expected_values:
     AUDI_CYL_HEAD_T_ACT: 1359.2
   response: 7E8056210653FC3

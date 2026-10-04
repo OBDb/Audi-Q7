@@ -4,8 +4,29 @@ test_cases:
     AUDI_PRE_INJ_3_START: 12.17304
   response: 7E805621631022A
 - expected_values:
+    AUDI_PRE_INJ_3_START: 12.56856
+  response: 7E805621631023C
+- expected_values:
+    AUDI_PRE_INJ_3_START: 13.46945
+  response: '7E8056216310265'
+- expected_values:
     AUDI_PRE_INJ_3_START: 13.7551
   response: '7E8056216310272'
 - expected_values:
+    AUDI_PRE_INJ_3_START: 13.9968
+  response: 7E805621631027D
+- expected_values:
+    AUDI_PRE_INJ_3_START: 14.10667
+  response: '7E8056216310282'
+- expected_values:
     AUDI_PRE_INJ_3_START: 17.02908
   response: '7E8056216310307'
+- expected_values:
+    AUDI_PRE_INJ_3_START: 21.92905
+  response: 7E80562163103E6
+- expected_values:
+    AUDI_PRE_INJ_3_START: 30.49852
+  response: 7E805621631056C
+- expected_values:
+    AUDI_PRE_INJ_3_START: 31.94874
+  response: 7E80562163105AE

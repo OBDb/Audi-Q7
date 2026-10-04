@@ -1,11 +1,29 @@
 command_id: 7E0.7E8.221B02
 test_cases:
 - expected_values:
+    AUDI_OIL_P_SENS_RAW: 185
+  response: 7E805621B0200B9
+- expected_values:
     AUDI_OIL_P_SENS_RAW: 540
   response: 7E805621B02021C
 - expected_values:
     AUDI_OIL_P_SENS_RAW: 547
   response: 7E805621B020223
 - expected_values:
+    AUDI_OIL_P_SENS_RAW: 553
+  response: 7E805621B020229
+- expected_values:
+    AUDI_OIL_P_SENS_RAW: 563
+  response: 7E805621B020233
+- expected_values:
     AUDI_OIL_P_SENS_RAW: 575
   response: 7E805621B02023F
+- expected_values:
+    AUDI_OIL_P_SENS_RAW: 825
+  response: 7E805621B020339
+- expected_values:
+    AUDI_OIL_P_SENS_RAW: 912
+  response: 7E805621B020390
+- expected_values:
+    AUDI_OIL_P_SENS_RAW: 1359
+  response: 7E805621B02054F

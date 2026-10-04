@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     AUDI_VSS_7E1: 6
   response: 7E90462F40D06
+- expected_values:
+    AUDI_VSS_7E1: 48
+  response: 7E90462F40D30
+- expected_values:
+    AUDI_VSS_7E1: 77
+  response: 7E90462F40D4D

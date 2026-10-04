@@ -5,6 +5,14 @@ test_cases:
     AUDI_SHIFT_PROCCESS_TGT: 1
   response: 7E9056270D10101
 - expected_values:
+    AUDI_SHIFT_PROCCESS: 3
+    AUDI_SHIFT_PROCCESS_TGT: 3
+  response: 7E9056270D10303
+- expected_values:
     AUDI_SHIFT_PROCCESS: 6
     AUDI_SHIFT_PROCCESS_TGT: 6
   response: 7E9056270D10606
+- expected_values:
+    AUDI_SHIFT_PROCCESS: 8
+    AUDI_SHIFT_PROCCESS_TGT: 8
+  response: 7E9056270D10808

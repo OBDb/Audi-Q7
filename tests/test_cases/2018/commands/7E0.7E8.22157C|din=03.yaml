@@ -4,6 +4,12 @@ test_cases:
     AUDI_DPF_STATISTICS_T: 128.5
   response: 7E80562157C0FB0
 - expected_values:
+    AUDI_DPF_STATISTICS_T: 167.5
+  response: 7E80562157C1136
+- expected_values:
+    AUDI_DPF_STATISTICS_T: 168.3
+  response: 7E80562157C113E
+- expected_values:
     AUDI_DPF_STATISTICS_T: 178.5
   response: 7E80562157C11A4
 - expected_values:

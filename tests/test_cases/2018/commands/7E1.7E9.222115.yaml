@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_DYNAMIC_SHIFT: 1
   response: '7E90462211501'
+- expected_values:
+    AUDI_DYNAMIC_SHIFT: 25
+  response: '7E90462211519'

@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     AUDI_MANUAL_ENG_STARTS: 11268
   response: 7E8056229982C04
+- expected_values:
+    AUDI_MANUAL_ENG_STARTS: 11269
+  response: 7E8056229982C05
+- expected_values:
+    AUDI_MANUAL_ENG_STARTS: 11271
+  response: 7E8056229982C07

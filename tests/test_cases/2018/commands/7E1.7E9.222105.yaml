@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.222105
 test_cases:
 - expected_values:
+    AUDI_TQ_TRANSMITTING: 1.8
+  response: '7E9056221050012'
+- expected_values:
     AUDI_TQ_TRANSMITTING: 2.8
   response: 7E905622105001C
 - expected_values:

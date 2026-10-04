@@ -4,6 +4,12 @@ test_cases:
     AUDI_CHG_AIR_P_ACTUATOR: 1110
   response: 7E805621B110456
 - expected_values:
+    AUDI_CHG_AIR_P_ACTUATOR: 1138
+  response: 7E805621B110472
+- expected_values:
+    AUDI_CHG_AIR_P_ACTUATOR: 1165
+  response: 7E805621B11048D
+- expected_values:
     AUDI_CHG_AIR_P_ACTUATOR: 1187
   response: 7E805621B1104A3
 - expected_values:

@@ -10,11 +10,17 @@ test_cases:
     AUDI_VSS_ESP: 23.82
   response: 7E905621005094E
 - expected_values:
+    AUDI_VSS_ESP: 40.98
+  response: '7E9056210051002'
+- expected_values:
     AUDI_VSS_ESP: 49.96
   response: '7E9056210051384'
 - expected_values:
     AUDI_VSS_ESP: 51.19
   response: 7E90562100513FF
+- expected_values:
+    AUDI_VSS_ESP: 58.39
+  response: 7E90562100516CF
 - expected_values:
     AUDI_VSS_ESP: 74.39
   response: 7E9056210051D0F

@@ -4,11 +4,8 @@ test_cases:
     AUDI_OIL_P_SENS_RAW: 185
   response: 7E805621B0200B9
 - expected_values:
-    AUDI_OIL_P_SENS_RAW: 196
-  response: 7E805621B0200C4
-- expected_values:
     AUDI_OIL_P_SENS_RAW: 528
   response: 7E805621B020210
 - expected_values:
-    AUDI_OIL_P_SENS_RAW: 1359
-  response: 7E805621B02054F
+    AUDI_OIL_P_SENS_RAW: 1759
+  response: 7E805621B0206DF

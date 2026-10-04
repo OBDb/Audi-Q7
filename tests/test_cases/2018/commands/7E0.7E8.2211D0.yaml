@@ -1,9 +1,9 @@
 command_id: 7E0.7E8.2211D0
 test_cases:
 - expected_values:
-    AUDI_HIGH_P_TURBOCHARGER_ACT_V: 1107
+    AUDI_HIGH_P_TURBOCHARGER_ACT_V: 1106
     AUDI_TCO_1_ST: -19
-  response: 7E8056211D0159F
+  response: 7E8056211D0159A
 - expected_values:
     AUDI_HIGH_P_TURBOCHARGER_ACT_V: 1122
     AUDI_TCO_1_ST: -19

@@ -4,6 +4,9 @@ test_cases:
     AUDI_CHG_ADJUSTER_OUTPUT: 0
   response: '7E8056211810000'
 - expected_values:
+    AUDI_CHG_ADJUSTER_OUTPUT: 10.37
+  response: 7E805621181040D
+- expected_values:
     AUDI_CHG_ADJUSTER_OUTPUT: 20.36
   response: 7E80562118107F4
 - expected_values:

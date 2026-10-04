@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_KNOCK_SENS_V_CYL_2: 7.6293999999999998e-05
   response: 7E8076213FC00012494
+- expected_values:
+    AUDI_KNOCK_SENS_V_CYL_2: 7.6293999999999998e-05
+  response: 7E8076213FC00012498

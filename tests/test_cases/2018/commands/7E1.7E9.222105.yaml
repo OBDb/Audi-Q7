@@ -7,5 +7,8 @@ test_cases:
     AUDI_TQ_TRANSMITTING: 2.8
   response: 7E905622105001C
 - expected_values:
+    AUDI_TQ_TRANSMITTING: 4.7
+  response: 7E905622105002F
+- expected_values:
     AUDI_TQ_TRANSMITTING: 5.9
   response: 7E905622105003B

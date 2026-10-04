@@ -4,29 +4,8 @@ test_cases:
     AUDI_INJ_AMOUNT_DEV_CYL_5: 0
   response: '7E8056211070000'
 - expected_values:
-    AUDI_INJ_AMOUNT_DEV_CYL_5: 0.1
-  response: 7E805621107000A
-- expected_values:
-    AUDI_INJ_AMOUNT_DEV_CYL_5: 0.11
-  response: 7E805621107000B
-- expected_values:
-    AUDI_INJ_AMOUNT_DEV_CYL_5: -0.69
-  response: 7E805621107FFBB
-- expected_values:
-    AUDI_INJ_AMOUNT_DEV_CYL_5: -0.68
-  response: 7E805621107FFBC
-- expected_values:
-    AUDI_INJ_AMOUNT_DEV_CYL_5: -0.48
-  response: 7E805621107FFD0
-- expected_values:
-    AUDI_INJ_AMOUNT_DEV_CYL_5: -0.37
-  response: 7E805621107FFDB
-- expected_values:
-    AUDI_INJ_AMOUNT_DEV_CYL_5: -0.36
-  response: 7E805621107FFDC
-- expected_values:
-    AUDI_INJ_AMOUNT_DEV_CYL_5: -0.35
-  response: 7E805621107FFDD
+    AUDI_INJ_AMOUNT_DEV_CYL_5: -1.09
+  response: 7E805621107FF93
 - expected_values:
     AUDI_INJ_AMOUNT_DEV_CYL_5: -0.01
   response: 7E805621107FFFF

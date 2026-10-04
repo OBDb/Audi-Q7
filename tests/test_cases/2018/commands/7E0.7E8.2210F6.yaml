@@ -4,11 +4,11 @@ test_cases:
     AUDI_MIS_PER_1000_2: 4437
   response: 7E8056210F61155
 - expected_values:
+    AUDI_MIS_PER_1000_2: 4806
+  response: 7E8056210F612C6
+- expected_values:
     AUDI_MIS_PER_1000_2: 4882
   response: 7E8056210F61312
-- expected_values:
-    AUDI_MIS_PER_1000_2: 5562
-  response: 7E8056210F615BA
 - expected_values:
     AUDI_MIS_PER_1000_2: 6811
   response: 7E8056210F61A9B

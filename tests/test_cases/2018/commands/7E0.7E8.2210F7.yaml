@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210F7
 test_cases:
 - expected_values:
-    AUDI_MIS_1_V2: 4772
-  response: 7E8056210F712A4
+    AUDI_MIS_1_V2: 4363
+  response: 7E8056210F7110B
 - expected_values:
     AUDI_MIS_1_V2: 4824
   response: 7E8056210F712D8

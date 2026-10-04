@@ -25,6 +25,10 @@ test_cases:
     AUDI_STATIC_TQ_LIM: 396
   response: 7E905621066018C
 - expected_values:
+    AUDI_ANALYSIS_CLU_1_T_1: 839.7
+    AUDI_STATIC_TQ_LIM: 420
+  response: 7E90562106601A4
+- expected_values:
     AUDI_ANALYSIS_CLU_1_T_1: 1105.94
     AUDI_STATIC_TQ_LIM: 472
   response: 7E90562106601D8
@@ -32,3 +36,7 @@ test_cases:
     AUDI_ANALYSIS_CLU_1_T_1: 1146.9
     AUDI_STATIC_TQ_LIM: 480
   response: 7E90562106601E0
+- expected_values:
+    AUDI_ANALYSIS_CLU_1_T_1: 1003.56
+    AUDI_STATIC_TQ_LIM: 708
+  response: 7E90562106602C4

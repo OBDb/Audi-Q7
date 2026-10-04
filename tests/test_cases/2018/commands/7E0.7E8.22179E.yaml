@@ -4,11 +4,8 @@ test_cases:
     AUDI_EOT_PULS: 16.2
   response: 7E80562179E0B4D
 - expected_values:
-    AUDI_EOT_PULS: 42.4
-  response: 7E80562179E0C53
+    AUDI_EOT_PULS: 53.3
+  response: 7E80562179E0CC0
 - expected_values:
-    AUDI_EOT_PULS: 71.6
-  response: 7E80562179E0D77
-- expected_values:
-    AUDI_EOT_PULS: 72.5
-  response: 7E80562179E0D80
+    AUDI_EOT_PULS: 60.8
+  response: 7E80562179E0D0B

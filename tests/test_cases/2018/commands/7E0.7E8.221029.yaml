@@ -7,6 +7,9 @@ test_cases:
     AUDI_APP_REDUCE_V: 517.8
   response: 7E8056210290A1D
 - expected_values:
+    AUDI_APP_REDUCE_V: 560.2
+  response: 7E8056210290AF1
+- expected_values:
     AUDI_APP_REDUCE_V: 568.2
   response: 7E8056210290B19
 - expected_values:

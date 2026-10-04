@@ -4,11 +4,8 @@ test_cases:
     AUDI_OIL_P_ACT_7E0_2_V2: 954
   response: 7E805621B0403BA
 - expected_values:
-    AUDI_OIL_P_ACT_7E0_2_V2: 2004
-  response: 7E805621B0407D4
-- expected_values:
     AUDI_OIL_P_ACT_7E0_2_V2: 2579
   response: 7E805621B040A13
 - expected_values:
-    AUDI_OIL_P_ACT_7E0_2_V2: 2582
-  response: 7E805621B040A16
+    AUDI_OIL_P_ACT_7E0_2_V2: 3546
+  response: 7E805621B040DDA

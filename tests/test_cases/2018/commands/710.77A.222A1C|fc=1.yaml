@@ -1,26 +1,11 @@
 command_id: 710.77A.222A1C|fc=1
 test_cases:
 - expected_values:
-    AUDI_GEN_CURRENT: 45.2
-  response: 77A05622A1C016A
-- expected_values:
-    AUDI_GEN_CURRENT: 46.9
-  response: 77A05622A1C017B
-- expected_values:
-    AUDI_GEN_CURRENT: 49.2
-  response: 77A05622A1C0192
-- expected_values:
-    AUDI_GEN_CURRENT: 53.3
-  response: 77A05622A1C01BB
+    AUDI_GEN_CURRENT: 39.8
+  response: 77A05622A1C0134
 - expected_values:
     AUDI_GEN_CURRENT: 54.6
   response: 77A05622A1C01C8
 - expected_values:
     AUDI_GEN_CURRENT: 67.3
   response: 77A05622A1C0247
-- expected_values:
-    AUDI_GEN_CURRENT: 70.3
-  response: 77A05622A1C0265
-- expected_values:
-    AUDI_GEN_CURRENT: 77.9
-  response: 77A05622A1C02B1

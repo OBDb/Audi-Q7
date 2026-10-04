@@ -4,6 +4,12 @@ test_cases:
     AUDI_HIGH_P_EGR_ACTUATOR_ACT_V: 845.4
   response: 7E8056211A91083
 - expected_values:
+    AUDI_HIGH_P_EGR_ACTUATOR_ACT_V: 1031
+  response: 7E8056211A91423
+- expected_values:
+    AUDI_HIGH_P_EGR_ACTUATOR_ACT_V: 1163
+  response: 7E8056211A916B7
+- expected_values:
     AUDI_HIGH_P_EGR_ACTUATOR_ACT_V: 1759.4
   response: 7E8056211A9225D
 - expected_values:

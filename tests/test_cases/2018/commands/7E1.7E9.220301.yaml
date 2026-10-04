@@ -4,5 +4,8 @@ test_cases:
     AUDI_CTRL_MODULE_T: 38
   response: 7E9046203014E
 - expected_values:
+    AUDI_CTRL_MODULE_T: 43
+  response: '7E90462030153'
+- expected_values:
     AUDI_CTRL_MODULE_T: 59
   response: '7E90462030163'

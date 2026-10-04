@@ -9,9 +9,17 @@ test_cases:
     AUDI_DES_TQ_FILTERED: 134
   response: '7E9056210640086'
 - expected_values:
+    AUDI_ANALYSIS_CLU_1_MAX_T: 7681
+    AUDI_DES_TQ_FILTERED: 286
+  response: 7E905621064011E
+- expected_values:
     AUDI_ANALYSIS_CLU_1_MAX_T: -11521
     AUDI_DES_TQ_FILTERED: -46
   response: 7E905621064FFD2
+- expected_values:
+    AUDI_ANALYSIS_CLU_1_MAX_T: -10497
+    AUDI_DES_TQ_FILTERED: -42
+  response: 7E905621064FFD6
 - expected_values:
     AUDI_ANALYSIS_CLU_1_MAX_T: -8961
     AUDI_DES_TQ_FILTERED: -36

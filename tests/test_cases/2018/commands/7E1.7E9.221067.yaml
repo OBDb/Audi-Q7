@@ -13,9 +13,17 @@ test_cases:
     AUDI_DYNAMIC_TQ_LIM: 122
   response: 7E905621067007A
 - expected_values:
+    AUDI_ANALYSIS_CLU_1_T_2: 706.56
+    AUDI_DYNAMIC_TQ_LIM: 138
+  response: 7E905621067008A
+- expected_values:
     AUDI_ANALYSIS_CLU_1_T_2: 757.76
     AUDI_DYNAMIC_TQ_LIM: 148
   response: '7E9056210670094'
+- expected_values:
+    AUDI_ANALYSIS_CLU_1_T_2: 1280
+    AUDI_DYNAMIC_TQ_LIM: 250
+  response: 7E90562106700FA
 - expected_values:
     AUDI_ANALYSIS_CLU_1_T_2: 358.42
     AUDI_DYNAMIC_TQ_LIM: 326

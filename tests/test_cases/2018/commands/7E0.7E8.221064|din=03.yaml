@@ -4,6 +4,12 @@ test_cases:
     AUDI_ECT_ENG_OUTLET_CALC: 55.2
   response: 7E8056210640CD3
 - expected_values:
+    AUDI_ECT_ENG_OUTLET_CALC: 56.5
+  response: 7E8056210640CE0
+- expected_values:
+    AUDI_ECT_ENG_OUTLET_CALC: 61
+  response: 7E8056210640D0D
+- expected_values:
     AUDI_ECT_ENG_OUTLET_CALC: 66.7
   response: 7E8056210640D46
 - expected_values:

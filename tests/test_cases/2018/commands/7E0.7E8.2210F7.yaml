@@ -1,11 +1,32 @@
 command_id: 7E0.7E8.2210F7
 test_cases:
 - expected_values:
+    AUDI_MIS_1_V2: 4772
+  response: 7E8056210F712A4
+- expected_values:
     AUDI_MIS_1_V2: 4874
   response: 7E8056210F7130A
+- expected_values:
+    AUDI_MIS_1_V2: 4976
+  response: 7E8056210F71370
+- expected_values:
+    AUDI_MIS_1_V2: 5313
+  response: 7E8056210F714C1
+- expected_values:
+    AUDI_MIS_1_V2: 5424
+  response: 7E8056210F71530
 - expected_values:
     AUDI_MIS_1_V2: 5451
   response: 7E8056210F7154B
 - expected_values:
+    AUDI_MIS_1_V2: 5479
+  response: 7E8056210F71567
+- expected_values:
+    AUDI_MIS_1_V2: 5506
+  response: 7E8056210F71582
+- expected_values:
     AUDI_MIS_1_V2: 5534
   response: 7E8056210F7159E
+- expected_values:
+    AUDI_MIS_1_V2: 5698
+  response: 7E8056210F71642

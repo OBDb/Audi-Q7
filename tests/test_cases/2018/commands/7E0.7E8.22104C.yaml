@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22104C
 test_cases:
 - expected_values:
-    AUDI_AIR_MASS_SPEC: 241.1
-  response: 7E80562104C096B
+    AUDI_AIR_MASS_SPEC: 240.7
+  response: 7E80562104C0967
 - expected_values:
-    AUDI_AIR_MASS_SPEC: 285.4
-  response: 7E80562104C0B26
+    AUDI_AIR_MASS_SPEC: 304.5
+  response: 7E80562104C0BE5
 - expected_values:
-    AUDI_AIR_MASS_SPEC: 294.1
-  response: 7E80562104C0B7D
+    AUDI_AIR_MASS_SPEC: 411.4
+  response: 7E80562104C1012
+- expected_values:
+    AUDI_AIR_MASS_SPEC: 518.2
+  response: 7E80562104C143E

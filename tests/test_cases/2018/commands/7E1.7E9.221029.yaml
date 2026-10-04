@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     AUDI_CURRENT_N371_P_CTRL_6: 368.7
   response: 7E9056210290E67
+- expected_values:
+    AUDI_CURRENT_N371_P_CTRL_6: 375.2
+  response: 7E9056210290EA8
+- expected_values:
+    AUDI_CURRENT_N371_P_CTRL_6: 473.6
+  response: '7E9056210291280'

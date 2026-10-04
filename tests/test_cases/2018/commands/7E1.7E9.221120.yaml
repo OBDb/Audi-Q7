@@ -10,3 +10,13 @@ test_cases:
   response: |-
     7E91009621120417C00
     7E9210001FB00000000
+- expected_values:
+    AUDI_CLU_1_LO_ADPT_POINT: 16.766
+  response: |-
+    7E91009621120417E00
+    7E9210001FB00000000
+- expected_values:
+    AUDI_CLU_1_LO_ADPT_POINT: 16.768
+  response: |-
+    7E91009621120418000
+    7E9210001FB00000000

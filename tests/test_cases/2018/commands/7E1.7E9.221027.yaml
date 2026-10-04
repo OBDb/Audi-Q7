@@ -4,6 +4,9 @@ test_cases:
     AUDI_CURRENT_N233_P_CTRL_5: 50
   response: 7E90562102701F4
 - expected_values:
+    AUDI_CURRENT_N233_P_CTRL_5: 289.9
+  response: 7E9056210270B53
+- expected_values:
     AUDI_CURRENT_N233_P_CTRL_5: 303.5
   response: 7E9056210270BDB
 - expected_values:

@@ -13,8 +13,14 @@ test_cases:
     AUDI_FUEL_T_7E0_2: 20.5
   response: 7E80562111C0B78
 - expected_values:
+    AUDI_FUEL_T_7E0_2: 21.4
+  response: 7E80562111C0B81
+- expected_values:
     AUDI_FUEL_T_7E0_2: 22
   response: 7E80562111C0B87
+- expected_values:
+    AUDI_FUEL_T_7E0_2: 22.2
+  response: 7E80562111C0B89
 - expected_values:
     AUDI_FUEL_T_7E0_2: 23.2
   response: 7E80562111C0B93

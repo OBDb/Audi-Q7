@@ -10,5 +10,5 @@ test_cases:
     AUDI_AIR_MASS_SPEC: 411.4
   response: 7E80562104C1012
 - expected_values:
-    AUDI_AIR_MASS_SPEC: 518.2
-  response: 7E80562104C143E
+    AUDI_AIR_MASS_SPEC: 873
+  response: 7E80562104C221A

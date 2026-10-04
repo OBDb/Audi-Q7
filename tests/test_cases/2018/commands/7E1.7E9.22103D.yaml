@@ -24,3 +24,11 @@ test_cases:
     AUDI_ODO_3_V2: 112428
     AUDI_ODO_7E1: 112428
   response: 7E90662103D01B72C
+- expected_values:
+    AUDI_ODO_3_V2: 112430
+    AUDI_ODO_7E1: 112430
+  response: 7E90662103D01B72E
+- expected_values:
+    AUDI_ODO_3_V2: 112436
+    AUDI_ODO_7E1: 112436
+  response: 7E90662103D01B734

@@ -8,5 +8,8 @@ test_cases:
     AUDI_CYL_HEAD_T_ACT: 413.5
   response: 7E8056210651AD2
 - expected_values:
+    AUDI_CYL_HEAD_T_ACT: 445.3
+  response: 7E8056210651C10
+- expected_values:
     AUDI_CYL_HEAD_T_ACT: 1359.2
   response: 7E8056210653FC3

@@ -13,5 +13,11 @@ test_cases:
     AUDI_ACCEL: -2.8
   response: 7E905622116FFE4
 - expected_values:
+    AUDI_ACCEL: -1.1
+  response: 7E905622116FFF5
+- expected_values:
     AUDI_ACCEL: -0.6
   response: 7E905622116FFFA
+- expected_values:
+    AUDI_ACCEL: -0.3
+  response: 7E905622116FFFD

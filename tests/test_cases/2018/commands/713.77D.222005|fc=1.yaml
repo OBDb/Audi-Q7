@@ -4,11 +4,11 @@ test_cases:
     AUDI_P_BRAKE_SERVO_UNIT: -972.5625
   response: 77D05622005C337
 - expected_values:
+    AUDI_P_BRAKE_SERVO_UNIT: -958.75
+  response: 77D05622005C414
+- expected_values:
     AUDI_P_BRAKE_SERVO_UNIT: -945.5625
   response: 77D05622005C4E7
-- expected_values:
-    AUDI_P_BRAKE_SERVO_UNIT: -941.0625
-  response: 77D05622005C52F
 - expected_values:
     AUDI_P_BRAKE_SERVO_UNIT: -828.5625
   response: 77D05622005CC37

@@ -4,8 +4,8 @@ test_cases:
     AUDI_HIGH_FUEL_P: 0
   response: 7E8056211D50000
 - expected_values:
-    AUDI_HIGH_FUEL_P: 2.2695
-  response: 7E8056211D511BB
+    AUDI_HIGH_FUEL_P: 1.3825
+  response: 7E8056211D50ACD
 - expected_values:
     AUDI_HIGH_FUEL_P: 2.699
   response: 7E8056211D51516

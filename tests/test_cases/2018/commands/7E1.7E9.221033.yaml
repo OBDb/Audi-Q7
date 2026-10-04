@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     AUDI_TIME_SINCE_SHIFT: 4320
   response: '7E90462103390'
+- expected_values:
+    AUDI_TIME_SINCE_SHIFT: 5850
+  response: 7E904621033C3
+- expected_values:
+    AUDI_TIME_SINCE_SHIFT: 6510
+  response: 7E904621033D9

@@ -10,11 +10,17 @@ test_cases:
     AUDI_A_C_COMPRESSOR_TORQUE: 3.4
   response: 7E80562101A0022
 - expected_values:
+    AUDI_A_C_COMPRESSOR_TORQUE: 3.6
+  response: 7E80562101A0024
+- expected_values:
     AUDI_A_C_COMPRESSOR_TORQUE: 5.5
   response: 7E80562101A0037
 - expected_values:
     AUDI_A_C_COMPRESSOR_TORQUE: -28.2
   response: 7E80562101AFEE6
+- expected_values:
+    AUDI_A_C_COMPRESSOR_TORQUE: -12.8
+  response: 7E80562101AFF80
 - expected_values:
     AUDI_A_C_COMPRESSOR_TORQUE: -7.6
   response: 7E80562101AFFB4

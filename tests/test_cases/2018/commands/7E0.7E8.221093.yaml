@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_CAM_ADPT_INT_PHASE: 2.63673
   response: '7E8056210930078'
+- expected_values:
+    AUDI_CAM_ADPT_INT_PHASE: 2.6587
+  response: '7E8056210930079'

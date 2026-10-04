@@ -13,6 +13,10 @@ test_cases:
     AUDI_KNOCK_RETARD_2: 12.75
   response: 7E8056210E61138
 - expected_values:
+    AUDI_EOT_V3: -33
+    AUDI_KNOCK_RETARD_2: 20.25
+  response: 7E8056210E61B5B
+- expected_values:
     AUDI_EOT_V3: -32
     AUDI_KNOCK_RETARD_2: 21
   response: 7E8056210E61C72

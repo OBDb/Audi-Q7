@@ -24,3 +24,7 @@ test_cases:
     AUDI_FUEL_LOW_P_ACT: 476.6
     AUDI_LOW_FUEL_P_ACT: 476.6
   response: 7E8056211C8129E
+- expected_values:
+    AUDI_FUEL_LOW_P_ACT: 603.6
+    AUDI_LOW_FUEL_P_ACT: 603.6
+  response: 7E8056211C81794

@@ -4,26 +4,11 @@ test_cases:
     AUDI_MIS_PER_1000_2: 4437
   response: 7E8056210F61155
 - expected_values:
-    AUDI_MIS_PER_1000_2: 4628
-  response: 7E8056210F61214
-- expected_values:
-    AUDI_MIS_PER_1000_2: 4742
-  response: 7E8056210F61286
-- expected_values:
     AUDI_MIS_PER_1000_2: 4882
   response: 7E8056210F61312
 - expected_values:
-    AUDI_MIS_PER_1000_2: 5176
-  response: 7E8056210F61438
-- expected_values:
-    AUDI_MIS_PER_1000_2: 5227
-  response: 7E8056210F6146B
-- expected_values:
-    AUDI_MIS_PER_1000_2: 5241
-  response: 7E8056210F61479
-- expected_values:
-    AUDI_MIS_PER_1000_2: 5692
-  response: 7E8056210F6163C
+    AUDI_MIS_PER_1000_2: 5562
+  response: 7E8056210F615BA
 - expected_values:
     AUDI_MIS_PER_1000_2: 6811
   response: 7E8056210F61A9B

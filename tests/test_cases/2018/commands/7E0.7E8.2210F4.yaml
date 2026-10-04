@@ -10,5 +10,5 @@ test_cases:
     AUDI_MIS_PER_1000_3: 4874
   response: 7E8056210F4130A
 - expected_values:
-    AUDI_MIS_PER_1000_3: 5155
-  response: 7E8056210F41423
+    AUDI_MIS_PER_1000_3: 5754
+  response: 7E8056210F4167A

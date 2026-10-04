@@ -10,6 +10,12 @@ test_cases:
     AUDI_CHG_AIR_P_ACT_V3: 1025
   response: 7E805621B0E3340
 - expected_values:
+    AUDI_CHG_AIR_P_ACT_V3: 1038.98438
+  response: 7E805621B0E33F3
+- expected_values:
+    AUDI_CHG_AIR_P_ACT_V3: 1040.9375
+  response: 7E805621B0E340C
+- expected_values:
     AUDI_CHG_AIR_P_ACT_V3: 1142.96875
   response: 7E805621B0E3926
 - expected_values:

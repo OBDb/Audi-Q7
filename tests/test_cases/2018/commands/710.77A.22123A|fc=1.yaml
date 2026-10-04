@@ -19,12 +19,6 @@ test_cases:
     77A100B62123A0004AD
     77A21F00004A392AAAA
 - expected_values:
-    AUDI_BZE_Q_ELAD: 30401.8
-    AUDI_BZE_Q_LAD: 30667.9
-  response: |-
-    77A100B62123A0004AD
-    77A21F70004A392AAAA
-- expected_values:
     AUDI_BZE_Q_ELAD: 30402.8
     AUDI_BZE_Q_LAD: 30668.7
   response: |-
@@ -36,15 +30,3 @@ test_cases:
   response: |-
     77A100B62123A0004AE
     77A21140004A3B5AAAA
-- expected_values:
-    AUDI_BZE_Q_ELAD: 30405.3
-    AUDI_BZE_Q_LAD: 30671.2
-  response: |-
-    77A100B62123A0004AE
-    77A21180004A3B5AAAA
-- expected_values:
-    AUDI_BZE_Q_ELAD: 30405.3
-    AUDI_BZE_Q_LAD: 30671.3
-  response: |-
-    77A100B62123A0004AE
-    77A21190004A3B5AAAA

@@ -4,5 +4,8 @@ test_cases:
     AUDI_ID_CURRENT_DRIVING: 5
   response: '7E90462101205'
 - expected_values:
+    AUDI_ID_CURRENT_DRIVING: 8
+  response: '7E90462101208'
+- expected_values:
     AUDI_ID_CURRENT_DRIVING: 42
   response: 7E9046210122A

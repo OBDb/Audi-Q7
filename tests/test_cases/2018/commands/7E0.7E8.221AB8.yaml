@@ -6,27 +6,3 @@ test_cases:
 - expected_values:
     AUDI_FUEL_P_LOW_ACT: 487.7
   response: 7E805621AB8130D
-- expected_values:
-    AUDI_FUEL_P_LOW_ACT: 488.2
-  response: 7E805621AB81312
-- expected_values:
-    AUDI_FUEL_P_LOW_ACT: 488.5
-  response: 7E805621AB81315
-- expected_values:
-    AUDI_FUEL_P_LOW_ACT: 489
-  response: 7E805621AB8131A
-- expected_values:
-    AUDI_FUEL_P_LOW_ACT: 490.1
-  response: 7E805621AB81325
-- expected_values:
-    AUDI_FUEL_P_LOW_ACT: 490.4
-  response: 7E805621AB81328
-- expected_values:
-    AUDI_FUEL_P_LOW_ACT: 493.6
-  response: 7E805621AB81348
-- expected_values:
-    AUDI_FUEL_P_LOW_ACT: 494.2
-  response: 7E805621AB8134E
-- expected_values:
-    AUDI_FUEL_P_LOW_ACT: 495
-  response: 7E805621AB81356

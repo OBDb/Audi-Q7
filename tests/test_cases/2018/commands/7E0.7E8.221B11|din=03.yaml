@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.221B11|din=03
 test_cases:
 - expected_values:
+    AUDI_CHG_AIR_P_ACTUATOR: 1110
+  response: 7E805621B110456
+- expected_values:
     AUDI_CHG_AIR_P_ACTUATOR: 1187
   response: 7E805621B1104A3
+- expected_values:
+    AUDI_CHG_AIR_P_ACTUATOR: 1259
+  response: 7E805621B1104EB
 - expected_values:
     AUDI_CHG_AIR_P_ACTUATOR: 1265
   response: 7E805621B1104F1

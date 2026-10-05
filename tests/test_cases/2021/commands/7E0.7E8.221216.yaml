@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_REL_LOAD: 36.77784
   response: '7E8056212160621'
+- expected_values:
+    Q7_REL_LOAD: 55.78793
+  response: 7E805621216094C

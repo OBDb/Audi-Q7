@@ -19,5 +19,8 @@ test_cases:
     Q7_KNOCK_SENS_CYL_3: 0.06072
   response: '7E80762121000013746'
 - expected_values:
+    Q7_KNOCK_SENS_CYL_3: 0.06488
+  response: 7E80762121000014C9A
+- expected_values:
     Q7_KNOCK_SENS_CYL_3: 0.07558
   response: '7E80762121000018370'

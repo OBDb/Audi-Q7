@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     Q7_ACCEL_PEDAL_SENS_2_V: 996
   response: 7E80562102B1374
+- expected_values:
+    Q7_ACCEL_PEDAL_SENS_2_V: 1108.2
+  response: 7E80562102B15A5

@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     Q7_OVERALL_ENERGY: 5315.1
   response: 77A06622A170013C6
+- expected_values:
+    Q7_OVERALL_ENERGY: 5322.45
+  response: 77A06622A170013CD
+- expected_values:
+    Q7_OVERALL_ENERGY: 5323.5
+  response: 77A06622A170013CE
+- expected_values:
+    Q7_OVERALL_ENERGY: 5326.65
+  response: 77A06622A170013D1
+- expected_values:
+    Q7_OVERALL_ENERGY: 5327.7
+  response: 77A06622A170013D2

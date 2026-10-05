@@ -13,6 +13,9 @@ test_cases:
     Q7_IAT_7E0: 29.25
   response: 7E80462149E67
 - expected_values:
+    Q7_IAT_7E0: 32.25
+  response: 7E80462149E6B
+- expected_values:
     Q7_IAT_7E0: 36
   response: 7E80462149E70
 - expected_values:

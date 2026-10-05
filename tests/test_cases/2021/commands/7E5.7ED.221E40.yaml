@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     Q7_HVBAT_CELL_1_V: 0.92139
   response: 7ED05621E400EBE
+- expected_values:
+    Q7_HVBAT_CELL_1_V: 0.94653
+  response: 7ED05621E400F25

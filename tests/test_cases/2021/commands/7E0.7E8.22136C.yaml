@@ -4,6 +4,9 @@ test_cases:
     Q7_CAM_ADJ_EXH_BANK_1_ACT: 5.23438
   response: 7E80562136C014F
 - expected_values:
+    Q7_CAM_ADJ_EXH_BANK_1_ACT: 13.89062
+  response: 7E80562136C0379
+- expected_values:
     Q7_CAM_ADJ_EXH_BANK_1_ACT: -23.625
   response: 7E80562136CFA18
 - expected_values:

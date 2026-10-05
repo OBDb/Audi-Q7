@@ -4,5 +4,8 @@ test_cases:
     Q7_IDLE_TGT_RPM: 610
   response: 7E80562116104C4
 - expected_values:
+    Q7_IDLE_TGT_RPM: 898
+  response: '7E8056211610704'
+- expected_values:
     Q7_IDLE_TGT_RPM: 930
   response: '7E8056211610744'

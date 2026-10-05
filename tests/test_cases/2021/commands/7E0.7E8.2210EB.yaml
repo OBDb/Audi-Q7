@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_CRANK_ROT_ANG: 62.6
   response: 7E8056210EB0272
+- expected_values:
+    Q7_CRANK_ROT_ANG: 69.6
+  response: 7E8056210EB02B8

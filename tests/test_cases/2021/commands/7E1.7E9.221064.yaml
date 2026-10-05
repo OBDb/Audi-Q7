@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_DES_TQ_FILTERED: 190
   response: 7E90562106400BE
+- expected_values:
+    Q7_DES_TQ_FILTERED: -98
+  response: 7E905621064FF9E

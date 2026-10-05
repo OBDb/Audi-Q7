@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_DPF_DIST_SINCE_REGEN: 67102.948
   response: 7E80762208D03FFE8E4
+- expected_values:
+    Q7_DPF_DIST_SINCE_REGEN: 67488.58
+  response: 7E80762208D0405CB44

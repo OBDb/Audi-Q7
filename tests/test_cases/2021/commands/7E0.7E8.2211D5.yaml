@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_HIGH_FUEL_P: 0.924
   response: 7E8056211D50738
+- expected_values:
+    Q7_HIGH_FUEL_P: -0.076
+  response: 7E8056211D5FF68

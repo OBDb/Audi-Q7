@@ -4,5 +4,8 @@ test_cases:
     Q7_OPEN_CAM_SHFT_ANG: 1
   response: 7E8056210EA000A
 - expected_values:
+    Q7_OPEN_CAM_SHFT_ANG: -7
+  response: 7E8056210EAFFBA
+- expected_values:
     Q7_OPEN_CAM_SHFT_ANG: -0.2
   response: 7E8056210EAFFFE

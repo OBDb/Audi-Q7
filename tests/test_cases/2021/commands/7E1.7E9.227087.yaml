@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227087
+test_cases:
+- expected_values:
+    Q7_ADPT_CNT_FAST_FILL: 31
+  response: 7E9046270871F

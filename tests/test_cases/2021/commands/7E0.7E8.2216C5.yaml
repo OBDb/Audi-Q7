@@ -7,5 +7,8 @@ test_cases:
     Q7_THROTTLE_REGULATOR: 9.95312
   response: 7E8056216C504FA
 - expected_values:
+    Q7_THROTTLE_REGULATOR: 12.89062
+  response: 7E8056216C50672
+- expected_values:
     Q7_THROTTLE_REGULATOR: 46.65625
   response: 7E8056216C51754

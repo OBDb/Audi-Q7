@@ -7,5 +7,8 @@ test_cases:
     Q7_OUTSIDE_T: 33.5
   response: 77E0462220CA7
 - expected_values:
+    Q7_OUTSIDE_T: 36.5
+  response: 77E0462220CAD
+- expected_values:
     Q7_OUTSIDE_T: 39
   response: 77E0462220CB2

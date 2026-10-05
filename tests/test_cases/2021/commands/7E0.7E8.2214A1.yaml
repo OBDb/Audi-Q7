@@ -4,6 +4,9 @@ test_cases:
     Q7_RATED_DRIVE_TQ: 554.5
   response: 7E8076214A1000015A9
 - expected_values:
+    Q7_RATED_DRIVE_TQ: 626.5
+  response: 7E8076214A100001879
+- expected_values:
     Q7_RATED_DRIVE_TQ: 1145.5
   response: 7E8076214A100002CBF
 - expected_values:

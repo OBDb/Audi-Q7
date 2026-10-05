@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q7_TANK_FILL_LEVEL: 1280
   response: 7E8056251D83200
+- expected_values:
+    Q7_TANK_FILL_LEVEL: 1612.8
+  response: 7E8056251D83F00

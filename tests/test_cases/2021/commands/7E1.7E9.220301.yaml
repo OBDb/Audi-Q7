@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.220301
+test_cases:
+- expected_values:
+    Q7_CTRL_MODULE_T: 61
+  response: '7E90462030165'
+- expected_values:
+    Q7_CTRL_MODULE_T: 67
+  response: 7E9046203016B
+- expected_values:
+    Q7_CTRL_MODULE_T: 71
+  response: 7E9046203016F
+- expected_values:
+    Q7_CTRL_MODULE_T: 74
+  response: '7E90462030172'

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q7_TQ_INCREASE_REQ_ESP: -33554.4
   response: 7E807621340FFFAE148
+- expected_values:
+    Q7_TQ_INCREASE_REQ_ESP: -13762.5
+  response: 7E807621340FFFDE667

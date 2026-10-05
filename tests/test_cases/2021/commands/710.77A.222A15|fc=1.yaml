@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     Q7_ENERGY_BALANCE_LAST: 0.2
   response: 77A05622A150014
+- expected_values:
+    Q7_ENERGY_BALANCE_LAST: 0.3
+  response: 77A05622A15001E
+- expected_values:
+    Q7_ENERGY_BALANCE_LAST: 0.4
+  response: 77A05622A150028
+- expected_values:
+    Q7_ENERGY_BALANCE_LAST: 0.7
+  response: 77A05622A150046
+- expected_values:
+    Q7_ENERGY_BALANCE_LAST: 0.8
+  response: 77A05622A150050

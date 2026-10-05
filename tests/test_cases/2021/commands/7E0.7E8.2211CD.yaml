@@ -4,6 +4,9 @@ test_cases:
     Q7_TCO_1_SYS: -40
   response: 7E8056211CD0036
 - expected_values:
+    Q7_TCO_1_SYS: -40
+  response: 7E8056211CD003B
+- expected_values:
     Q7_TCO_1_SYS: 215
   response: 7E8056211CDFF90
 - expected_values:

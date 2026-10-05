@@ -4,6 +4,9 @@ test_cases:
     Q7_FUEL_LOW_P_ACT: 502.8
   response: 7E8056211C813A4
 - expected_values:
+    Q7_FUEL_LOW_P_ACT: 559.5
+  response: 7E8056211C815DB
+- expected_values:
     Q7_FUEL_LOW_P_ACT: 577.1
   response: 7E8056211C8168B
 - expected_values:

@@ -4,6 +4,9 @@ test_cases:
     Q7_CYL_BLOCK_T_SENS: 83.3
   response: 7E8056251D40DEC
 - expected_values:
+    Q7_CYL_BLOCK_T_SENS: 94.1
+  response: 7E8056251D40E58
+- expected_values:
     Q7_CYL_BLOCK_T_SENS: 94.4
   response: 7E8056251D40E5B
 - expected_values:

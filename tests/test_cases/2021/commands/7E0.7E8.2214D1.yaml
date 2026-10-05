@@ -10,5 +10,8 @@ test_cases:
     Q7_PQ35_PRE_INJ_2_DURATION: -4.916
   response: 7E8056214D1CFFE
 - expected_values:
+    Q7_PQ35_PRE_INJ_2_DURATION: -0.6152
+  response: 7E8056214D1F9FE
+- expected_values:
     Q7_PQ35_PRE_INJ_2_DURATION: -0.0008
   response: 7E8056214D1FFFE

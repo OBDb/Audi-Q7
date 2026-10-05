@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22128A
 test_cases:
 - expected_values:
+    Q7_FUEL_T: 53.25
+  response: 7E80462128A87
+- expected_values:
     Q7_FUEL_T: 57
   response: 7E80462128A8C
 - expected_values:

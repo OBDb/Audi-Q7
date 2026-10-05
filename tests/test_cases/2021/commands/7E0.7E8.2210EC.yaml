@@ -4,6 +4,9 @@ test_cases:
     Q7_VLV_TIM_DIFF_ACT_SET: 0
   response: 7E8056210EC0000
 - expected_values:
+    Q7_VLV_TIM_DIFF_ACT_SET: 0.07812
+  response: 7E8056210EC0005
+- expected_values:
     Q7_VLV_TIM_DIFF_ACT_SET: 0.28125
   response: 7E8056210EC0012
 - expected_values:

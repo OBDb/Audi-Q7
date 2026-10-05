@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227095
+test_cases:
+- expected_values:
+    Q7_ADPT_CNT_CLU_E: 43
+  response: 7E9046270952B

@@ -10,6 +10,9 @@ test_cases:
     Q7_MOTOR_I: -49
   response: 7E80562147DF9E0
 - expected_values:
+    Q7_MOTOR_I: -22
+  response: 7E80562147DFD40
+- expected_values:
     Q7_MOTOR_I: -20
   response: 7E80562147DFD80
 - expected_values:

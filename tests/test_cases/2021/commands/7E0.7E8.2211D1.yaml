@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211D1
 test_cases:
 - expected_values:
+    Q7_BRAKE_BOOSTER_RAW_P: 51
+  response: 7E8056211D10033
+- expected_values:
     Q7_BRAKE_BOOSTER_RAW_P: 52
   response: 7E8056211D10034
 - expected_values:

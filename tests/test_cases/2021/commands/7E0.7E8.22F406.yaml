@@ -4,6 +4,9 @@ test_cases:
     Q7_SHORT_TERM_FUEL_TRIM_1: -6.25
   response: 7E80462F40678
 - expected_values:
+    Q7_SHORT_TERM_FUEL_TRIM_1: -5.46875
+  response: 7E80462F40679
+- expected_values:
     Q7_SHORT_TERM_FUEL_TRIM_1: 0
   response: 7E80462F40680
 - expected_values:

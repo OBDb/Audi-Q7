@@ -4,6 +4,9 @@ test_cases:
     Q7_INTEGRATED_MASS_AIR_SINCE: 2348.11824
   response: 7E80562174319CC
 - expected_values:
+    Q7_INTEGRATED_MASS_AIR_SINCE: 3921.47124
+  response: 7E8056217432B15
+- expected_values:
     Q7_INTEGRATED_MASS_AIR_SINCE: 11301.11904
   response: 7E8056217437C28
 - expected_values:

@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_MAP_RAW: 560.70312
   response: 7E8056211DC1C09
+- expected_values:
+    Q7_MAP_RAW: 989.45312
+  response: 7E8056211DC3179

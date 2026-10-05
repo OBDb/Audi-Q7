@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_HEIGHT_CORR: 0.97637
   response: 7E8056211363E7D
+- expected_values:
+    Q7_HEIGHT_CORR: 0.97949
+  response: 7E8056211363EB0

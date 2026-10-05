@@ -10,5 +10,5 @@ test_cases:
     Q7_ODO_V3: 66816
   response: 7E8076210E000010500
 - expected_values:
-    Q7_ODO_V3: 67330
-  response: 7E8076210E000010702
+    Q7_ODO_V3: 67824
+  response: 7E8076210E0000108F0

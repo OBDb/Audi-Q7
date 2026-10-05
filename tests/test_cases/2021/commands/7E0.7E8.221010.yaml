@@ -19,5 +19,8 @@ test_cases:
     Q7_ENG_TQ: 96.7
   response: 7E80562101003C7
 - expected_values:
+    Q7_ENG_TQ: 151.4
+  response: 7E80562101005EA
+- expected_values:
     Q7_ENG_TQ: 272.6
   response: 7E8056210100AA6

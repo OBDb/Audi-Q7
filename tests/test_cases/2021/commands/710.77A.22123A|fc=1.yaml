@@ -6,3 +6,27 @@ test_cases:
   response: |-
     77A100B62123A000167
     77A211E00015F94AAAA
+- expected_values:
+    Q7_BZE_Q_ELAD: 9000.9
+    Q7_BZE_Q_LAD: 9194.6
+  response: |-
+    77A100B62123A000167
+    77A212A00015F99AAAA
+- expected_values:
+    Q7_BZE_Q_ELAD: 9000.9
+    Q7_BZE_Q_LAD: 9194.7
+  response: |-
+    77A100B62123A000167
+    77A212B00015F99AAAA
+- expected_values:
+    Q7_BZE_Q_ELAD: 9000.9
+    Q7_BZE_Q_LAD: 9195
+  response: |-
+    77A100B62123A000167
+    77A212E00015F99AAAA
+- expected_values:
+    Q7_BZE_Q_ELAD: 9000.9
+    Q7_BZE_Q_LAD: 9195.1
+  response: |-
+    77A100B62123A000167
+    77A212F00015F99AAAA

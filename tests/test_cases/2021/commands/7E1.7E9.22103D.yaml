@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22103D
+test_cases:
+- expected_values:
+    Q7_ODO_7E1_2: 67824
+  response: 7E90662103D0108F0
+- expected_values:
+    Q7_ODO_7E1_2: 67828
+  response: 7E90662103D0108F4
+- expected_values:
+    Q7_ODO_7E1_2: 67830
+  response: 7E90662103D0108F6
+- expected_values:
+    Q7_ODO_7E1_2: 67832
+  response: 7E90662103D0108F8

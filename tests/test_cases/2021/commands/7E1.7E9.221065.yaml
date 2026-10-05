@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_FRICTION_TQ: 50
   response: '7E9056210650032'
+- expected_values:
+    Q7_FRICTION_TQ: 52
+  response: '7E9056210650034'

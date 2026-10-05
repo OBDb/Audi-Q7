@@ -16,6 +16,9 @@ test_cases:
     Q7_CAM_SPD_7E0: 739
   response: 7E8056211240B8C
 - expected_values:
+    Q7_CAM_SPD_7E0: 775.75
+  response: 7E8056211240C1F
+- expected_values:
     Q7_CAM_SPD_7E0: 1140.75
   response: 7E80562112411D3
 - expected_values:

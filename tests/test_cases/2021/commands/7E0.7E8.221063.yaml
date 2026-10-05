@@ -4,6 +4,9 @@ test_cases:
     Q7_ENG_OUTLET_ECT_CALC: 89.5
   response: 7E8056210630E2A
 - expected_values:
+    Q7_ENG_OUTLET_ECT_CALC: 94.7
+  response: 7E8056210630E5E
+- expected_values:
     Q7_ENG_OUTLET_ECT_CALC: 98.3
   response: 7E8056210630E82
 - expected_values:

@@ -2,6 +2,9 @@ command_id: 7E0.7E8.2239A4
 test_cases:
 - expected_values:
     Q7_CHG_P_ACTUATOR_SPEC_7E0: 100
+  response: 7E8056239A43297
+- expected_values:
+    Q7_CHG_P_ACTUATOR_SPEC_7E0: 100
   response: 7E8056239A4361A
 - expected_values:
     Q7_CHG_P_ACTUATOR_SPEC_7E0: 100

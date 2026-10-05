@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22F449
+test_cases:
+- expected_values:
+    Q7_ACCEL_PEDAL_POS: 14.90196
+  response: 7E90462F44926
+- expected_values:
+    Q7_ACCEL_PEDAL_POS: 25.88235
+  response: 7E90462F44942
+- expected_values:
+    Q7_ACCEL_PEDAL_POS: 29.01961
+  response: 7E90462F4494A

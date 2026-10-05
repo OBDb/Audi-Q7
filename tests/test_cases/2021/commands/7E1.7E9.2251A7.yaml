@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2251A7
+test_cases:
+- expected_values:
+    Q7_AUX_HYDRAULIC_PMP_V: 14.3
+  response: 7E9046251A78F
+- expected_values:
+    Q7_AUX_HYDRAULIC_PMP_V: 14.4
+  response: 7E9046251A790

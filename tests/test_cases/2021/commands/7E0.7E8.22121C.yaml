@@ -4,6 +4,9 @@ test_cases:
     Q7_AIR_FILLING: 12.82059
   response: 7E80562121C0223
 - expected_values:
+    Q7_AIR_FILLING: 35.20388
+  response: 7E80562121C05DE
+- expected_values:
     Q7_AIR_FILLING: 37.61799
   response: 7E80562121C0645
 - expected_values:

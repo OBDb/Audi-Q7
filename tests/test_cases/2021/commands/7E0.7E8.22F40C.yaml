@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
+    Q7_RPM: 875
+  response: 7E80562F40C0DAC
+- expected_values:
     Q7_RPM: 917
   response: 7E80562F40C0E54
 - expected_values:

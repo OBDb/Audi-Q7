@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22112D
 test_cases:
 - expected_values:
+    Q7_SPARK_EFFICIENCY_DEV_2: 0
+  response: 7E80462112D00
+- expected_values:
     Q7_SPARK_EFFICIENCY_DEV_2: 42.174
   response: 7E80462112D36

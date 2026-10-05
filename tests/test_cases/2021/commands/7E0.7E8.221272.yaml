@@ -10,6 +10,9 @@ test_cases:
     Q7_EGT_AFTER_CAT: 656.9
   response: '7E8056212722454'
 - expected_values:
+    Q7_EGT_AFTER_CAT: 661.1
+  response: 7E805621272247E
+- expected_values:
     Q7_EGT_AFTER_CAT: 684.6
   response: '7E8056212722569'
 - expected_values:

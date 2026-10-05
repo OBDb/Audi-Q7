@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q7_BAT_INTERNAL_RES_RAW: 5
   response: 77A04622A2519
+- expected_values:
+    Q7_BAT_INTERNAL_RES_RAW: 5.6
+  response: 77A04622A251C

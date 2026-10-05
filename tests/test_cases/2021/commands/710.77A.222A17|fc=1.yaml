@@ -1,0 +1,5 @@
+command_id: 710.77A.222A17|fc=1
+test_cases:
+- expected_values:
+    Q7_OVERALL_ENERGY: 5315.1
+  response: 77A06622A170013C6

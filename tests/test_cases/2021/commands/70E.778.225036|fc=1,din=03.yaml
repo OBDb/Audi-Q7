@@ -1,0 +1,7 @@
+command_id: 70E.778.225036|fc=1,din=03
+test_cases:
+- expected_values:
+    Q7_HUMIDITY_SENS_REL: 13.86
+  response: |-
+    778100C62503600C800
+    778211C027103E800AA

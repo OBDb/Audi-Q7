@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q7_SSB_R: 5
   response: 77A04622A0E19
+- expected_values:
+    Q7_SSB_R: 5.2
+  response: 77A04622A0E1A

@@ -1,0 +1,8 @@
+command_id: 7E0.22114F
+test_cases:
+- expected_values:
+    Q7_PQ35_SOOT_MASS_CALC: 11.44
+  response: 7E80562114F0478
+- expected_values:
+    Q7_PQ35_SOOT_MASS_CALC: 12.69
+  response: 7E80562114F04F5

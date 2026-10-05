@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.221011
 test_cases:
 - expected_values:
-    AUDI_ADAPTIVE_MODE: 1
+    Q7_ADAPTIVE_MODE: 1
   response: '7E90462101101'
 - expected_values:
-    AUDI_ADAPTIVE_MODE: 2
+    Q7_ADAPTIVE_MODE: 2
   response: '7E90462101102'

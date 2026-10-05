@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.221029
 test_cases:
 - expected_values:
-    AUDI_APP_REDUCE_V: 0
+    Q7_APP_REDUCE_V: 0
   response: '7E8056210290000'
 - expected_values:
-    AUDI_APP_REDUCE_V: 517.8
+    Q7_APP_REDUCE_V: 517.8
   response: 7E8056210290A1D
 - expected_values:
-    AUDI_APP_REDUCE_V: 560.2
+    Q7_APP_REDUCE_V: 560.2
   response: 7E8056210290AF1
 - expected_values:
-    AUDI_APP_REDUCE_V: 568.2
+    Q7_APP_REDUCE_V: 568.2
   response: 7E8056210290B19
 - expected_values:
-    AUDI_APP_REDUCE_V: 623.4
+    Q7_APP_REDUCE_V: 623.4
   response: 7E8056210290C2D

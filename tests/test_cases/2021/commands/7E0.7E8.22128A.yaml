@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.22128A
 test_cases:
 - expected_values:
-    AUDI_FUEL_T: 57
+    Q7_FUEL_T: 57
   response: 7E80462128A8C
 - expected_values:
-    AUDI_FUEL_T: 63
+    Q7_FUEL_T: 63
   response: 7E80462128A94
 - expected_values:
-    AUDI_FUEL_T: 66.75
+    Q7_FUEL_T: 66.75
   response: 7E80462128A99
 - expected_values:
-    AUDI_FUEL_T: 78
+    Q7_FUEL_T: 78
   response: 7E80462128AA8
 - expected_values:
-    AUDI_FUEL_T: 78.75
+    Q7_FUEL_T: 78.75
   response: 7E80462128AA9
 - expected_values:
-    AUDI_FUEL_T: 81
+    Q7_FUEL_T: 81
   response: 7E80462128AAC
 - expected_values:
-    AUDI_FUEL_T: 82.5
+    Q7_FUEL_T: 82.5
   response: 7E80462128AAE

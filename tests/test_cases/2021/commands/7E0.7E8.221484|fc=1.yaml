@@ -1,26 +1,20 @@
 command_id: 7E0.7E8.221484|fc=1
 test_cases:
 - expected_values:
-    AUDI_MIS_PER_1000_RPM_1: 1496
-    AUDI_MOTOR_V: 46.75
+    Q7_MIS_PER_1000_RPM_1: 1496
   response: 7E80562148405D8
 - expected_values:
-    AUDI_MIS_PER_1000_RPM_1: 1520
-    AUDI_MOTOR_V: 47.5
+    Q7_MIS_PER_1000_RPM_1: 1520
   response: 7E80562148405F0
 - expected_values:
-    AUDI_MIS_PER_1000_RPM_1: 1528
-    AUDI_MOTOR_V: 47.75
+    Q7_MIS_PER_1000_RPM_1: 1528
   response: 7E80562148405F8
 - expected_values:
-    AUDI_MIS_PER_1000_RPM_1: 1536
-    AUDI_MOTOR_V: 48
+    Q7_MIS_PER_1000_RPM_1: 1536
   response: '7E8056214840600'
 - expected_values:
-    AUDI_MIS_PER_1000_RPM_1: 1544
-    AUDI_MOTOR_V: 48.25
+    Q7_MIS_PER_1000_RPM_1: 1544
   response: '7E8056214840608'
 - expected_values:
-    AUDI_MIS_PER_1000_RPM_1: 1568
-    AUDI_MOTOR_V: 49
+    Q7_MIS_PER_1000_RPM_1: 1568
   response: '7E8056214840620'

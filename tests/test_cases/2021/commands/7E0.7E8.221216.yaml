@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221216
 test_cases:
 - expected_values:
-    AUDI_REL_LOAD: 14.08763
+    Q7_REL_LOAD: 14.08763
   response: '7E8056212160259'
 - expected_values:
-    AUDI_REL_LOAD: 33.28524
+    Q7_REL_LOAD: 33.28524
   response: 7E805621216058C
 - expected_values:
-    AUDI_REL_LOAD: 36.77784
+    Q7_REL_LOAD: 36.77784
   response: '7E8056212160621'

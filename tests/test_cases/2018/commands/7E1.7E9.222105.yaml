@@ -1,14 +1,17 @@
 command_id: 7E1.7E9.222105
 test_cases:
 - expected_values:
-    AUDI_TQ_TRANSMITTING: 1.8
+    Q7_TQ_TRANSMITTING: 1.8
   response: '7E9056221050012'
 - expected_values:
-    AUDI_TQ_TRANSMITTING: 2.8
+    Q7_TQ_TRANSMITTING: 2.8
   response: 7E905622105001C
 - expected_values:
-    AUDI_TQ_TRANSMITTING: 4.7
+    Q7_TQ_TRANSMITTING: 3.6
+  response: '7E9056221050024'
+- expected_values:
+    Q7_TQ_TRANSMITTING: 4.7
   response: 7E905622105002F
 - expected_values:
-    AUDI_TQ_TRANSMITTING: 5.9
+    Q7_TQ_TRANSMITTING: 5.9
   response: 7E905622105003B

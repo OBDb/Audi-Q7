@@ -1,0 +1,17 @@
+command_id: 7E0.22100C
+test_cases:
+- expected_values:
+    Q7_PQ35_FUEL_LVL_2: 33
+  response: 7E80562100C0CE4
+- expected_values:
+    Q7_PQ35_FUEL_LVL_2: 34
+  response: 7E80562100C0D48
+- expected_values:
+    Q7_PQ35_FUEL_LVL_2: 35
+  response: 7E80562100C0DAC
+- expected_values:
+    Q7_PQ35_FUEL_LVL_2: 36
+  response: 7E80562100C0E10
+- expected_values:
+    Q7_PQ35_FUEL_LVL_2: 37
+  response: 7E80562100C0E74

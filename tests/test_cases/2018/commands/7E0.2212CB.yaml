@@ -1,0 +1,16 @@
+command_id: 7E0.2212CB
+test_cases:
+- expected_values:
+    Q7_PQ35_SRV_LIM: 25.6
+  response: 7E8056212CB0A00
+- expected_values:
+    Q7_PQ35_SRV_LIM: 26
+  response: 7E8056212CB0A28
+- expected_values:
+    Q7_PQ35_SRV_LIM: 26.4
+  response: 7E8056212CB0A50
+- expected_values:
+    Q7_PQ35_SRV_LIM: 25.6
+  response: |-
+    7E8065003001E01E0
+    7E8056212CB0A00

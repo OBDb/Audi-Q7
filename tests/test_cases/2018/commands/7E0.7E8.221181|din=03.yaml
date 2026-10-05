@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221181|din=03
 test_cases:
 - expected_values:
-    AUDI_CHG_ADJUSTER_OUTPUT: 0
+    Q7_HIGH_P_TURBOCHARGER: 0
   response: '7E8056211810000'
 - expected_values:
-    AUDI_CHG_ADJUSTER_OUTPUT: 10.37
+    Q7_HIGH_P_TURBOCHARGER: 10.37
   response: 7E805621181040D
 - expected_values:
-    AUDI_CHG_ADJUSTER_OUTPUT: 20.36
+    Q7_HIGH_P_TURBOCHARGER: 20.36
   response: 7E80562118107F4
 - expected_values:
-    AUDI_CHG_ADJUSTER_OUTPUT: -13.9
+    Q7_HIGH_P_TURBOCHARGER: -13.9
   response: 7E805621181FA92

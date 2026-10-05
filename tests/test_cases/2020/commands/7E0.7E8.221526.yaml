@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221526
 test_cases:
 - expected_values:
-    AUDI_MQB_NOX_CONC_BEHIND_TURBO: 0
+    Q7_MQB_NOX_CONC_BEHIND_TURBO: 0
   response: '7E8056215260000'
 - expected_values:
-    AUDI_MQB_NOX_CONC_BEHIND_TURBO: 223
+    Q7_MQB_NOX_CONC_BEHIND_TURBO: 223
   response: 7E80562152600DF
 - expected_values:
-    AUDI_MQB_NOX_CONC_BEHIND_TURBO: 517
+    Q7_MQB_NOX_CONC_BEHIND_TURBO: 517
   response: '7E8056215260205'

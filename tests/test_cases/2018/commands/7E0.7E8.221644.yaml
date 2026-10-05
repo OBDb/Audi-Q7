@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221644
 test_cases:
 - expected_values:
-    AUDI_LATERAL_ACCEL: 9.53
+    Q7_LATERAL_ACCEL: 9.53
   response: 7E80562164403B9
 - expected_values:
-    AUDI_LATERAL_ACCEL: 9.54
+    Q7_LATERAL_ACCEL: 9.54
   response: 7E80562164403BA

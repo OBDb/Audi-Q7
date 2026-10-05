@@ -1,0 +1,11 @@
+command_id: 7E0.2211F6
+test_cases:
+- expected_values:
+    Q7_PQ35_FIELD_LIM: 17.92
+  response: 7E8056211F60700
+- expected_values:
+    Q7_PQ35_FIELD_LIM: 18.2
+  response: 7E8056211F6071C
+- expected_values:
+    Q7_PQ35_FIELD_LIM: 18.48
+  response: 7E8056211F60738

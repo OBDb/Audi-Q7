@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22210E
 test_cases:
 - expected_values:
-    AUDI_DRIVING_POS: 6
+    Q7_DRIVING_POS: 6
   response: 7E90462210E06
 - expected_values:
-    AUDI_DRIVING_POS: 8
+    Q7_DRIVING_POS: 8
   response: 7E90462210E08

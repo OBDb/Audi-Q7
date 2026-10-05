@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.221093
 test_cases:
 - expected_values:
-    AUDI_CAM_ADPT_INT_PHASE: 2.63673
+    Q7_CAM_ADPT_INT_PHASE: 2.63673
   response: '7E8056210930078'
 - expected_values:
-    AUDI_CAM_ADPT_INT_PHASE: 2.6587
+    Q7_CAM_ADPT_INT_PHASE: 2.6587
   response: '7E8056210930079'
+- expected_values:
+    Q7_CAM_ADPT_INT_PHASE: 2.68067
+  response: 7E805621093007A

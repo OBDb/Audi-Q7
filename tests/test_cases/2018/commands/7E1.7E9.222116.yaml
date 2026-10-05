@@ -1,23 +1,26 @@
 command_id: 7E1.7E9.222116
 test_cases:
 - expected_values:
-    AUDI_ACCEL: 0
+    Q7_ACCEL: 0
   response: '7E9056221160000'
 - expected_values:
-    AUDI_ACCEL: 0.1
+    Q7_ACCEL: 0.1
   response: '7E9056221160001'
 - expected_values:
-    AUDI_ACCEL: 0.6
+    Q7_ACCEL: 0.3
+  response: '7E9056221160003'
+- expected_values:
+    Q7_ACCEL: 0.6
   response: '7E9056221160006'
 - expected_values:
-    AUDI_ACCEL: -2.8
+    Q7_ACCEL: -2.8
   response: 7E905622116FFE4
 - expected_values:
-    AUDI_ACCEL: -1.1
+    Q7_ACCEL: -1.1
   response: 7E905622116FFF5
 - expected_values:
-    AUDI_ACCEL: -0.6
+    Q7_ACCEL: -0.6
   response: 7E905622116FFFA
 - expected_values:
-    AUDI_ACCEL: -0.3
+    Q7_ACCEL: -0.3
   response: 7E905622116FFFD

@@ -1,8 +1,8 @@
 command_id: 710.77A.222A25|fc=1
 test_cases:
 - expected_values:
-    AUDI_BAT_INTERNAL_RES_RAW: 4.8
+    Q7_BAT_INTERNAL_RES_RAW: 4.8
   response: 77A04622A2518
 - expected_values:
-    AUDI_BAT_INTERNAL_RES_RAW: 5
+    Q7_BAT_INTERNAL_RES_RAW: 5
   response: 77A04622A2519

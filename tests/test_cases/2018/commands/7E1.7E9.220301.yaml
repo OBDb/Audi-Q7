@@ -1,20 +1,23 @@
 command_id: 7E1.7E9.220301
 test_cases:
 - expected_values:
-    AUDI_CTRL_MODULE_T: 38
+    Q7_CTRL_MODULE_T: 38
   response: 7E9046203014E
 - expected_values:
-    AUDI_CTRL_MODULE_T: 43
+    Q7_CTRL_MODULE_T: 43
   response: '7E90462030153'
 - expected_values:
-    AUDI_CTRL_MODULE_T: 59
+    Q7_CTRL_MODULE_T: 59
   response: '7E90462030163'
 - expected_values:
-    AUDI_CTRL_MODULE_T: 66
+    Q7_CTRL_MODULE_T: 66
   response: 7E9046203016A
 - expected_values:
-    AUDI_CTRL_MODULE_T: 70
+    Q7_CTRL_MODULE_T: 70
   response: 7E9046203016E
 - expected_values:
-    AUDI_CTRL_MODULE_T: 82
+    Q7_CTRL_MODULE_T: 78
+  response: '7E90462030176'
+- expected_values:
+    Q7_CTRL_MODULE_T: 82
   response: 7E9046203017A

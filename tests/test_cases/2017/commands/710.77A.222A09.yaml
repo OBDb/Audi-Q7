@@ -1,32 +1,17 @@
 command_id: 710.77A.222A09
 test_cases:
 - expected_values:
-    AUDI_BAT_I: 0.553
-    AUDI_MQB_BAT_I: 0.553
-    AUDI_SSB_C: 0.553
-    AUDI_SSB_C_32: 0.553
+    Q7_SSB_C: 0.553
   response: 77A07622A0900000229
 - expected_values:
-    AUDI_BAT_I: 1.023
-    AUDI_MQB_BAT_I: 1.023
-    AUDI_SSB_C: 1.023
-    AUDI_SSB_C_32: 1.023
+    Q7_SSB_C: 1.023
   response: 77A07622A09000003FF
 - expected_values:
-    AUDI_BAT_I: 4.352
-    AUDI_MQB_BAT_I: 4.352
-    AUDI_SSB_C: 4.352
-    AUDI_SSB_C_32: 4.352
+    Q7_SSB_C: 4.352
   response: 77A07622A0900001100
 - expected_values:
-    AUDI_BAT_I: -40.24
-    AUDI_MQB_BAT_I: -40.24
-    AUDI_SSB_C: -40.24
-    AUDI_SSB_C_32: -40.24
+    Q7_SSB_C: 0
   response: 77A07622A09FFFF62D0
 - expected_values:
-    AUDI_BAT_I: -2.254
-    AUDI_MQB_BAT_I: -2.254
-    AUDI_SSB_C: -2.254
-    AUDI_SSB_C_32: -2.254
+    Q7_SSB_C: 0
   response: 77A07622A09FFFFF732

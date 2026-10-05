@@ -1,0 +1,14 @@
+command_id: 7E0.22115E
+test_cases:
+- expected_values:
+    Q7_PQ35_TIME_LAST_REGEN: 0.00016
+  response: 7E80762115E001900C2
+- expected_values:
+    Q7_PQ35_TIME_LAST_REGEN: 0.00018
+  response: 7E80762115E001C1CE7
+- expected_values:
+    Q7_PQ35_TIME_LAST_REGEN: 0.00019
+  response: 7E80762115E001CCA0D
+- expected_values:
+    Q7_PQ35_TIME_LAST_REGEN: 0.0002
+  response: 7E80762115E001E212F

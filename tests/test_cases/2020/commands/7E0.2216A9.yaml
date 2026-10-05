@@ -1,0 +1,8 @@
+command_id: 7E0.2216A9
+test_cases:
+- expected_values:
+    Q7_PQ35_ODO_2: 64205
+  response: 7E8076216A90000FACD
+- expected_values:
+    Q7_PQ35_ODO_2: 64242
+  response: 7E8076216A90000FAF2

@@ -1,29 +1,32 @@
 command_id: 7E0.7E8.22111C|din=03
 test_cases:
 - expected_values:
-    AUDI_FUEL_T_7E0_2: 18.2
+    Q7_FUEL_T_7E0_2: 18.2
   response: 7E80562111C0B61
 - expected_values:
-    AUDI_FUEL_T_7E0_2: 18.9
+    Q7_FUEL_T_7E0_2: 18.9
   response: 7E80562111C0B68
 - expected_values:
-    AUDI_FUEL_T_7E0_2: 19.7
+    Q7_FUEL_T_7E0_2: 19.7
   response: 7E80562111C0B70
 - expected_values:
-    AUDI_FUEL_T_7E0_2: 20.5
+    Q7_FUEL_T_7E0_2: 20.5
   response: 7E80562111C0B78
 - expected_values:
-    AUDI_FUEL_T_7E0_2: 21.4
+    Q7_FUEL_T_7E0_2: 21.4
   response: 7E80562111C0B81
 - expected_values:
-    AUDI_FUEL_T_7E0_2: 22
+    Q7_FUEL_T_7E0_2: 22
   response: 7E80562111C0B87
 - expected_values:
-    AUDI_FUEL_T_7E0_2: 22.2
+    Q7_FUEL_T_7E0_2: 22.2
   response: 7E80562111C0B89
 - expected_values:
-    AUDI_FUEL_T_7E0_2: 23.2
+    Q7_FUEL_T_7E0_2: 23
+  response: 7E80562111C0B91
+- expected_values:
+    Q7_FUEL_T_7E0_2: 23.2
   response: 7E80562111C0B93
 - expected_values:
-    AUDI_FUEL_T_7E0_2: 23.6
+    Q7_FUEL_T_7E0_2: 23.6
   response: 7E80562111C0B97

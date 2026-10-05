@@ -1,14 +1,17 @@
 command_id: 7E1.7E9.221013
 test_cases:
 - expected_values:
-    AUDI_CURRENT_TYPE_DRIVER: 0
+    Q7_CURRENT_TYPE_DRIVER: 0
   response: '7E9056210130000'
 - expected_values:
-    AUDI_CURRENT_TYPE_DRIVER: 472
+    Q7_CURRENT_TYPE_DRIVER: 454
+  response: 7E90562101301C6
+- expected_values:
+    Q7_CURRENT_TYPE_DRIVER: 472
   response: 7E90562101301D8
 - expected_values:
-    AUDI_CURRENT_TYPE_DRIVER: 555
+    Q7_CURRENT_TYPE_DRIVER: 555
   response: 7E905621013022B
 - expected_values:
-    AUDI_CURRENT_TYPE_DRIVER: 565
+    Q7_CURRENT_TYPE_DRIVER: 565
   response: '7E9056210130235'

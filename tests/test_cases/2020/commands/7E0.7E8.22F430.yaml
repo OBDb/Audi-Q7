@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F430
 test_cases:
 - expected_values:
-    AUDI_WARM_UPS: 116
+    Q7_WARM_UPS: 116
   response: 7E80462F43074
 - expected_values:
-    AUDI_WARM_UPS: 117
+    Q7_WARM_UPS: 117
   response: 7E80462F43075
 - expected_values:
-    AUDI_WARM_UPS: 118
+    Q7_WARM_UPS: 118
   response: 7E80462F43076

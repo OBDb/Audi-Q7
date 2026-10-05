@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22102A
 test_cases:
 - expected_values:
-    AUDI_ACCEL_PEDAL_SENS_1_V: 0
+    Q7_ACCEL_PEDAL_SENS_1_V: 0
   response: 7E80562102A0000
 - expected_values:
-    AUDI_ACCEL_PEDAL_SENS_1_V: 564.4
+    Q7_ACCEL_PEDAL_SENS_1_V: 564.4
   response: 7E80562102A0B06

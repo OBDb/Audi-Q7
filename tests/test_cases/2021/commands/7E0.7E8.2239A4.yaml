@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2239A4
 test_cases:
 - expected_values:
-    AUDI_CHG_P_ACTUATOR_SPEC_7E0: 100
+    Q7_CHG_P_ACTUATOR_SPEC_7E0: 100
   response: 7E8056239A4361A
 - expected_values:
-    AUDI_CHG_P_ACTUATOR_SPEC_7E0: 100
+    Q7_CHG_P_ACTUATOR_SPEC_7E0: 100
   response: 7E8056239A437F2
 - expected_values:
-    AUDI_CHG_P_ACTUATOR_SPEC_7E0: 100
+    Q7_CHG_P_ACTUATOR_SPEC_7E0: 100
   response: 7E8056239A44DCD

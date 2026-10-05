@@ -1,0 +1,14 @@
+command_id: 7E0.2216A9
+test_cases:
+- expected_values:
+    Q7_PQ35_ODO_2: 104372
+  response: 7E8076216A9000197B4
+- expected_values:
+    Q7_PQ35_ODO_2: 104704
+  response: 7E8076216A900019900
+- expected_values:
+    Q7_PQ35_ODO_2: 104959
+  response: 7E8076216A9000199FF
+- expected_values:
+    Q7_PQ35_ODO_2: null
+  response: 7E8076216A9FFFFFFFF

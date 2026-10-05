@@ -1,29 +1,32 @@
 command_id: 7E0.7E8.221056|din=03
 test_cases:
 - expected_values:
-    AUDI_CHG_AIR_P_ACT_V2: 1010
+    Q7_AIR_P_CAC_DS: 1010
   response: 7E80562105603F2
 - expected_values:
-    AUDI_CHG_AIR_P_ACT_V2: 1017
+    Q7_AIR_P_CAC_DS: 1017
   response: 7E80562105603F9
 - expected_values:
-    AUDI_CHG_AIR_P_ACT_V2: 1024
+    Q7_AIR_P_CAC_DS: 1018
+  response: 7E80562105603FA
+- expected_values:
+    Q7_AIR_P_CAC_DS: 1024
   response: '7E8056210560400'
 - expected_values:
-    AUDI_CHG_AIR_P_ACT_V2: 1040
+    Q7_AIR_P_CAC_DS: 1040
   response: '7E8056210560410'
 - expected_values:
-    AUDI_CHG_AIR_P_ACT_V2: 1134
+    Q7_AIR_P_CAC_DS: 1134
   response: 7E805621056046E
 - expected_values:
-    AUDI_CHG_AIR_P_ACT_V2: 1229
+    Q7_AIR_P_CAC_DS: 1229
   response: 7E80562105604CD
 - expected_values:
-    AUDI_CHG_AIR_P_ACT_V2: 1281
+    Q7_AIR_P_CAC_DS: 1281
   response: '7E8056210560501'
 - expected_values:
-    AUDI_CHG_AIR_P_ACT_V2: 1538
+    Q7_AIR_P_CAC_DS: 1538
   response: '7E8056210560602'
 - expected_values:
-    AUDI_CHG_AIR_P_ACT_V2: 1741
+    Q7_AIR_P_CAC_DS: 1741
   response: 7E80562105606CD

@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22211A
 test_cases:
 - expected_values:
-    AUDI_MAX_PERMISSIBLE_ENG: 519
+    Q7_MAX_PERMISSIBLE_ENG: 519
   response: 7E90562211A0207
 - expected_values:
-    AUDI_MAX_PERMISSIBLE_ENG: 950
+    Q7_MAX_PERMISSIBLE_ENG: 950
   response: 7E90562211A03B6

@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.22F449
 test_cases:
 - expected_values:
-    AUDI_ACCEL_PEDAL_POS_7E1: 14.90196
+    Q7_ACCEL_PEDAL_POS: 14.90196
   response: 7E90462F44926
 - expected_values:
-    AUDI_ACCEL_PEDAL_POS_7E1: 20.39216
+    Q7_ACCEL_PEDAL_POS: 20.39216
   response: 7E90462F44934
 - expected_values:
-    AUDI_ACCEL_PEDAL_POS_7E1: 23.92157
+    Q7_ACCEL_PEDAL_POS: 23.92157
   response: 7E90462F4493D
 - expected_values:
-    AUDI_ACCEL_PEDAL_POS_7E1: 31.37255
+    Q7_ACCEL_PEDAL_POS: 31.37255
   response: 7E90462F44950

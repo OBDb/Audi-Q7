@@ -1,32 +1,32 @@
 command_id: 7E0.7E8.22F446
 test_cases:
 - expected_values:
-    AUDI_AAT_7E0: 5
+    Q7_AAT_7E0: 5
   response: 7E80462F4462D
 - expected_values:
-    AUDI_AAT_7E0: 6
+    Q7_AAT_7E0: 6
   response: 7E80462F4462E
 - expected_values:
-    AUDI_AAT_7E0: 8
+    Q7_AAT_7E0: 8
   response: 7E80462F44630
 - expected_values:
-    AUDI_AAT_7E0: 9
+    Q7_AAT_7E0: 9
   response: 7E80462F44631
 - expected_values:
-    AUDI_AAT_7E0: 12
+    Q7_AAT_7E0: 12
   response: 7E80462F44634
 - expected_values:
-    AUDI_AAT_7E0: 13
+    Q7_AAT_7E0: 13
   response: 7E80462F44635
 - expected_values:
-    AUDI_AAT_7E0: 14
+    Q7_AAT_7E0: 14
   response: 7E80462F44636
 - expected_values:
-    AUDI_AAT_7E0: 16
+    Q7_AAT_7E0: 16
   response: 7E80462F44638
 - expected_values:
-    AUDI_AAT_7E0: 17
+    Q7_AAT_7E0: 17
   response: 7E80462F44639
 - expected_values:
-    AUDI_AAT_7E0: 18
+    Q7_AAT_7E0: 18
   response: 7E80462F4463A

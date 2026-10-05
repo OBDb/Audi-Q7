@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.22149E
 test_cases:
 - expected_values:
-    AUDI_IAT_7E0: 26.25
+    Q7_IAT_7E0: 26.25
   response: 7E80462149E63
 - expected_values:
-    AUDI_IAT_7E0: 27.75
+    Q7_IAT_7E0: 27.75
   response: 7E80462149E65
 - expected_values:
-    AUDI_IAT_7E0: 28.5
+    Q7_IAT_7E0: 28.5
   response: 7E80462149E66
 - expected_values:
-    AUDI_IAT_7E0: 29.25
+    Q7_IAT_7E0: 29.25
   response: 7E80462149E67
 - expected_values:
-    AUDI_IAT_7E0: 36
+    Q7_IAT_7E0: 36
   response: 7E80462149E70
 - expected_values:
-    AUDI_IAT_7E0: 36.75
+    Q7_IAT_7E0: 36.75
   response: 7E80462149E71
 - expected_values:
-    AUDI_IAT_7E0: 40.5
+    Q7_IAT_7E0: 40.5
   response: 7E80462149E76

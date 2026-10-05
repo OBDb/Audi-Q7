@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22121C
 test_cases:
 - expected_values:
-    AUDI_AIR_FILLING: 12.82059
+    Q7_AIR_FILLING: 12.82059
   response: 7E80562121C0223
 - expected_values:
-    AUDI_AIR_FILLING: 37.61799
+    Q7_AIR_FILLING: 37.61799
   response: 7E80562121C0645
 - expected_values:
-    AUDI_AIR_FILLING: 60.47004
+    Q7_AIR_FILLING: 60.47004
   response: 7E80562121C0A14

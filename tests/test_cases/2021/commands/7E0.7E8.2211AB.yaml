@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211AB
 test_cases:
 - expected_values:
-    AUDI_INT_MODEL_AIR_MASS: 22.7
+    Q7_INT_MODEL_AIR_MASS: 22.7
   response: 7E8056211AB00E3
 - expected_values:
-    AUDI_INT_MODEL_AIR_MASS: 26.7
+    Q7_INT_MODEL_AIR_MASS: 26.7
   response: 7E8056211AB010B
 - expected_values:
-    AUDI_INT_MODEL_AIR_MASS: 60
+    Q7_INT_MODEL_AIR_MASS: 60
   response: 7E8056211AB0258

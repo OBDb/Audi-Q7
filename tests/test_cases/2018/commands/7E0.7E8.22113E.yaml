@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22113E
 test_cases:
 - expected_values:
-    AUDI_SEG_AD_MMV_ER_L_0: 0
+    Q7_SEG_AD_MMV_ER_L_0: 0
   response: 7E80562113E0000
 - expected_values:
-    AUDI_SEG_AD_MMV_ER_L_0: 4.99299
+    Q7_SEG_AD_MMV_ER_L_0: 4.99299
   response: 7E80562113E51CE
 - expected_values:
-    AUDI_SEG_AD_MMV_ER_L_0: 5.00467
+    Q7_SEG_AD_MMV_ER_L_0: 5.00467
   response: 7E80562113E51FF

@@ -1,0 +1,11 @@
+command_id: 7E0.221628
+test_cases:
+- expected_values:
+    Q7_PQ35_INTERCOOLER_AIR_OUTPUT_T: 29.4
+  response: 7E8056216280BD1
+- expected_values:
+    Q7_PQ35_INTERCOOLER_AIR_OUTPUT_T: 31
+  response: 7E8056216280BE1
+- expected_values:
+    Q7_PQ35_INTERCOOLER_AIR_OUTPUT_T: 36.8
+  response: 7E8056216280C1B

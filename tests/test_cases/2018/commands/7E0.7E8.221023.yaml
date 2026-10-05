@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.221023
 test_cases:
 - expected_values:
-    AUDI_AC_COMP_TQ_V2: 0
+    Q7_AC_COMP_TQ_REQ: 0
   response: '7E8056210230000'
 - expected_values:
-    AUDI_AC_COMP_TQ_V2: 0.1
-  response: '7E8056210230001'
-- expected_values:
-    AUDI_AC_COMP_TQ_V2: 0.3
-  response: '7E8056210230003'
-- expected_values:
-    AUDI_AC_COMP_TQ_V2: 0.7
-  response: '7E8056210230007'
-- expected_values:
-    AUDI_AC_COMP_TQ_V2: 0.9
-  response: '7E8056210230009'
-- expected_values:
-    AUDI_AC_COMP_TQ_V2: 1.3
-  response: 7E805621023000D
-- expected_values:
-    AUDI_AC_COMP_TQ_V2: 1.8
-  response: '7E8056210230012'
-- expected_values:
-    AUDI_AC_COMP_TQ_V2: 1.9
-  response: '7E8056210230013'
-- expected_values:
-    AUDI_AC_COMP_TQ_V2: 2
-  response: '7E8056210230014'
-- expected_values:
-    AUDI_AC_COMP_TQ_V2: 2.5
+    Q7_AC_COMP_TQ_REQ: 2.5
   response: '7E8056210230019'

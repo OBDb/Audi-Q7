@@ -1,0 +1,11 @@
+command_id: 7E0.22163B
+test_cases:
+- expected_values:
+    Q7_PQ35_POST_INJ_2_QTY_SPEC: 0
+  response: 7E80562163B0000
+- expected_values:
+    Q7_PQ35_POST_INJ_2_QTY_SPEC: 1.25
+  response: 7E80562163B007D
+- expected_values:
+    Q7_PQ35_POST_INJ_2_QTY_SPEC: 10.48
+  response: 7E80562163B0418

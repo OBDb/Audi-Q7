@@ -1,5 +1,8 @@
-{ "commands": [
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "5036"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "ecu": [
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "5036"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
   "signals": [
     {"id": "Q7_HUMIDITY_SENS_REL", "path": "Engine", "fmt": {"bix": 16, "len": 16, "max": 32439, "mul": 99, "div": 200, "unit": "percent" }, "name": "Humidity sensor, relative humidity"}
   ]},
@@ -8,7 +11,7 @@
     {"id": "Q7_SSB_TOTAL_CHARGE",    "path": "Battery", "fmt": {           "len": 32, "max": 100, "div": 10, "unit": "ampereHours" }, "name": "Start/stop battery total charge"},
     {"id": "Q7_SSB_TOTAL_DISCHARGE", "path": "Battery", "fmt": {"bix": 32, "len": 32, "max": 100, "div": 10, "unit": "ampereHours" }, "name": "Start/stop battery total discharge"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "123A"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "123A"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
   "signals": [
     {"id": "Q7_BZE_Q_LAD",  "path": "Engine", "fmt": {           "len": 32, "max": 429496729, "div": 10, "unit": "ampereHours" }, "name": "Bze_q_lad"},
     {"id": "Q7_BZE_Q_ELAD", "path": "Engine", "fmt": {"bix": 32, "len": 32, "max": 429496729, "div": 10, "unit": "ampereHours" }, "name": "Bze_q_elad"}
@@ -29,7 +32,7 @@
   "signals": [
     {"id": "Q7_SSB_C", "path": "Battery", "fmt": { "len": 32, "max": 100, "div": 1000, "sign": true, "unit": "amps" }, "name": "Start/stop battery current"}
   ]},
-{ "hdr": "710", "rax": "77A", "cmd": {"22": "2A0A"}, "freq": 30, "dbgfilter": { "to": 2016, "from": 2019 },
+{ "hdr": "710", "rax": "77A", "cmd": {"22": "2A0A"}, "freq": 30, "dbgfilter": { "to": 2016, "years": [2019, 2020], "from": 2022 },
   "signals": [
     {"id": "Q7_SSB_SENSOR_T", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Start/stop battery sensor temperature"}
   ]},
@@ -53,15 +56,15 @@
   "signals": [
     {"id": "Q7_SSB_V_REST", "path": "Battery", "fmt": { "len": 8, "max": 34.5, "min": 9, "div": 10, "add": 9, "unit": "volts" }, "name": "Start/stop battery voltage, at rest"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A15"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A15"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
   "signals": [
     {"id": "Q7_ENERGY_BALANCE_LAST", "path": "Engine", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "ampereHours" }, "name": "Energy balance of last driving cycle"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A17"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A17"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
   "signals": [
     {"id": "Q7_OVERALL_ENERGY", "path": "Engine", "fmt": { "len": 24, "max": 8808037, "min": -8808038, "mul": 21, "div": 20, "sign": true, "unit": "ampereHours" }, "name": "Overall energy balance"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A18"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A18"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
   "signals": [
     {"id": "Q7_ENTIRE_ENERGY", "path": "Tires", "fmt": { "len": 24, "max": 838860, "min": -838860, "div": 10, "sign": true, "unit": "ampereHours" }, "name": "Entire energy throughput"}
   ]},

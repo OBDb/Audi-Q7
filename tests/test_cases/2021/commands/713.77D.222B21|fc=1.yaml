@@ -4,6 +4,11 @@ test_cases:
     Q7_BREAK_P: 0.00012
   response: |-
     77D1009622B210ADA0A
+    77D21C60ADA00000000
+- expected_values:
+    Q7_BREAK_P: 0.00012
+  response: |-
+    77D1009622B210ADA0A
     77D21CC0ACC00000000
 - expected_values:
     Q7_BREAK_P: 0.00012

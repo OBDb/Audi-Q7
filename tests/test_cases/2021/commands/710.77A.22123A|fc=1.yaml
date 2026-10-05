@@ -1,0 +1,8 @@
+command_id: 710.77A.22123A|fc=1
+test_cases:
+- expected_values:
+    Q7_BZE_Q_ELAD: 9000.4
+    Q7_BZE_Q_LAD: 9193.4
+  response: |-
+    77A100B62123A000167
+    77A211E00015F94AAAA

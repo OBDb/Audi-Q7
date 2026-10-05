@@ -1,6 +1,5 @@
 command_id: 7E0.7E8.2210F9
 test_cases:
 - expected_values:
-    AUDI_EARLY_DPF_OUT_T: 0
-    AUDI_PQ35_DPF_OUT_T: -273.1
+    Q7_PQ35_DPF_OUT_T: null
   response: 7E8056210F90000

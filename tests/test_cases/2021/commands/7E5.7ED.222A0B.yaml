@@ -1,20 +1,20 @@
 command_id: 7E5.7ED.222A0B
 test_cases:
 - expected_values:
-    AUDI_HVBAT_T: 29
+    Q7_HVBAT_T: 29
   response: 7ED04622A0B81
 - expected_values:
-    AUDI_HVBAT_T: 30
+    Q7_HVBAT_T: 30
   response: 7ED04622A0B82
 - expected_values:
-    AUDI_HVBAT_T: 31
+    Q7_HVBAT_T: 31
   response: 7ED04622A0B83
 - expected_values:
-    AUDI_HVBAT_T: 33
+    Q7_HVBAT_T: 33
   response: 7ED04622A0B85
 - expected_values:
-    AUDI_HVBAT_T: 35
+    Q7_HVBAT_T: 35
   response: 7ED04622A0B87
 - expected_values:
-    AUDI_HVBAT_T: 36
+    Q7_HVBAT_T: 36
   response: 7ED04622A0B88

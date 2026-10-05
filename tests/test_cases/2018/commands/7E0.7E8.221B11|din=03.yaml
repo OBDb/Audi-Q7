@@ -1,29 +1,32 @@
 command_id: 7E0.7E8.221B11|din=03
 test_cases:
 - expected_values:
-    AUDI_CHG_AIR_P_ACTUATOR: 1110
+    Q7_CHG_AIR_P_ACTUATOR: 1108
+  response: 7E805621B110454
+- expected_values:
+    Q7_CHG_AIR_P_ACTUATOR: 1110
   response: 7E805621B110456
 - expected_values:
-    AUDI_CHG_AIR_P_ACTUATOR: 1138
+    Q7_CHG_AIR_P_ACTUATOR: 1138
   response: 7E805621B110472
 - expected_values:
-    AUDI_CHG_AIR_P_ACTUATOR: 1165
+    Q7_CHG_AIR_P_ACTUATOR: 1165
   response: 7E805621B11048D
 - expected_values:
-    AUDI_CHG_AIR_P_ACTUATOR: 1187
+    Q7_CHG_AIR_P_ACTUATOR: 1187
   response: 7E805621B1104A3
 - expected_values:
-    AUDI_CHG_AIR_P_ACTUATOR: 1259
+    Q7_CHG_AIR_P_ACTUATOR: 1259
   response: 7E805621B1104EB
 - expected_values:
-    AUDI_CHG_AIR_P_ACTUATOR: 1265
+    Q7_CHG_AIR_P_ACTUATOR: 1265
   response: 7E805621B1104F1
 - expected_values:
-    AUDI_CHG_AIR_P_ACTUATOR: 1267
+    Q7_CHG_AIR_P_ACTUATOR: 1267
   response: 7E805621B1104F3
 - expected_values:
-    AUDI_CHG_AIR_P_ACTUATOR: 1292
+    Q7_CHG_AIR_P_ACTUATOR: 1292
   response: 7E805621B11050C
 - expected_values:
-    AUDI_CHG_AIR_P_ACTUATOR: 3495
+    Q7_CHG_AIR_P_ACTUATOR: 3495
   response: 7E805621B110DA7

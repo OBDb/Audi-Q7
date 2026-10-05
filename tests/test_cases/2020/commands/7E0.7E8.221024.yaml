@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.221024
 test_cases:
 - expected_values:
-    AUDI_ALTERNATOR_LOAD: 0
-    AUDI_MQB_AIR_MASS_1: 0
+    Q7_ALTERNATOR_LOAD: 0
   response: '7E8056210240000'
 - expected_values:
-    AUDI_ALTERNATOR_LOAD: 0
-    AUDI_MQB_AIR_MASS_1: 25.5
+    Q7_ALTERNATOR_LOAD: 0
   response: 7E80562102400FF
 - expected_values:
-    AUDI_ALTERNATOR_LOAD: 250
-    AUDI_MQB_AIR_MASS_1: 147.5
+    Q7_ALTERNATOR_LOAD: 250
   response: 7E80562102405C3

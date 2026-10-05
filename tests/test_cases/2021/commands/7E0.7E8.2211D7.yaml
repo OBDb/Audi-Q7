@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211D7
 test_cases:
 - expected_values:
-    AUDI_HIGH_FUEL_P_CMD: 14.738
+    Q7_HIGH_FUEL_P_CMD: 14.738
   response: 7E8056211D77324
 - expected_values:
-    AUDI_HIGH_FUEL_P_CMD: 20.382
+    Q7_HIGH_FUEL_P_CMD: 20.382
   response: 7E8056211D79F3C
 - expected_values:
-    AUDI_HIGH_FUEL_P_CMD: 25
+    Q7_HIGH_FUEL_P_CMD: 25
   response: 7E8056211D7C350

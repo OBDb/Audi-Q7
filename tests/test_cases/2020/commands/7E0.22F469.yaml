@@ -1,0 +1,22 @@
+command_id: 7E0.22F469
+test_cases:
+- expected_values:
+    Q7_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F469070000
+    7E82180000000000000
+- expected_values:
+    Q7_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 62
+  response: |-
+    7E8100A62F469073E3B
+    7E8217A000000000000
+- expected_values:
+    Q7_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F46907BFBE
+    7E82180000000000000
+- expected_values:
+    Q7_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F46907BFBF
+    7E82180000000000000

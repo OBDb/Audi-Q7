@@ -1,7 +1,7 @@
 command_id: 773.7DD.221814|fc=1
 test_cases:
 - expected_values:
-    AUDI_SIM_CARD_SIM_CARD: 1
+    Q7_SIM_CARD_SIM_CARD: 1
   response: |-
     7DD1026621814040101
     7DD2101013839343233

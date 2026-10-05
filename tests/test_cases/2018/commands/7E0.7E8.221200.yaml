@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221200
 test_cases:
 - expected_values:
-    AUDI_EA888B_BOOST_P_CTRL_1: 0
+    Q7_EA888B_BOOST_P_CTRL_1: 0
   response: '7E8056212000008'
 - expected_values:
-    AUDI_EA888B_BOOST_P_CTRL_1: 0
+    Q7_EA888B_BOOST_P_CTRL_1: 0
   response: 7E805621200002D

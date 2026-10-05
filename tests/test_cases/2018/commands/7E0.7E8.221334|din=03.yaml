@@ -1,29 +1,32 @@
 command_id: 7E0.7E8.221334|din=03
 test_cases:
 - expected_values:
-    AUDI_HIGH_P_EGR_ACTUATOR: 0
+    Q7_HIGH_P_EGR_ACTUATOR: 0
   response: '7E8056213340000'
 - expected_values:
-    AUDI_HIGH_P_EGR_ACTUATOR: 7.7
+    Q7_HIGH_P_EGR_ACTUATOR: 7.7
   response: '7E8056213340302'
 - expected_values:
-    AUDI_HIGH_P_EGR_ACTUATOR: 7.81
+    Q7_HIGH_P_EGR_ACTUATOR: 7.81
   response: 7E805621334030D
 - expected_values:
-    AUDI_HIGH_P_EGR_ACTUATOR: 8.73
+    Q7_HIGH_P_EGR_ACTUATOR: 8.73
   response: '7E8056213340369'
 - expected_values:
-    AUDI_HIGH_P_EGR_ACTUATOR: 11.07
+    Q7_HIGH_P_EGR_ACTUATOR: 10.59
+  response: '7E8056213340423'
+- expected_values:
+    Q7_HIGH_P_EGR_ACTUATOR: 11.07
   response: '7E8056213340453'
 - expected_values:
-    AUDI_HIGH_P_EGR_ACTUATOR: 12.82
+    Q7_HIGH_P_EGR_ACTUATOR: 12.82
   response: '7E8056213340502'
 - expected_values:
-    AUDI_HIGH_P_EGR_ACTUATOR: 21.34
+    Q7_HIGH_P_EGR_ACTUATOR: 21.34
   response: '7E8056213340856'
 - expected_values:
-    AUDI_HIGH_P_EGR_ACTUATOR: 22.13
+    Q7_HIGH_P_EGR_ACTUATOR: 22.13
   response: 7E80562133408A5
 - expected_values:
-    AUDI_HIGH_P_EGR_ACTUATOR: 24.54
+    Q7_HIGH_P_EGR_ACTUATOR: 24.54
   response: '7E8056213340996'

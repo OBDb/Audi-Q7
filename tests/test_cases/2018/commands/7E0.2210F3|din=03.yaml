@@ -1,14 +1,11 @@
 command_id: 7E0.2210F3|din=03
 test_cases:
 - expected_values:
-    AUDI_OIL_LEVEL_LAST_VALID: -127
-    AUDI_PQ35_DPF_DIFF_P_2: 0
+    Q7_PQ35_DPF_DIFF_P_2: 0
   response: 7E8056210F30000
 - expected_values:
-    AUDI_OIL_LEVEL_LAST_VALID: -111.0625
-    AUDI_PQ35_DPF_DIFF_P_2: 255
+    Q7_PQ35_DPF_DIFF_P_2: 255
   response: 7E8056210F300FF
 - expected_values:
-    AUDI_OIL_LEVEL_LAST_VALID: 3968
-    AUDI_PQ35_DPF_DIFF_P_2: -4
+    Q7_PQ35_DPF_DIFF_P_2: -4
   response: 7E8056210F3FFFC

@@ -1,8 +1,8 @@
 command_id: 710.77A.222A0B
 test_cases:
 - expected_values:
-    AUDI_BAT_T: -5
+    Q7_SSB_T: -5
   response: 77A04622A0B23
 - expected_values:
-    AUDI_BAT_T: 34
+    Q7_SSB_T: 34
   response: 77A04622A0B4A

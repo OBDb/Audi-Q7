@@ -1,26 +1,29 @@
 command_id: 7E0.7E8.22157C|din=03
 test_cases:
 - expected_values:
-    AUDI_DPF_STATISTICS_T: 128.5
+    Q7_DPF_STATISTICS_T: 128.5
   response: 7E80562157C0FB0
 - expected_values:
-    AUDI_DPF_STATISTICS_T: 167.5
+    Q7_DPF_STATISTICS_T: 167.5
   response: 7E80562157C1136
 - expected_values:
-    AUDI_DPF_STATISTICS_T: 168.3
+    Q7_DPF_STATISTICS_T: 168.3
   response: 7E80562157C113E
 - expected_values:
-    AUDI_DPF_STATISTICS_T: 178.5
+    Q7_DPF_STATISTICS_T: 178.5
   response: 7E80562157C11A4
 - expected_values:
-    AUDI_DPF_STATISTICS_T: 180.7
+    Q7_DPF_STATISTICS_T: 180.7
   response: 7E80562157C11BA
 - expected_values:
-    AUDI_DPF_STATISTICS_T: 187
+    Q7_DPF_STATISTICS_T: 187
   response: 7E80562157C11F9
 - expected_values:
-    AUDI_DPF_STATISTICS_T: 190.9
+    Q7_DPF_STATISTICS_T: 190.9
   response: 7E80562157C1220
 - expected_values:
-    AUDI_DPF_STATISTICS_T: 191.3
+    Q7_DPF_STATISTICS_T: 191.3
   response: 7E80562157C1224
+- expected_values:
+    Q7_DPF_STATISTICS_T: 197.7
+  response: 7E80562157C1264

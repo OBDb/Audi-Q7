@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221137
 test_cases:
 - expected_values:
-    AUDI_FUEL_PART_EVAP: 0
+    Q7_FUEL_PART_EVAP: 0
   response: '7E80462113700'
 - expected_values:
-    AUDI_FUEL_PART_EVAP: 0.05467
+    Q7_FUEL_PART_EVAP: 0.05467
   response: '7E80462113707'
 - expected_values:
-    AUDI_FUEL_PART_EVAP: 0.10153
+    Q7_FUEL_PART_EVAP: 0.10153
   response: 7E8046211370D

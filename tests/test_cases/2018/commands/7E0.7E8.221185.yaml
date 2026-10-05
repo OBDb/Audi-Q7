@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221185
 test_cases:
 - expected_values:
-    AUDI_PSN_EDGE_REL_AD_CAM_2: 130.25
+    Q7_PSN_EDGE_REL_AD_CAM_2: 130.25
   response: '7E8056211850824'
 - expected_values:
-    AUDI_PSN_EDGE_REL_AD_CAM_2: 415.3125
-  response: 7E80562118519F5
+    Q7_PSN_EDGE_REL_AD_CAM_2: 175.6875
+  response: 7E8056211850AFB
 - expected_values:
-    AUDI_PSN_EDGE_REL_AD_CAM_2: 512
+    Q7_PSN_EDGE_REL_AD_CAM_2: 512
   response: '7E8056211852000'

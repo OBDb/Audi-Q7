@@ -1,16 +1,16 @@
 command_id: 7E1.220305
 test_cases:
 - expected_values:
-    AUDI_DRIVE_TIME_MANUAL: 5.2
+    Q7_DRIVE_TIME_MANUAL: 5.2
   response: 7E9046203050D
 - expected_values:
-    AUDI_DRIVE_TIME_MANUAL: 5.6
+    Q7_DRIVE_TIME_MANUAL: 5.6
   response: 7E9046203050E
 - expected_values:
-    AUDI_DRIVE_TIME_MANUAL: 6
+    Q7_DRIVE_TIME_MANUAL: 6
   response: 7E9046203050F
 - expected_values:
-    AUDI_DRIVE_TIME_MANUAL: 5.6
+    Q7_DRIVE_TIME_MANUAL: 5.6
   response: |-
     7E92000000000000000
     7E9046203050E

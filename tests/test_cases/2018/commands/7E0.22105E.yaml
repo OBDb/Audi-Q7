@@ -1,0 +1,11 @@
+command_id: 7E0.22105E
+test_cases:
+- expected_values:
+    Q7_PQ35_BAT_V_2: 9.44
+  response: 7E80562105E01D8
+- expected_values:
+    Q7_PQ35_BAT_V_2: 10.28
+  response: 7E80562105E0202
+- expected_values:
+    Q7_PQ35_BAT_V_2: 15.32
+  response: 7E80562105E02FE

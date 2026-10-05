@@ -1,29 +1,29 @@
 command_id: 7E5.7ED.225175|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 41
+    Q7_BMS_V_DCHG_DYN_MIN: 41
   response: 7ED05625175019A
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 41.1
+    Q7_BMS_V_DCHG_DYN_MIN: 41.1
   response: 7ED05625175019B
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 41.2
+    Q7_BMS_V_DCHG_DYN_MIN: 41.2
   response: 7ED05625175019C
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 41.3
+    Q7_BMS_V_DCHG_DYN_MIN: 41.3
   response: 7ED05625175019D
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 41.5
+    Q7_BMS_V_DCHG_DYN_MIN: 41.5
   response: 7ED05625175019F
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 41.6
+    Q7_BMS_V_DCHG_DYN_MIN: 41.6
   response: 7ED0562517501A0
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 41.7
+    Q7_BMS_V_DCHG_DYN_MIN: 41.7
   response: 7ED0562517501A1
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 42.3
+    Q7_BMS_V_DCHG_DYN_MIN: 42.3
   response: 7ED0562517501A7
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 42.5
+    Q7_BMS_V_DCHG_DYN_MIN: 42.5
   response: 7ED0562517501A9

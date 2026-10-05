@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22105A|fc=1,c=17,f=-2018
+test_cases:
+- expected_values:
+    Q7_BAT_V_PRE19: 56.72
+  response: 7E80562105A0B14
+- expected_values:
+    Q7_BAT_V_PRE19: 60.14
+  response: 7E80562105A0BBF

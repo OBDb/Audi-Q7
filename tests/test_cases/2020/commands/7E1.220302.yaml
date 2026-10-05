@@ -1,17 +1,17 @@
 command_id: 7E1.220302
 test_cases:
 - expected_values:
-    AUDI_DRIVE_TIME: 1483
+    Q7_DRIVE_TIME: 1483
   response: 7E905620302172C
 - expected_values:
-    AUDI_DRIVE_TIME: 1483.25
+    Q7_DRIVE_TIME: 1483.25
   response: 7E905620302172D
 - expected_values:
-    AUDI_DRIVE_TIME: 1483.5
+    Q7_DRIVE_TIME: 1483.5
   response: 7E905620302172E
 - expected_values:
-    AUDI_DRIVE_TIME: 1483.75
+    Q7_DRIVE_TIME: 1483.75
   response: 7E905620302172F
 - expected_values:
-    AUDI_DRIVE_TIME: 1484
+    Q7_DRIVE_TIME: 1484
   response: '7E9056203021730'

@@ -1,42 +1,11 @@
 command_id: 7E1.7E9.221067
 test_cases:
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 573.44
-    AUDI_DYNAMIC_TQ_LIM: 112
+    Q7_DYNAMIC_TQ_LIM: 112
   response: '7E9056210670070'
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 614.4
-    AUDI_DYNAMIC_TQ_LIM: 120
-  response: '7E9056210670078'
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 624.64
-    AUDI_DYNAMIC_TQ_LIM: 122
-  response: 7E905621067007A
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 706.56
-    AUDI_DYNAMIC_TQ_LIM: 138
-  response: 7E905621067008A
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 757.76
-    AUDI_DYNAMIC_TQ_LIM: 148
-  response: '7E9056210670094'
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 788.48
-    AUDI_DYNAMIC_TQ_LIM: 154
-  response: 7E905621067009A
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 931.84
-    AUDI_DYNAMIC_TQ_LIM: 182
-  response: 7E90562106700B6
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 1280
-    AUDI_DYNAMIC_TQ_LIM: 250
+    Q7_DYNAMIC_TQ_LIM: 250
   response: 7E90562106700FA
 - expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 30.74
-    AUDI_DYNAMIC_TQ_LIM: 262
+    Q7_DYNAMIC_TQ_LIM: 262
   response: '7E9056210670106'
-- expected_values:
-    AUDI_ANALYSIS_CLU_1_T_2: 358.42
-    AUDI_DYNAMIC_TQ_LIM: 326
-  response: '7E9056210670146'

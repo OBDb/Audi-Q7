@@ -1,30 +1,23 @@
 command_id: 7E0.7E8.2210E6|fc=1
 test_cases:
 - expected_values:
-    AUDI_EOT_V3: -46
-    AUDI_KNOCK_RETARD_2: 10.5
+    Q7_EOT: -46
   response: 7E8056210E60ED7
 - expected_values:
-    AUDI_EOT_V3: -45
-    AUDI_KNOCK_RETARD_2: 11.25
+    Q7_EOT: -45
   response: 7E8056210E60FA5
 - expected_values:
-    AUDI_EOT_V3: -43
-    AUDI_KNOCK_RETARD_2: 12.75
+    Q7_EOT: -43
   response: 7E8056210E61138
 - expected_values:
-    AUDI_EOT_V3: -33
-    AUDI_KNOCK_RETARD_2: 20.25
+    Q7_EOT: -33
   response: 7E8056210E61B5B
 - expected_values:
-    AUDI_EOT_V3: -32
-    AUDI_KNOCK_RETARD_2: 21
+    Q7_EOT: -32
   response: 7E8056210E61C72
 - expected_values:
-    AUDI_EOT_V3: -32
-    AUDI_KNOCK_RETARD_2: 21
+    Q7_EOT: -32
   response: 7E8056210E61CB0
 - expected_values:
-    AUDI_EOT_V3: -31
-    AUDI_KNOCK_RETARD_2: 21.75
+    Q7_EOT: -31
   response: 7E8056210E61D4C

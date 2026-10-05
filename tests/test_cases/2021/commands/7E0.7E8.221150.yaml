@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221150
 test_cases:
 - expected_values:
-    AUDI_MISFIRES_C3_ECM: 14875
+    Q7_MISFIRES_C3_ECM: 14875
   response: 7E8056211503A1B
 - expected_values:
-    AUDI_MISFIRES_C3_ECM: 15102
+    Q7_MISFIRES_C3_ECM: 15102
   response: 7E8056211503AFE
 - expected_values:
-    AUDI_MISFIRES_C3_ECM: 15104
+    Q7_MISFIRES_C3_ECM: 15104
   response: 7E8056211503B00

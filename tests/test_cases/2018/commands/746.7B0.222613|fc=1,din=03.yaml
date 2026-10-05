@@ -1,14 +1,11 @@
 command_id: 746.7B0.222613|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_C7_CABIN_T: 0
-    AUDI_CABIN_T: 0
+    Q7_C7_CABIN_T: 0
   response: 7B0056226130000
 - expected_values:
-    AUDI_C7_CABIN_T: 0.99609
-    AUDI_CABIN_T: 25.5
+    Q7_C7_CABIN_T: 0.99609
   response: 7B00562261300FF
 - expected_values:
-    AUDI_C7_CABIN_T: -0.58984
-    AUDI_CABIN_T: -15.1
+    Q7_C7_CABIN_T: -0.58984
   response: 7B005622613FF69

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210BE
 test_cases:
 - expected_values:
-    AUDI_REQ_TQ_AMOUNT: 0
+    Q7_REQ_TQ_AMOUNT: 0
   response: 7E8056210BE0000
 - expected_values:
-    AUDI_REQ_TQ_AMOUNT: 12.1
+    Q7_REQ_TQ_AMOUNT: 12.1
   response: 7E8056210BE0079
 - expected_values:
-    AUDI_REQ_TQ_AMOUNT: 17.5
+    Q7_REQ_TQ_AMOUNT: 17.5
   response: 7E8056210BE00AF

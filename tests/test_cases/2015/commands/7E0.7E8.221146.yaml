@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221146
 test_cases:
 - expected_values:
-    AUDI_MISFIRES_TOTAL: 65502
+    Q7_MISFIRES_TOTAL: 65502
   response: 7E805621146FFDE
 - expected_values:
-    AUDI_MISFIRES_TOTAL: 65503
+    Q7_MISFIRES_TOTAL: 65503
   response: 7E805621146FFDF
 - expected_values:
-    AUDI_MISFIRES_TOTAL: 65504
+    Q7_MISFIRES_TOTAL: 65504
   response: 7E805621146FFE0
 - expected_values:
-    AUDI_MISFIRES_TOTAL: 65505
+    Q7_MISFIRES_TOTAL: 65505
   response: 7E805621146FFE1

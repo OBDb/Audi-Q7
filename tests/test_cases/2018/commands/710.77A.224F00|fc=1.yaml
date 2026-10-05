@@ -1,23 +1,23 @@
 command_id: 710.77A.224F00|fc=1
 test_cases:
 - expected_values:
-    AUDI_GEN_V_ACT: 10.6
+    Q7_GEN_V_ACT: 10.6
   response: 77A04624F0000
 - expected_values:
-    AUDI_GEN_V_ACT: 13.5
+    Q7_GEN_V_ACT: 13.5
   response: 77A04624F001D
 - expected_values:
-    AUDI_GEN_V_ACT: 14.8
+    Q7_GEN_V_ACT: 14.8
   response: 77A04624F002A
 - expected_values:
-    AUDI_GEN_V_ACT: 14.9
+    Q7_GEN_V_ACT: 14.9
   response: 77A04624F002B
 - expected_values:
-    AUDI_GEN_V_ACT: 15
+    Q7_GEN_V_ACT: 15
   response: 77A04624F002C
 - expected_values:
-    AUDI_GEN_V_ACT: 15.5
+    Q7_GEN_V_ACT: 15.5
   response: 77A04624F0031
 - expected_values:
-    AUDI_GEN_V_ACT: 15.6
+    Q7_GEN_V_ACT: 15.6
   response: 77A04624F0032

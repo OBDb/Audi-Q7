@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.2225CF
 test_cases:
 - expected_values:
-    AUDI_OIL_P_TGT: 200
+    Q7_OIL_P_TGT: 200
   response: 7E8056225CF07D0
 - expected_values:
-    AUDI_OIL_P_TGT: 209.9
+    Q7_OIL_P_TGT: 209.9
   response: 7E8056225CF0833
 - expected_values:
-    AUDI_OIL_P_TGT: 233.1
+    Q7_OIL_P_TGT: 233.1
   response: 7E8056225CF091B
 - expected_values:
-    AUDI_OIL_P_TGT: 267.1
+    Q7_OIL_P_TGT: 267.1
   response: 7E8056225CF0A6F
 - expected_values:
-    AUDI_OIL_P_TGT: 289.6
+    Q7_OIL_P_TGT: 289.6
   response: 7E8056225CF0B50
 - expected_values:
-    AUDI_OIL_P_TGT: 330
+    Q7_OIL_P_TGT: 330
   response: 7E8056225CF0CE4
 - expected_values:
-    AUDI_OIL_P_TGT: 357.9
+    Q7_OIL_P_TGT: 357.9
   response: 7E8056225CF0DFB
 - expected_values:
-    AUDI_OIL_P_TGT: 385
+    Q7_OIL_P_TGT: 385
   response: 7E8056225CF0F0A
 - expected_values:
-    AUDI_OIL_P_TGT: 419.5
+    Q7_OIL_P_TGT: 419.5
   response: 7E8056225CF1063

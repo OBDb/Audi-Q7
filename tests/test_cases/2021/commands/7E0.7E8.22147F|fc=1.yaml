@@ -1,22 +1,17 @@
 command_id: 7E0.7E8.22147F|fc=1
 test_cases:
 - expected_values:
-    AUDI_MIS_CNT_4: 0
-    AUDI_MOTOR_TQ: 0
+    Q7_MIS_CNT_4: 0
   response: 7E80562147F0000
 - expected_values:
-    AUDI_MIS_CNT_4: 65358
-    AUDI_MOTOR_TQ: -59.33333
+    Q7_MIS_CNT_4: 65358
   response: 7E80562147FFF4E
 - expected_values:
-    AUDI_MIS_CNT_4: 65386
-    AUDI_MOTOR_TQ: -50
+    Q7_MIS_CNT_4: 65386
   response: 7E80562147FFF6A
 - expected_values:
-    AUDI_MIS_CNT_4: 65413
-    AUDI_MOTOR_TQ: -41
+    Q7_MIS_CNT_4: 65413
   response: 7E80562147FFF85
 - expected_values:
-    AUDI_MIS_CNT_4: 65440
-    AUDI_MOTOR_TQ: -32
+    Q7_MIS_CNT_4: 65440
   response: 7E80562147FFFA0

@@ -1,6 +1,5 @@
 command_id: 7E0.7E8.22417D
 test_cases:
 - expected_values:
-    AUDI_EXH_PHASE_DEV_AFTER: 0
-    AUDI_TIM_DEV_AFTER_CHAIN_REPLACEMENT_1: 0
+    Q7_EXH_PHASE_DEV_AFTER: 0
   response: 7E80562417D0000

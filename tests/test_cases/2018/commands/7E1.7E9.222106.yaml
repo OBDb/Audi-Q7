@@ -1,26 +1,29 @@
 command_id: 7E1.7E9.222106
 test_cases:
 - expected_values:
-    AUDI_VSS_HR: 0
+    Q7_VSS_HR: 0
   response: '7E9056221060000'
 - expected_values:
-    AUDI_VSS_HR: 8.82
+    Q7_VSS_HR: 8.82
   response: '7E9056221060372'
 - expected_values:
-    AUDI_VSS_HR: 9.48
+    Q7_VSS_HR: 9.48
   response: 7E90562210603B4
 - expected_values:
-    AUDI_VSS_HR: 19.08
+    Q7_VSS_HR: 19.08
   response: '7E9056221060774'
 - expected_values:
-    AUDI_VSS_HR: 29.22
+    Q7_VSS_HR: 29.22
   response: 7E9056221060B6A
 - expected_values:
-    AUDI_VSS_HR: 39.06
+    Q7_VSS_HR: 39.06
   response: 7E9056221060F42
 - expected_values:
-    AUDI_VSS_HR: 63.06
+    Q7_VSS_HR: 46.98
+  response: 7E905622106125A
+- expected_values:
+    Q7_VSS_HR: 63.06
   response: 7E90562210618A2
 - expected_values:
-    AUDI_VSS_HR: 79.86
+    Q7_VSS_HR: 79.86
   response: 7E9056221061F32

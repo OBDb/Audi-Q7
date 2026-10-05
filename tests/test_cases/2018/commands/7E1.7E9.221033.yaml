@@ -1,26 +1,29 @@
 command_id: 7E1.7E9.221033
 test_cases:
 - expected_values:
-    AUDI_TIME_SINCE_SHIFT: 60
+    Q7_TIME_SINCE_SHIFT: 60
   response: '7E90462103302'
 - expected_values:
-    AUDI_TIME_SINCE_SHIFT: 1080
+    Q7_TIME_SINCE_SHIFT: 600
+  response: '7E90462103314'
+- expected_values:
+    Q7_TIME_SINCE_SHIFT: 1080
   response: '7E90462103324'
 - expected_values:
-    AUDI_TIME_SINCE_SHIFT: 1410
+    Q7_TIME_SINCE_SHIFT: 1410
   response: 7E9046210332F
 - expected_values:
-    AUDI_TIME_SINCE_SHIFT: 3180
+    Q7_TIME_SINCE_SHIFT: 3180
   response: 7E9046210336A
 - expected_values:
-    AUDI_TIME_SINCE_SHIFT: 4320
+    Q7_TIME_SINCE_SHIFT: 4320
   response: '7E90462103390'
 - expected_values:
-    AUDI_TIME_SINCE_SHIFT: 5850
+    Q7_TIME_SINCE_SHIFT: 5850
   response: 7E904621033C3
 - expected_values:
-    AUDI_TIME_SINCE_SHIFT: 6270
+    Q7_TIME_SINCE_SHIFT: 6270
   response: 7E904621033D1
 - expected_values:
-    AUDI_TIME_SINCE_SHIFT: 6510
+    Q7_TIME_SINCE_SHIFT: 6510
   response: 7E904621033D9

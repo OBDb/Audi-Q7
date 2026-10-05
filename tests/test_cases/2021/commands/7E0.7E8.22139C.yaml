@@ -10,6 +10,9 @@ test_cases:
     Q7_EGT_LAMBDA_SENS_1: 480.3
   response: 7E80562139C1D6E
 - expected_values:
+    Q7_EGT_LAMBDA_SENS_1: 507.8
+  response: 7E80562139C1E81
+- expected_values:
     Q7_EGT_LAMBDA_SENS_1: 522.9
   response: 7E80562139C1F18
 - expected_values:

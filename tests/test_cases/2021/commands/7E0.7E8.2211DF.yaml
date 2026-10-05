@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211DF
 test_cases:
 - expected_values:
+    Q7_POWERTRAIN_OVERALL: 2.62
+  response: 7E8056211DF0106
+- expected_values:
     Q7_POWERTRAIN_OVERALL: 3.2
   response: 7E8056211DF0140
 - expected_values:

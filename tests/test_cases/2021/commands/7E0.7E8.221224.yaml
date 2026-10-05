@@ -4,5 +4,8 @@ test_cases:
     Q7_TQ_LOSS_ADPT_GEAR: 0
   response: '7E8056212240000'
 - expected_values:
+    Q7_TQ_LOSS_ADPT_GEAR: 0.8
+  response: '7E8056212240008'
+- expected_values:
     Q7_TQ_LOSS_ADPT_GEAR: -2.2
   response: 7E805621224FFEA

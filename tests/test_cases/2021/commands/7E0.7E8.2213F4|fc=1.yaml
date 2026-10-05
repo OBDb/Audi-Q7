@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2213F4|fc=1
 test_cases:
 - expected_values:
+    Q7_KNOCK_RETARD_CYL_3: -2.25
+  response: 7E8056213F47ABD
+- expected_values:
     Q7_KNOCK_RETARD_CYL_3: -1.125
   response: 7E8056213F47DAF
 - expected_values:

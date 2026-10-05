@@ -4,6 +4,9 @@ test_cases:
     Q7_VARIABLE_VLV_TIM_INT_1: 6.7871
   response: 7E80562127B08B0
 - expected_values:
+    Q7_VARIABLE_VLV_TIM_INT_1: 36.09616
+  response: 7E80562127B2E34
+- expected_values:
     Q7_VARIABLE_VLV_TIM_INT_1: 43.88118
   response: 7E80562127B382B
 - expected_values:

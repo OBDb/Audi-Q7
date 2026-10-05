@@ -1,6 +1,31 @@
 command_id: 70E.778.225036|fc=1,din=03
 test_cases:
 - expected_values:
+    Q7_HUMIDITY_SENS_REL: 18.315
+  response: |-
+    778100C625036009700
+    778212501DB02F200AA
+- expected_values:
+    Q7_HUMIDITY_SENS_REL: 17.82
+  response: |-
+    778100C625036009800
+    778212401DA02F700AA
+- expected_values:
+    Q7_HUMIDITY_SENS_REL: 16.335
+  response: |-
+    778100C625036009F00
+    778212101E9031900AA
+- expected_values:
+    Q7_HUMIDITY_SENS_REL: 15.345
+  response: |-
+    778100C62503600AD00
+    778211F0211035D00AA
+- expected_values:
+    Q7_HUMIDITY_SENS_REL: 17.325
+  response: |-
+    778100C62503600B100
+    77821230239037500AA
+- expected_values:
     Q7_HUMIDITY_SENS_REL: 13.86
   response: |-
     778100C62503600C800

@@ -10,6 +10,9 @@ test_cases:
     Q7_MOTOR_RPM_ECM: 578.5
   response: 7E80562149A090A
 - expected_values:
+    Q7_MOTOR_RPM_ECM: 779
+  response: 7E80562149A0C2C
+- expected_values:
     Q7_MOTOR_RPM_ECM: 917
   response: 7E80562149A0E54
 - expected_values:

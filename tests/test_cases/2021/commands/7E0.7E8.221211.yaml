@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221211
 test_cases:
 - expected_values:
+    Q7_KNOCK_SENS_CYL_6: 0.01685
+  response: 7E8076212110000565C
+- expected_values:
     Q7_KNOCK_SENS_CYL_6: 0.03079
   response: 7E80762121100009DD9
 - expected_values:

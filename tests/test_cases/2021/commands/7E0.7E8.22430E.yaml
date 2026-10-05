@@ -4,6 +4,9 @@ test_cases:
     Q7_NUM_INJECTIONS: 6273
   response: 7E80562430E1881
 - expected_values:
+    Q7_NUM_INJECTIONS: 14836
+  response: 7E80562430E39F4
+- expected_values:
     Q7_NUM_INJECTIONS: 29101
   response: 7E80562430E71AD
 - expected_values:

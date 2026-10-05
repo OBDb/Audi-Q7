@@ -10,6 +10,9 @@ test_cases:
     Q7_ACCEL_7E0: 0.406
   response: 7E8056212B00196
 - expected_values:
+    Q7_ACCEL_7E0: 0.788
+  response: 7E8056212B00314
+- expected_values:
     Q7_ACCEL_7E0: -0.266
   response: 7E8056212B0FEF6
 - expected_values:

@@ -4,6 +4,9 @@ test_cases:
     Q7_FUEL_RATE_DIFF_INJ: 0.03125
   response: 7E80562180A0008
 - expected_values:
+    Q7_FUEL_RATE_DIFF_INJ: 0.20703
+  response: 7E80562180A0035
+- expected_values:
     Q7_FUEL_RATE_DIFF_INJ: -3.19918
   response: 7E80562180AFCCD
 - expected_values:

@@ -7,5 +7,8 @@ test_cases:
     Q7_MAF_CMD: 84.4
   response: 7E8056211AD034C
 - expected_values:
+    Q7_MAF_CMD: 105.8
+  response: 7E8056211AD0422
+- expected_values:
     Q7_MAF_CMD: 199.8
   response: 7E8056211AD07CE

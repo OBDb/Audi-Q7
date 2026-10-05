@@ -7,5 +7,8 @@ test_cases:
     Q7_INT_MODEL_AIR_MASS: 26.7
   response: 7E8056211AB010B
 - expected_values:
+    Q7_INT_MODEL_AIR_MASS: 38.8
+  response: 7E8056211AB0184
+- expected_values:
     Q7_INT_MODEL_AIR_MASS: 60
   response: 7E8056211AB0258

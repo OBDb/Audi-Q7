@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_BRAKE_BOOSTER_ACT: 926.44
   response: 7E8056214905A79
+- expected_values:
+    Q7_BRAKE_BOOSTER_ACT: 958.88
+  response: 7E8056214905DA4

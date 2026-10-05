@@ -4,5 +4,8 @@ test_cases:
     Q7_TQ_LOSS_ADPT_IDLE: -5.7
   response: 7E805621225FFC7
 - expected_values:
+    Q7_TQ_LOSS_ADPT_IDLE: -4.3
+  response: 7E805621225FFD5
+- expected_values:
     Q7_TQ_LOSS_ADPT_IDLE: -4.2
   response: 7E805621225FFD6

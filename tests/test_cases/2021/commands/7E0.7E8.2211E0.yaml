@@ -7,5 +7,8 @@ test_cases:
     Q7_CMD_CRANK_TQ: 48.1
   response: 7E8056211E001E1
 - expected_values:
+    Q7_CMD_CRANK_TQ: 189.4
+  response: 7E8056211E00766
+- expected_values:
     Q7_CMD_CRANK_TQ: -30.2
   response: 7E8056211E0FED2

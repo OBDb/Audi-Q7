@@ -4,6 +4,9 @@ test_cases:
     Q7_FUEL_CONS_ACT_DRIVE: 0.18
   response: '7E8056215190012'
 - expected_values:
+    Q7_FUEL_CONS_ACT_DRIVE: 0.35
+  response: '7E8056215190023'
+- expected_values:
     Q7_FUEL_CONS_ACT_DRIVE: 0.79
   response: 7E805621519004F
 - expected_values:

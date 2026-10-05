@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22F40D
+test_cases:
+- expected_values:
+    Q7_VSS_7E1: 21
+  response: 7E90462F40D15
+- expected_values:
+    Q7_VSS_7E1: 41
+  response: 7E90462F40D29
+- expected_values:
+    Q7_VSS_7E1: 63
+  response: 7E90462F40D3F
+- expected_values:
+    Q7_VSS_7E1: 67
+  response: 7E90462F40D43

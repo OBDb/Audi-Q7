@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221064|din=03
+test_cases:
+- expected_values:
+    Q7_ECT_ENG_OUTLET_CALC: 34
+  response: 7E8056210640BFF
+- expected_values:
+    Q7_ECT_ENG_OUTLET_CALC: 39.5
+  response: 7E8056210640C36
+- expected_values:
+    Q7_ECT_ENG_OUTLET_CALC: 41.9
+  response: 7E8056210640C4E
+- expected_values:
+    Q7_ECT_ENG_OUTLET_CALC: 47.2
+  response: 7E8056210640C83

@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_ENG_TQ_7E1: 18
   response: '7E9056220020012'
+- expected_values:
+    Q7_ENG_TQ_7E1: 224
+  response: 7E90562200200E0

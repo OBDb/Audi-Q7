@@ -10,6 +10,9 @@ test_cases:
     Q7_HVBAT_CELL_SUM_V: 11.76465
   response: 7ED06621E3C00BC3C
 - expected_values:
+    Q7_HVBAT_CELL_SUM_V: 11.82837
+  response: 7ED06621E3C00BD41
+- expected_values:
     Q7_HVBAT_CELL_SUM_V: 11.84644
   response: 7ED06621E3C00BD8B
 - expected_values:

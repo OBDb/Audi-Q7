@@ -19,5 +19,8 @@ test_cases:
     Q7_PQ35_CAMS_EDGE_POS_2: 663.125
   response: 7E8056211892B72
 - expected_values:
+    Q7_PQ35_CAMS_EDGE_POS_2: 674.4375
+  response: 7E8056211892C27
+- expected_values:
     Q7_PQ35_CAMS_EDGE_POS_2: 4063.937
   response: 7E805621189FFFF

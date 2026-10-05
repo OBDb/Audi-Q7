@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_EM_TORQ_1: 512
   response: '7E8056211534000'
+- expected_values:
+    Q7_EM_TORQ_1: 523.96875
+  response: 7E805621153417F

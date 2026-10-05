@@ -4,6 +4,9 @@ test_cases:
     Q7_BOOST_P_ACT: 990.23438
   response: 7E8056211F03183
 - expected_values:
+    Q7_BOOST_P_ACT: 1001.25
+  response: 7E8056211F03210
+- expected_values:
     Q7_BOOST_P_ACT: 1021.5625
   response: 7E8056211F03314
 - expected_values:

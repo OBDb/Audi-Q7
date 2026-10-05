@@ -4,6 +4,9 @@ test_cases:
     Q7_LATERAL_ACCEL: 0.01
   response: '7E8056216440001'
 - expected_values:
+    Q7_LATERAL_ACCEL: 0.04
+  response: '7E8056216440004'
+- expected_values:
     Q7_LATERAL_ACCEL: -0.07
   response: 7E805621644FFF9
 - expected_values:

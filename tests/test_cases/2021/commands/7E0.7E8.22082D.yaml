@@ -7,5 +7,8 @@ test_cases:
     Q7_EXH_GAS_T_BEFORE_GPF: 595.4
   response: 7E80562082D21ED
 - expected_values:
+    Q7_EXH_GAS_T_BEFORE_GPF: 635.1
+  response: 7E80562082D237A
+- expected_values:
     Q7_EXH_GAS_T_BEFORE_GPF: 675.3
   response: 7E80562082D250C

@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_P_BEFORE_THROTTLE: 993.43714
   response: 7E8056211EF6358
+- expected_values:
+    Q7_P_BEFORE_THROTTLE: 1023.0465
+  response: 7E8056211EF664E

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221291
 test_cases:
 - expected_values:
+    Q7_CLT_ENG_START: 47.8
+  response: 7E8056212910C89
+- expected_values:
     Q7_CLT_ENG_START: 65.1
   response: 7E8056212910D36
 - expected_values:

@@ -4,6 +4,9 @@ test_cases:
     Q7_COOLING_FAN_2: 30.07
   response: 7E80562112E0BBF
 - expected_values:
+    Q7_COOLING_FAN_2: 46.09
+  response: 7E80562112E1201
+- expected_values:
     Q7_COOLING_FAN_2: 71.87
   response: 7E80562112E1C13
 - expected_values:

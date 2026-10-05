@@ -4,6 +4,9 @@ test_cases:
     Q7_EXH_GAS_T: 420.8
   response: 7E80562F43C1200
 - expected_values:
+    Q7_EXH_GAS_T: 617.1
+  response: 7E80562F43C19AB
+- expected_values:
     Q7_EXH_GAS_T: 639.8
   response: 7E80562F43C1A8E
 - expected_values:

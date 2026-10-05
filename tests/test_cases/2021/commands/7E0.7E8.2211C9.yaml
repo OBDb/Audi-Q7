@@ -4,6 +4,9 @@ test_cases:
     Q7_FUEL_PMP_ADPT: 1.3
   response: 7E8056211C9000D
 - expected_values:
+    Q7_FUEL_PMP_ADPT: 2.4
+  response: 7E8056211C90018
+- expected_values:
     Q7_FUEL_PMP_ADPT: 2.8
   response: 7E8056211C9001C
 - expected_values:

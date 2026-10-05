@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
+    Q7_CYL_HEAD_T_ACT: 83.4
+  response: 7E8056210650DED
+- expected_values:
     Q7_CYL_HEAD_T_ACT: 92.5
   response: 7E8056210650E48
 - expected_values:

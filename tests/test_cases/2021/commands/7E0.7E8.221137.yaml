@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_FUEL_PART_EVAP: 0.10153
   response: 7E8046211370D
+- expected_values:
+    Q7_FUEL_PART_EVAP: 0.13277
+  response: '7E80462113711'

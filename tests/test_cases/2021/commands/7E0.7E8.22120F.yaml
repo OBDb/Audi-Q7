@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     Q7_KNOCK_SENS_CYL_4: 0.04865
   response: 7E80762120F0000F960
+- expected_values:
+    Q7_KNOCK_SENS_CYL_4: 0.06557
+  response: 7E80762120F00015022

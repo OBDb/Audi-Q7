@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222105
+test_cases:
+- expected_values:
+    Q7_TQ_TRANSMITTING: 2.6
+  response: 7E905622105001A
+- expected_values:
+    Q7_TQ_TRANSMITTING: 4.2
+  response: 7E905622105002A

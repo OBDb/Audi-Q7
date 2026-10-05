@@ -13,6 +13,9 @@ test_cases:
     Q7_AUX_PWR: 896
   response: 7E80562107700E0
 - expected_values:
+    Q7_AUX_PWR: 960
+  response: 7E80562107700F0
+- expected_values:
     Q7_AUX_PWR: 1280
   response: '7E8056210770140'
 - expected_values:

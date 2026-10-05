@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_INT_MANIFOLD_P_CMD: 531.79688
   response: 7E8056211DD1A97
+- expected_values:
+    Q7_INT_MANIFOLD_P_CMD: 945.9375
+  response: 7E8056211DD2F4C

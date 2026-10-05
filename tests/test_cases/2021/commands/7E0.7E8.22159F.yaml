@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_HIGH_FUEL_P_ACT: 21.278
   response: 7E80562159FA63C
+- expected_values:
+    Q7_HIGH_FUEL_P_ACT: 25.006
+  response: 7E80562159FC35C

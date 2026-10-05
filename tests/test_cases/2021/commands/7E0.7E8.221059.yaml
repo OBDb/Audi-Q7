@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_ACCEL_PEDAL_TQ_LIM: 85.3
   response: '7E8056210590355'
+- expected_values:
+    Q7_ACCEL_PEDAL_TQ_LIM: 129.6
+  response: '7E8056210590510'

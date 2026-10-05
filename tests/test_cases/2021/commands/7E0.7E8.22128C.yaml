@@ -4,6 +4,9 @@ test_cases:
     Q7_MEDIAN_INJ_TIM: 2.993
   response: 7E80762128C00000BB1
 - expected_values:
+    Q7_MEDIAN_INJ_TIM: 3.517
+  response: 7E80762128C00000DBD
+- expected_values:
     Q7_MEDIAN_INJ_TIM: 3.535
   response: 7E80762128C00000DCF
 - expected_values:

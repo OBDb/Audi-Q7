@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q7_CAM_ADPT_EXH_BANK_1: -1.27443
   response: 7E805621128FFC6
+- expected_values:
+    Q7_CAM_ADPT_EXH_BANK_1: -1.1426
+  response: 7E805621128FFCC

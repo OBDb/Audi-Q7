@@ -16,6 +16,11 @@ test_cases:
     77D1009622B210ADA0A
     77D21CC0AD800000000
 - expected_values:
+    Q7_BREAK_P: 0.00012
+  response: |-
+    77D1009622B210ADA0A
+    77D21CE0AD400000000
+- expected_values:
     Q7_BREAK_P: 32.17581
   response: |-
     77D1009622B21131112

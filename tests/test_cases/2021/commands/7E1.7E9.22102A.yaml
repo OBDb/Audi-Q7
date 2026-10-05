@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.22102A
 test_cases:
 - expected_values:
+    Q7_CURRENT_N443_P_CTRL_7_P: 581.6
+  response: 7E90562102A16B8
+- expected_values:
     Q7_CURRENT_N443_P_CTRL_7_P: 623.1
   response: 7E90562102A1857
 - expected_values:

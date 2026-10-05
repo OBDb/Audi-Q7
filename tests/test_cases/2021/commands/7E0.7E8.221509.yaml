@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q7_BAROMETRIC_P: 101.264
   response: 7E80562150962E4
+- expected_values:
+    Q7_BAROMETRIC_P: 101.384
+  response: '7E8056215096302'

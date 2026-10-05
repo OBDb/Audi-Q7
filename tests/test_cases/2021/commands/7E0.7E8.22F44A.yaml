@@ -10,6 +10,9 @@ test_cases:
     Q7_ACCEL_PEDAL_POS_2: 26.27451
   response: 7E80462F44A43
 - expected_values:
+    Q7_ACCEL_PEDAL_POS_2: 29.01961
+  response: 7E80462F44A4A
+- expected_values:
     Q7_ACCEL_PEDAL_POS_2: 34.5098
   response: 7E80462F44A58
 - expected_values:

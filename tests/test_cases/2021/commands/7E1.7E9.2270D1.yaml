@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.2270D1
+test_cases:
+- expected_values:
+    Q7_SHIFT_PROCCESS: 5
+    Q7_SHIFT_PROCCESS_TGT: 5
+  response: 7E9056270D10505
+- expected_values:
+    Q7_SHIFT_PROCCESS: 6
+    Q7_SHIFT_PROCCESS_TGT: 5
+  response: 7E9056270D10506
+- expected_values:
+    Q7_SHIFT_PROCCESS: 7
+    Q7_SHIFT_PROCCESS_TGT: 7
+  response: 7E9056270D10707

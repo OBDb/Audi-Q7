@@ -7,6 +7,9 @@ test_cases:
     Q7_FLI_INPUT: 54.90196
   response: 7E80462F42F8C
 - expected_values:
+    Q7_FLI_INPUT: 55.68627
+  response: 7E80462F42F8E
+- expected_values:
     Q7_FLI_INPUT: 56.86275
   response: 7E80462F42F91
 - expected_values:

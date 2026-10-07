@@ -20,3 +20,8 @@ test_cases:
   response: |-
     7E91009621120418000
     7E9210001FB00000000
+- expected_values:
+    Q7_CLU_1_LO_ADPT_POINT: 16.781
+  response: |-
+    7E91009621120418D00
+    7E9210001FD00000000

@@ -19,6 +19,9 @@ test_cases:
     Q7_DPF_STATISTICS_T: 187
   response: 7E80562157C11F9
 - expected_values:
+    Q7_DPF_STATISTICS_T: 188.1
+  response: 7E80562157C1204
+- expected_values:
     Q7_DPF_STATISTICS_T: 190.9
   response: 7E80562157C1220
 - expected_values:

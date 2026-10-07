@@ -4,26 +4,5 @@ test_cases:
     Q7_ODO_7E1_2: 112408
   response: 7E90662103D01B718
 - expected_values:
-    Q7_ODO_7E1_2: 112411
-  response: 7E90662103D01B71B
-- expected_values:
-    Q7_ODO_7E1_2: 112414
-  response: 7E90662103D01B71E
-- expected_values:
-    Q7_ODO_7E1_2: 112421
-  response: 7E90662103D01B725
-- expected_values:
-    Q7_ODO_7E1_2: 112425
-  response: 7E90662103D01B729
-- expected_values:
-    Q7_ODO_7E1_2: 112428
-  response: 7E90662103D01B72C
-- expected_values:
-    Q7_ODO_7E1_2: 112430
-  response: 7E90662103D01B72E
-- expected_values:
-    Q7_ODO_7E1_2: 112436
-  response: 7E90662103D01B734
-- expected_values:
-    Q7_ODO_7E1_2: 112439
-  response: 7E90662103D01B737
+    Q7_ODO_7E1_2: 112477
+  response: 7E90662103D01B75D

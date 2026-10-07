@@ -10,5 +10,5 @@ test_cases:
     Q7_P_BRAKE_SERVO_UNIT: -928.9375
   response: 77D05622005C5F1
 - expected_values:
-    Q7_P_BRAKE_SERVO_UNIT: -802.9375
-  response: 77D05622005CDD1
+    Q7_P_BRAKE_SERVO_UNIT: -756.8125
+  response: 77D05622005D0B3

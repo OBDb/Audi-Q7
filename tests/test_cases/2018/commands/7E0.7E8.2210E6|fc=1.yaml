@@ -4,20 +4,8 @@ test_cases:
     Q7_EOT: -46
   response: 7E8056210E60ED7
 - expected_values:
-    Q7_EOT: -45
-  response: 7E8056210E60FA5
-- expected_values:
-    Q7_EOT: -43
-  response: 7E8056210E61138
-- expected_values:
-    Q7_EOT: -33
-  response: 7E8056210E61B5B
-- expected_values:
-    Q7_EOT: -32
-  response: 7E8056210E61C72
-- expected_values:
-    Q7_EOT: -32
-  response: 7E8056210E61CB0
+    Q7_EOT: -36
+  response: 7E8056210E618FF
 - expected_values:
     Q7_EOT: -31
-  response: 7E8056210E61D4C
+  response: 7E8056210E61D08

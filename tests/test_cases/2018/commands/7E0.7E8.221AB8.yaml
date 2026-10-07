@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.221AB8
 test_cases:
 - expected_values:
-    Q7_FUEL_P_LOW_ACT: 113.7
-  response: 7E805621AB80471
+    Q7_FUEL_P_LOW_ACT: 94.8
+  response: 7E805621AB803B4
+- expected_values:
+    Q7_FUEL_P_LOW_ACT: 95.1
+  response: 7E805621AB803B7
 - expected_values:
     Q7_FUEL_P_LOW_ACT: 487.7
   response: 7E805621AB8130D

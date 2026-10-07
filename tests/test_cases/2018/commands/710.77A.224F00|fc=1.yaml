@@ -4,6 +4,9 @@ test_cases:
     Q7_GEN_V_ACT: 10.6
   response: 77A04624F0000
 - expected_values:
+    Q7_GEN_V_ACT: 12
+  response: 77A04624F000E
+- expected_values:
     Q7_GEN_V_ACT: 13.5
   response: 77A04624F001D
 - expected_values:

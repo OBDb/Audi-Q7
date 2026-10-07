@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.2211A9|din=03
 test_cases:
 - expected_values:
-    Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 845.4
-  response: 7E8056211A91083
-- expected_values:
-    Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 1031
-  response: 7E8056211A91423
-- expected_values:
-    Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 1163
-  response: 7E8056211A916B7
+    Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 840.6
+  response: 7E8056211A9106B
 - expected_values:
     Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 1480.8
   response: 7E8056211A91CEC
-- expected_values:
-    Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 1759.4
-  response: 7E8056211A9225D
-- expected_values:
-    Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 2003.6
-  response: 7E8056211A92722
-- expected_values:
-    Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 2160
-  response: 7E8056211A92A30
-- expected_values:
-    Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 2292
-  response: 7E8056211A92CC4
-- expected_values:
-    Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 2800.4
-  response: 7E8056211A936B2
 - expected_values:
     Q7_HIGH_P_EGR_ACTUATOR_ACT_V: 3230.4
   response: 7E8056211A93F18

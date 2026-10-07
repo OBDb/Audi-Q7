@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     Q7_SSB_SENSOR_T: 20
   response: 77A04622A0A3C
+- expected_values:
+    Q7_SSB_SENSOR_T: 22
+  response: 77A04622A0A3E

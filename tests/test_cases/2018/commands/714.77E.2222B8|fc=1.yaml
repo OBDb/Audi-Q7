@@ -4,11 +4,14 @@ test_cases:
     Q7_ODO_MILEAGE_HR: 112383.481
   response: 77E076222B806B2D5F9
 - expected_values:
-    Q7_ODO_MILEAGE_HR: 112383.712
-  response: 77E076222B806B2D6E0
-- expected_values:
     Q7_ODO_MILEAGE_HR: 112395.679
   response: 77E076222B806B3059F
 - expected_values:
     Q7_ODO_MILEAGE_HR: 112427.307
   response: 77E076222B806B3812B
+- expected_values:
+    Q7_ODO_MILEAGE_HR: 112454.789
+  response: 77E076222B806B3EC85
+- expected_values:
+    Q7_ODO_MILEAGE_HR: 112463.757
+  response: 77E076222B806B40F8D

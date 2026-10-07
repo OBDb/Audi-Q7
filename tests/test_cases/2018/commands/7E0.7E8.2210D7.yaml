@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2210D7
 test_cases:
 - expected_values:
+    Q7_INJ_4_RAIL_P_2: 0.006
+  response: 7E8056210D70078
+- expected_values:
     Q7_INJ_4_RAIL_P_2: 0.0068
   response: 7E8056210D70088

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    Q7_FLI_INPUT: 45.88235
-  response: 7E80462F42F75
+    Q7_FLI_INPUT: 31.76471
+  response: 7E80462F42F51
 - expected_values:
     Q7_FLI_INPUT: 65.88235
   response: 7E80462F42FA8

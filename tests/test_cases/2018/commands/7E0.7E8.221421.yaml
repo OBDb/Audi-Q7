@@ -4,6 +4,12 @@ test_cases:
     Q7_EGT_PRE_CAT_MODELED: null
   response: '7E8056214210000'
 - expected_values:
+    Q7_EGT_PRE_CAT_MODELED: -262
+  response: 7E805621421006F
+- expected_values:
+    Q7_EGT_PRE_CAT_MODELED: -191.4
+  response: '7E8056214210331'
+- expected_values:
     Q7_EGT_PRE_CAT_MODELED: 59.2
   response: 7E8056214210CFB
 - expected_values:

@@ -4,6 +4,9 @@ test_cases:
     Q7_DPF_SFC_T: null
   response: '7E8056210440000'
 - expected_values:
+    Q7_DPF_SFC_T: -273
+  response: '7E8056210440001'
+- expected_values:
     Q7_DPF_SFC_T: 6177.9
   response: 7E805621044FBFE
 - expected_values:

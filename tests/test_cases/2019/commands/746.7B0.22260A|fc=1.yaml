@@ -4,6 +4,9 @@ test_cases:
     Q7_OUTSIDE_T_SYSTEM: 0
   response: 7B00562260A0000
 - expected_values:
+    Q7_OUTSIDE_T_SYSTEM: null
+  response: 7B00562260A7D02
+- expected_values:
     Q7_OUTSIDE_T_SYSTEM: -6.8
   response: 7B00562260AFFBC
 - expected_values:

@@ -30,3 +30,8 @@ test_cases:
   response: |-
     77A100A622AB6010401
     77A210407FD01AAAAAA
+- expected_values:
+    Q7_RANGE_V2: 525
+  response: |-
+    77A100A622AB6020D02
+    77A210D07FD01AAAAAA

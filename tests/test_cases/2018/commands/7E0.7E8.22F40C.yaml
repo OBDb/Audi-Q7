@@ -4,8 +4,8 @@ test_cases:
     Q7_RPM: 0
   response: 7E80562F40C0000
 - expected_values:
-    Q7_RPM: 895.5
-  response: 7E80562F40C0DFE
+    Q7_RPM: 703.5
+  response: 7E80562F40C0AFE
 - expected_values:
     Q7_RPM: 3164
   response: 7E80562F40C3170

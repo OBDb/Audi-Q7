@@ -10,8 +10,8 @@ test_cases:
     Q7_PQ35_ODO_2: 104959
   response: 7E8076216A9000199FF
 - expected_values:
-    Q7_PQ35_ODO_2: 112395
-  response: 7E8076216A90001B70B
+    Q7_PQ35_ODO_2: 112832
+  response: 7E8076216A90001B8C0
 - expected_values:
     Q7_PQ35_ODO_2: null
   response: 7E8076216A9FFFFFFFF

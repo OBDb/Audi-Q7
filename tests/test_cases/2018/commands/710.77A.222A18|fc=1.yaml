@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     Q7_ENTIRE_ENERGY: 30419.1
   response: 77A06622A1804A43F
+- expected_values:
+    Q7_ENTIRE_ENERGY: 30548.1
+  response: 77A06622A1804A949

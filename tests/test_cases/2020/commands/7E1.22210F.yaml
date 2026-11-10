@@ -1,20 +1,17 @@
 command_id: 7E1.22210F
 test_cases:
 - expected_values:
-    Q7_GEAR: 1
+    Q7_GEAR: REVERSE
   response: 7E90462210F01
 - expected_values:
-    Q7_GEAR: 2
-  response: 7E90462210F02
-- expected_values:
-    Q7_GEAR: 3
+    Q7_GEAR: '1'
   response: 7E90462210F03
 - expected_values:
-    Q7_GEAR: 4
+    Q7_GEAR: '2'
   response: 7E90462210F04
 - expected_values:
-    Q7_GEAR: 5
+    Q7_GEAR: '3'
   response: 7E90462210F05
 - expected_values:
-    Q7_GEAR: 8
+    Q7_GEAR: '6'
   response: 7E90462210F08

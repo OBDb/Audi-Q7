@@ -1039,9 +1039,9 @@
   "signals": [
     {"id": "Q7_P_BEFORE_THROTTLE", "path": "Engine", "fmt": { "len": 16, "max": 2559, "mul": 21333, "div": 546125, "unit": "unknown" }, "name": "Pressure before throttle valve - sensor measured"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11F0"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11F0"}, "freq": 0.25, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "Q7_BOOST_P_ACT", "path": "Engine", "fmt": { "len": 16, "max": 5119, "mul": 5, "div": 64, "unit": "unknown" }, "name": "Boost pressure, actual"}
+    {"id": "Q7_BOOST_P_ACT", "path": "Engine", "fmt": { "len": 16, "max": 511, "div": 128, "unit": "kilopascal" }, "name": "Boost pressure, actual", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11F1"}, "freq": 0.25, "dbgfilter": { "to": 2014, "years": [2016], "from": 2022 },
   "signals": [
@@ -1952,9 +1952,20 @@
   "signals": [
     {"id": "Q7_TIRE_FR_SPD_V3", "path": "Movement", "fmt": { "len": 16, "max": 255, "div": 10, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "210F"}, "freq": 2, "dbgfilter": { "to": 2014, "years": [2016], "from": 2022 },
+{ "hdr": "7E1", "cmd": {"22": "210F"}, "freq": 0.25, "dbgfilter": { "to": 2014, "years": [2016], "from": 2022 },
   "signals": [
-    {"id": "Q7_GEAR", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Current gear", "description": "The automatic transmission gear."}
+    {"id": "Q7_GEAR", "path": "Transmission", "name": "Current gear", "description": "The automatic transmission gear.", "suggestedMetric": "gear", "fmt": {"len": 8, "map": {
+          "1":  { "description": "Reverse",      "value": "REVERSE" },
+          "3":  { "description": "First gear",   "value": "1" },
+          "4":  { "description": "Second gear",  "value": "2" },
+          "5":  { "description": "Third gear",   "value": "3" },
+          "6":  { "description": "Fourth gear",  "value": "4" },
+          "7":  { "description": "Fifth gear",   "value": "5" },
+          "8":  { "description": "Sixth gear",   "value": "6" },
+          "9":  { "description": "Seventh gear", "value": "7" },
+          "10": { "description": "Eighth gear",  "value": "8" }
+        }}
+    }
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "0301"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
   "signals": [

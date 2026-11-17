@@ -10,5 +10,8 @@ test_cases:
     Q7_ODO_7E1_2: 112640
   response: 7E90662103D01B800
 - expected_values:
-    Q7_ODO_7E1_2: 16777215
+    Q7_ODO_7E1_2: 113152
+  response: 7E90662103D01BA00
+- expected_values:
+    Q7_ODO_7E1_2: null
   response: 7E90662103DFFFFFF
